@@ -1,0 +1,25 @@
+{
+  "tom": {
+    "name": "Thomas Blobaum", 
+    "bio": "Born a Leo in the West and a tiger in the East on July 25th, 1986, two weeks from August 8th.",
+    "email": "tblobaum@icloud.com",
+    "github": "tblobaum",
+    "twitter": "tblobaum", 
+    "gab": "tblobaum", 
+    "parler": "tblobaum", 
+    "gettr": "tblobaum", 
+    "truth": "tblobaum"
+  }, 
+  "jimi": {
+    "name": "Jimi Light", 
+    "bio": "Born 8/17.",
+    "email": "",
+    "github": "",
+    "twitter": "", 
+    "gab": "", 
+    "parler": "", 
+    "gettr": "", 
+    "truth": ""
+  }, 
+}
+
