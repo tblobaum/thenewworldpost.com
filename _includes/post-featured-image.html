@@ -1,5 +1,7 @@
 {% if include.image %}
-<img class="feat-img" src="{{ site.baseurl }}/assets/images/{{ include.image }}" alt="{{ include.alt | default: '' }}" />
+<img class="feat-img" src="{{ site.baseurl }}/assets/images/{{ include.image }}" alt="{{ include.alt | default: '' }}" /> 
+<meta property="og:image" content="{{ site.baseurl }}/assets/images/{{ include.image }}" />
+
 {% else %}
 <img class="feat-img" src="{{ site.baseurl }}/assets/images/logo-w-dark.png" />
 {% endif %}
