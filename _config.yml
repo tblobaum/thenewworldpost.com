@@ -48,10 +48,11 @@ fixed: false
 plugins:
   - jekyll-feed
   # - jekyll-archives
-  # - jekyll-seo-tag
+  - jekyll-seo-tag
   # - jekyll-news-sitemap
   - jekyll-sitemap
-
+  - "jekyll-github-metadata"
+  
 # Archives
 collections:
   archives:
