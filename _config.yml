@@ -29,6 +29,7 @@ github_username:  tblobaum
 author: Thomas Blobaum
 logo: /assets/images/logo-erbaum-dark.png
 fixed: false
+og_image: /assets/images/opengraph.png
 
 # Build settings
 # theme: minima
