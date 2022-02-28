@@ -21,20 +21,43 @@
 title: The New World Post
 email: tblobaum@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A news website of curated stories, some of which are being kept in the dark. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://thenewworldpost.com/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: tomblobaum
+github_username:  tblobaum
+author: Thomas Blobaum
+logo: /assets/images/logo-erbaum-dark.png
+fixed: false
 
 # Build settings
 # theme: minima
+
+# theme: bombpress
+
+# jekyll-archives:
+#   enabled: all
+#   layout: archive
+#   permalinks:
+#     year: '/:year/'
+#     month: '/:year/:month/'
+#     day: '/:year/:month/:day/'
+#     tag: '/tag/:name/'
+#     category: '/category/:name/'
+
 plugins:
   - jekyll-feed
+  # - jekyll-archives
+  # - jekyll-seo-tag
+  # - jekyll-news-sitemap
+  - jekyll-sitemap
 
-theme: bombpress
+# Archives
+collections:
+  archives:
+    output: true
+    permalink: /archives/:path/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,4 +77,4 @@ theme: bombpress
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
-#   - vendor/ruby/
+#   - vendor/ruby/ 

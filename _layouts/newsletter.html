@@ -1,0 +1,37 @@
+---
+layout: none
+---
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style>
+a { color: #12ACE9; text-decoration: none }
+a:hover { color: #F94A96; }
+</style>
+</head>
+  <body>
+   {% for post in site.posts limit:1 %}
+    <table border="0" cellpadding="0" bgcolor="#ddd" cellspacing="0" height="100%" id="bodytable" style="width: 100%; height: 100%; margin: 0px; padding: 10px 0; min-width: 320px;" width="100%">
+      <tr>
+        <td align="center" style="background-color: #ddd; vertical-align: top;" valign="top">
+          <p><em>This newsletter is a rehash of the post published on <a href="{{ post.url }}" target="_blank" rel="noopener">{{ site.title }}</a> website.</em></p>
+          <table bgcolor="#f5f5f5" style="width: 80%; margin: 0px; padding: 0px 14px 0px 14px; min-width: 320px; color: #45474A; line-height: 26px;" width="80%">
+            <tr><td>
+              <center>
+              <p style="background: #0e0e0e;"> 
+                <a href="{{ "/" | relative_url }}">
+                  <img src="{{ site.logo }}" width=350" alt="{{ site.title | escape }}" style="margin-bottom: 0px;" />
+                </a>
+              </p>
+              </center>
+                  {{ post.content | regex_replace: '<img .*src=.*/>', "" | replace: '<p><small>Icons made by <a href="https://www.flaticon.com/authors/mavadee" title="mavadee">mavadee</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></small></p>', '' | regex_replace: 'You may not have seen it if you are browsing from a mobile device.*\nWe use this space it to advertise on endeavours and projects of interest.', '' }}
+             </td>
+           </tr>
+         </table>
+        </td>
+      </tr>
+    </table>
+  {% endfor %}
+  </body>
+</html>
