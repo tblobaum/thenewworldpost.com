@@ -1,4 +1,4 @@
 ---
 layout: newsletter
-permalink: /other/newsletter.html
+permalink: /newsletter.html
 ---

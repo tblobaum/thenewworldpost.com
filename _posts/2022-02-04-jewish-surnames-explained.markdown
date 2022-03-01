@@ -2,7 +2,7 @@
 layout: post
 author: Thomas James Blobaum 
 title:  "Jewish Surnames Explained"
-date:   2022-02-28 04:20:00 -0600
+date:   2022-02-04 04:20:00 -0600
 categories: World
 tags: Judaism Jews 
 featured-image: hebrew-names.jpg
