@@ -7,6 +7,7 @@ categories: USA Politics Nebraska
 tags: Blackshirts Nazis
 featured-image: blackshirts-graffiti.jpg
 featured-image-alt: Blackshirts Graffiti on the Synagogue in Lincoln, NE
+dropcap: off
 ---
 LINCOLN, NEBRASKA– A 22-year-old Lincoln man convicted of a hate crime for spray-painting swastikas and racial epithets on a Lincoln synagogue, including a word so divisive it isn’t being covered by mainstream media: Blackshirts.
 
