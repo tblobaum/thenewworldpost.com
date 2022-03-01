@@ -3,7 +3,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="{{ site.logo }}" width=350" alt="{{ site.title | escape }}" />
+      <img src="{{ site.logo }}" width="350" alt="{{ site.title | escape }}" />
     </a>
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -17,6 +17,7 @@
         </label>
 
         <div class="trigger">   
+          <a class="page-link" href="/category/crime/">Crime</a>  
           <a class="page-link" href="/category/usa/">USA</a>  
           <a class="page-link" href="/category/world/">World</a>  
           <a class="page-link" href="/tag/nixon/">Nixon</a>   

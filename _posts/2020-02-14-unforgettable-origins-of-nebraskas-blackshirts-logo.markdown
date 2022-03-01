@@ -2,7 +2,7 @@
 layout: post
 author: Thomas James Blobaum 
 title:  "Unforgettable Origins of Nebraska’s Blackshirts Logo"
-date:   2022-02-07 04:44:00 -0600
+date:   2020-02-14 04:44:00 -0600
 categories: Nebraska 
 tags: Blackshirts Cornhuskers
 featured-image: hail.jpg

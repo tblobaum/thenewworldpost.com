@@ -5,9 +5,11 @@ title:  "Israeli space chief says aliens may well exist, but they haven’t met 
 date:   2021-08-08 1:11:11 -0600
 categories: World
 tags: 
-featured-image: 
-featured-image-alt: 
+featured-image: ngc-4866.png
+featured-image-alt: NGC 4866
 ---
+NGC 4866, a lenticular galaxy, is shown in this NASA handout provided on July 19, 2013. Situated about 80 million light-years from earth, this image was captured by the Advanced Camera for Surveys, an instrument on the NASA/ESA Hubble Space Telescope. 
+
 After retired space pioneer Haim Eshed claims aliens visited Earth, made deals with people, Isaac Ben-Israel says he went too far, but fascination with extraterrestrial life legit
 The chances of extraterrestrial life are high and an Israeli defense expert who is claiming aliens have landed on Earth took things too far but shouldn’t be dismissed as a crank, according to the head of Israel’s space agency.
 

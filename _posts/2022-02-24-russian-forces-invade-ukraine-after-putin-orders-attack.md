@@ -2,20 +2,19 @@
 layout: post
 author: Reuters 
 title: "Russian forces invade Ukraine after Putin orders attack"
-slug: 2022-02-28-russian-forces-invade-ukraine-after-putin-orders-attack
-date: '2022-02-28'
+date: '2022-02-24'
 categories: World
 tags: Putin Russia Ukraine
 featured-image: ukrainian-russian-conflict.png
 featured-image-alt: Ukraine-Russia War
 ---
-KYIV/MARIUPOL, Ukraine, – Ukrainian forces battled [Russian invaders](https://www.reuters.com/world/europe/ukraine-russia-what-you-need-know-right-now-2022-02-24/) on [three sides](https://www.reuters.com/world/europe/nato-leaves-black-sea-exposed-russia-invades-ukraine-2022-02-24/) on Thursday after Moscow unleashed the [biggest attack](https://www.reuters.com/world/europe/chernobyl-power-plant-captured-by-russian-forces-ukrainian-official-2022-02-24/) on a European state since World War Two, prompting tens of thousands of people to [flee their homes](https://www.reuters.com/world/europe/ukraines-capital-some-people-stock-up-supplies-others-try-flee-2022-02-24/).
+KYIV/MARIUPOL, Ukraine, – Ukrainian forces battled Russian invaders on three sides on Thursday after Moscow unleashed the biggest attack on a European state since World War Two, prompting tens of thousands of people to flee their homes.
 
 After Russian President Vladimir Putin declared war in a pre-dawn televised address, explosions and gunfire were heard through the day in Ukraine's capital and elsewhere in the country, with at least 70 people reported killed.
 
-The assault brought a calamitous end to weeks of fruitless diplomatic efforts by Western leaders to avert war over Russian demands for a redrawing of [post-Cold War](https://www.reuters.com/world/europe/ukraines-turbulent-history-since-independence-1991-2022-02-24/) security arrangements in Europe.
+The assault brought a calamitous end to weeks of fruitless diplomatic efforts by Western leaders to avert war over Russian demands for a redrawing of post-Cold War security arrangements in Europe.
  
-"This is a premeditated attack," U.S. President Joe Biden told reporters at the White House as he [unveiled harsh new sanctions](https://www.reuters.com/world/europe/biden-unveil-new-sanctions-russia-after-it-invades-ukraine-2022-02-24/), coordinated with allies, against Russian banks, oligarchs and state companies.
+"This is a premeditated attack," U.S. President Joe Biden told reporters at the White House as he unveiled harsh new sanctions, coordinated with allies, against Russian banks, oligarchs and state companies.
 
 "Putin is the aggressor. Putin chose this war. And now he and his country will bear the consequences," he said.
 

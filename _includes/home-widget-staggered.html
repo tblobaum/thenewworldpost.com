@@ -1,5 +1,5 @@
 
-<ul class="post-list">
+<ul class="post-list bomb-archives">
   {%- for post in site.posts offset:33 limit:100 -%}
   <li class="bomb-staggered">
     <div class="bomb-img">
@@ -13,8 +13,8 @@
           {{ post.title | escape }}
         </a>
       </h3> 
-        {{ post.excerpt | truncate: 80 }} 
-    </div>
+      <p>{{ post.excerpt | truncate: 80 | strip_html }} </p>
+      </div>
   </li>
   {%- endfor -%}
 </ul>

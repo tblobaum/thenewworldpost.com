@@ -5,8 +5,8 @@ title:  "What Are the Royal Family Members’ Zodiac Signs?"
 date:   2021-08-08 1:11:11 -0600
 categories: World
 tags: Royal Family
-featured-image: 
-featured-image-alt: 
+featured-image: astrology.jpeg
+featured-image-alt: Astrology
 ---
 
 If you follow astrology as closely as we do, you know you can learn a lot about someone based on their Zodiac sign—and that includes the members of the British royal family.
