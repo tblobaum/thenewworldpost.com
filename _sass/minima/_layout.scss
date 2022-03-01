@@ -68,11 +68,11 @@
   .site-nav .menu-icon > svg {
     fill: #ededed !important;
   }
-  
+
 }
 
 .home { 
-  min-width: 1180px;
+  min-width: 1100px;
 }
 
 footer a:visited {
@@ -472,6 +472,12 @@ a:hover {
   font-size: 15px;
 }
 
+.bomb-img {
+  max-height: 250px;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
 .home {
   display: flex; 
 }
@@ -490,7 +496,6 @@ a:hover {
   width: 300px; 
 
 }
-
 
 .bomb-featured,
 .bomb-featured .bomb-img, 
@@ -562,6 +567,9 @@ margin-left: 95px;
     min-height: 150px;
   }
 
+  .bomb-featured .bomb-img {
+    min-height: 300px;
+  }
 
   .post-list li.bomb-staggered {
     justify-content: flex-start;
