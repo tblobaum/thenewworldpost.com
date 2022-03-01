@@ -13,6 +13,8 @@ Cycles of time are central to Jewish life. Just as Shabbat punctuates the week, 
 
 Less known, but no less central in the Jewish cycle of time, is Shmita, the “year of release,” which is more widely known as the sabbatical year. The next Shmita falls in the Jewish year 5782, which begins on Sept. 7, 2021.
 
+<a href="https://en.wikipedia.org/wiki/Shmita" data-iframely-url></a>
+
 Just as the Torah calls for Jews to work six days and rest on the seventh, it calls for them to work the land six days and let it rest in the seventh. After 49 years, seven cycles of seven, the 50th is Yovel – the Jubilee year. However, the Jubilee year has not been marked for centuries.
 
 In the Shmita year, debts are to be forgiven, agricultural lands to lie fallow, private land holdings to become open to the commons, and staples such as food storage and perennial harvests to be freely redistributed and accessible to all.
@@ -32,3 +34,6 @@ Today, Shmita challenges all who learn about it to think about what our obligati
 
 In recent years, a growing movement of thinkers and activists has pointed to Shmita as a means of addressing the global environmental problems and economic instability of the 21st century and of challenging contemporary expectations of continual economic growth, development, and individual gains.
 
+Source: My Jewish Learning 
+
+<a href="https://www.myjewishlearning.com/article/what-is-shemita-the-sabbatical-year/" data-iframely-url></a>

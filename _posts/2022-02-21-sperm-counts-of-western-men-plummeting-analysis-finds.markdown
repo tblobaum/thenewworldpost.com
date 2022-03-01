@@ -63,5 +63,5 @@ But each scientist and representative agreed: Questions around sperm quality war
 
 “The impact of the modern environment on health of populations and individuals is clearly huge, but remains largely unknown,” said Levine. “Sperm count has previously been plausibly associated with environmental and lifestyle influences, including prenatal chemical exposure, adult pesticide exposure, smoking, stress and obesity. Every man can reduce exposure to chemicals, avoid smoking, keep balanced diet and weight and reduce stress.”
 
-https://en.wikipedia.org/wiki/Male_infertility_crisis
+<a href="https://en.wikipedia.org/wiki/Male_infertility_crisis" data-iframely-url></a>
 

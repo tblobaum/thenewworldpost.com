@@ -24,6 +24,8 @@ The research was presented as part of “The Bermuda Triangle Enigma,” a Chann
 
 Boxall also cited busy maritime traffic in the Bermuda Triangle as the key factor in its reputation.
 
+<a href="https://en.wikipedia.org/wiki/Bermuda" data-iframely-url></a>
+
 “The area covered by the triangle accounts for nearly a third of all privately owned vessels in the U.S.,” he said. “The 2016 Coastguard annual report shows that in this area 82 percent of all incidents involving marine traffic of any kind was caused by people with no experience or training. The numbers speak for themselves as to why so many incidents occur here.”
 
 A similar factor likely played a part in the famous disappearance of Flight 19, a group of five U.S. torpedo bombers that went missing on Dec. 5, 1945, according to Boxall. “The infamous bomber squadron that went missing in 1945 was actually a training flight with new and inexperienced crews. In those days nav[igation] was very much by eye and it is easy to get it wrong,” says Dr. Boxall. “The evidence shows this was the case. Taking that out, there are no more plane disappearances [in the Bermuda triangle] than anywhere else in the world.”
@@ -31,3 +33,7 @@ A similar factor likely played a part in the famous disappearance of Flight 19, 
 The Sun notes that a seaplane deployed to search for the aircraft also went missing.
 
 Boxall is keen to debunk the myth of the Bermuda Triangle as a mysterious place where strange things happen. “Along with Scotland’s Loch Ness Monster there is no mystery,” he told Fox News. “But it does sell books and creates great discussion.”
+
+Source: Fox News 
+
+<a href="https://www.foxnews.com/science/bermuda-triangle-is-no-mystery-ocean-scientist-explains" data-iframely-url></a>

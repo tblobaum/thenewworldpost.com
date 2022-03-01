@@ -11,6 +11,8 @@ BALI– Two bombs ripped through the Kuta area of the Indonesian tourist island 
 
 The seeds of the October 2002 Bali bombing plot were probably sown in a hotel room in southern Thailand 10 months earlier.
 
+<a href="https://en.wikipedia.org/wiki/2002_Bali_bombings" data-iframely-url></a>
+
 At a secret meeting of operatives from South East Asian militant network Jemaah Islamiah (JI), Riduan Isamuddin, also known as Hambali, was believed to have ordered a new strategy of hitting soft targets, such as nightclubs and bars rather than high-profile sites like foreign embassies.
 
 But it was not until August 2002 that Bali was chosen as the place to strike.
@@ -80,3 +82,8 @@ Police said Imam Samudra stayed in Bali for several days after the bombing to su
 Ali Imron shed tears in court, and repeatedly expressed remorse for his actions.
 
 Amrozi laughed and joked about his case, giving a thumbs-up sign when he was convicted. He said he was happy to die a martyr.
+
+Source: BBC
+
+<a href="https://www.bbc.com/news/world-asia-19881138" data-iframely-url></a>
+

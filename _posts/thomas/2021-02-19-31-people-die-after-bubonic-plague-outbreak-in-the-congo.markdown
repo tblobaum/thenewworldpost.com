@@ -28,3 +28,7 @@ The so-called Black Death, which according to various estimates killed between a
 The fearsome disease is now curable with several types of antibiotics. However, without proper treatment, the plague can cause death in between 30 to 90 percent of those infected.
 
 However, getting proper medical attention in DR Congo is often difficult as its health system suffers from lack of funding and is hampered by the activity of various militant groups. Besides the plague, the Central African country is also challenged by episodic Ebola outbreaks, malaria, cholera, HIV and other diseases.
+
+Source: RT 
+
+<a href="https://www.rt.com/news/516070-congo-plague-outbreak-deaths/" data-iframely-url></a>

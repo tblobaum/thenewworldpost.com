@@ -11,6 +11,8 @@ BEIJING– Giant flames engulf every floor of 44-story building and it remains s
 
 A fierce fire consumed all 44 floors of a skyscraper in Beijing today, shooting 30 foot flames into the air, but unlike the similarly-sized 47-story WTC 7, which suffered limited fires across just eight floors, the building in China did not collapse.
 
+<a href="https://en.wikipedia.org/wiki/List_of_tallest_bridges" data-iframely-url></a>
+
 “The fire was burning from the ground floor to the top floor of the large building, the flames reflecting in the glass facade of the main CCTV tower next to the hotel and cultural center,” reports the New York Times.
 
 “The 241-room Mandarin Oriental hotel in the building was due to open this year. Flames were spotted around 7:45 p.m. and within 20 minutes the fire had spread throughout the building, dominating that part of the city.”

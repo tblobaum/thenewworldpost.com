@@ -11,6 +11,8 @@ In 1999 unauthorized treasure hunters in in Ziegelroda Forest, Saxony-Anhalt, Ge
 
 It is covered with a bluish green patina and illustrates the night sky with stars and other heavenly bodies in gold. For such a small thing, it has aroused a remarkable amount of controversy since it was turned over to the German authorities.
 
+<a href="https://en.wikipedia.org/wiki/Nebra_sky_disc" data-iframely-url></a>
+
 According to ancient-origins.net, the disk has caused controversy since day one. Originally it was believed to be a forgery because of an essay by P. Schauer but it has been proven that the artifact is genuinely historical.
 
 Dating the object, however, has proved problematic. The stories given to the authorities by the looters as to where it was found don’t add up. They reported it was found in a hoard along with two swords, two axes, two spiral arm rings and a bronze chisel.
@@ -37,4 +39,8 @@ Again, their findings were disputed by archeologists at the Saxony-Anhalt State 
 After the looters got their hands on the disk, they sold it on the black market for about forty two thousand dollars and then it was resold for about six hundred thousand dollars. The police caught wind of the transaction and seized the artifact in 2002.
 
 The two owners had performed some changes but when it was taken to Saxony-Anhalt’s State Museum for Prehistory it was restored to its original state and is now on display there. The looters were sentenced to several months in jail.
+
+Source: The Vintage News 
+
+<a href="https://www.thevintagenews.com/2020/10/19/nebra-sky-disk-2/?safari=1" data-iframely-url></a>
 

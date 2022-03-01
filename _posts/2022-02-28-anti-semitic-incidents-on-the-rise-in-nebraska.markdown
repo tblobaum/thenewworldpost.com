@@ -23,3 +23,8 @@ While security helps, they say the best line of defense is education.
 Even after recent synagogue attacks including in California, Shapiro says the support from the community gives him hope changes will be made one day. 
 
 “There’s been outpouring of support for the Jewish community whenever these kind of things happen, and that’s something that really gives us hope and makes us happy to be here in Omaha,” says Shapiro. 
+
+Source: KMTV
+
+<a href="https://www.3newsnow.com/news/local-news/anti-semitic-incidents-on-the-rise-in-nebraska" data-iframely-url></a>
+

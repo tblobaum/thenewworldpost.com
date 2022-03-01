@@ -2,7 +2,7 @@
 layout: post
 author: Thomas James Blobaum 
 title:  "The Royal Glossary"
-date:   2022-03-01 02:22:22 -0600
+date:   2000-03-14 02:22:22 -0600
 categories: World  
 featured-image: royal-background.jpeg
 featured-image-alt: 

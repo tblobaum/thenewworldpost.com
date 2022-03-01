@@ -11,6 +11,8 @@ CHINA– Recovered from sedimentary rock strata deposited in an ancient Chinese 
 
 A tiny, beady-eyed, long-tailed primate with hand-like feet is now the world’s oldest known fossil primate skeleton. In a study to be released in the journal Nature this week, an international team of researchers describe their discovery of the Archicebus achilles and how it’s adding to what we understand about our own evolution.
 
+<a href="https://en.wikipedia.org/wiki/Archicebus" data-iframely-url></a>
+
 The Archicebus achilles–named for its long tail and strange feet–was found in an ancient lakebed in China. The lack of oxygen at the bottom of the lake means that this specimen is remarkably complete and well-preserved. Recovered from sedimentary rock strata deposited in an ancient lake roughly 55 million years ago, this fossil is the oldest primate fossil, beating the previous record-holders–including Darwinius from Messel in Germany and Notharctus from the Bridger Basin in Wyoming –by 7 million years.
 
 “It’s not just that it’s the oldest primate, but it turns out that this fossil tells us that primates had already been evolving for quite some time. This primate was already fairly advanced in terms of the evolutionary tree,” says Christopher Beard, a coauthor of the study and paleontologist from the Carnegie Museum of Natural History.
@@ -34,3 +36,8 @@ To fully analyze the fragile fossil, researchers collaborated with the European 
 The analysis and data-gathering was one of the longest and most extensive phases of the study. Researchers created a matrix that included data from more than 150 species and more than 2,000 different characteristics. All told, the process took 10 years and required collaboration from many institutions internationally. But the patience and practice is now finally paying off.
 
 “[The Archicebus is like] what we find so often in paleontology, but we can never predict it, and that’s an animal that’s unlike everything else we’ve ever seen,” Beard says. “It’s a kind of hybrid or mosaic of different features that are found in different animals today, but never together in one. It’s truly a unique creature.”
+
+Source: Popular Science
+
+<a href="https://www.popsci.com/science/article/2013-06/worlds-oldest-primate-fossil-discovered/" data-iframely-url></a>
+

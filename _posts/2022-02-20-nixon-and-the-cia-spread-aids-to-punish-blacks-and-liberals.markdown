@@ -16,3 +16,8 @@ There is evidence that the CIA connection was, in fact, created by the KGB as pa
 Dubbed Operation Infektion, the USSR published letters from ”anonymous US official sources“ in scientific journals and newspapers throughout the 1980s claiming that virus was a CIA experiment gone wrong. This initially remained within the medical community but as the epidemic grew, the theory took hold and persists to this day.
 
 Despite this, most scientists and doctors agree that the virus jumped from monkeys to humans somewhere in the Congo during the 1930s.
+
+
+<a href="https://en.wikipedia.org/wiki/Discredited_HIV/AIDS_origins_theories" data-iframely-url></a>
+
+

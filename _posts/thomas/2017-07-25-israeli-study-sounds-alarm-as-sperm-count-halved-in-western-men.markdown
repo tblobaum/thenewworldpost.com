@@ -46,3 +46,5 @@ While the current study did not examine causes of the observed declines, sperm c
 In addition, because of cultural issues, when couples have fertility problems much of the focus is directed on women and short-term methods are used to overcome the problems, he said. “These short-term methods deal with the problem, but not the source of the problem.” And that needs to be changed.
 
 Source: Times of Israel
+
+<a href="https://www.timesofisrael.com/israeli-study-sounds-alarm-as-sperm-count-halved-in-western-men/" data-iframely-url></a>

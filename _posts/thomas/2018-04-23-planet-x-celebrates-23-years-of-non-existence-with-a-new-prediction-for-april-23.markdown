@@ -39,3 +39,9 @@ And now here we are in 2018, after at least half a dozen failed predictions of i
 Somehow I think we will hear yet more about Nibiru well beyond 2018 and decades into the future because other predictions I've yet to even mention foresee the planet coming to get us all the way in 2085.
 
 So sit back and enjoy practicing your critical thinking skills during this, the century of Nibiru.
+
+Source: Forbes 
+
+<a href="https://www.forbes.com/sites/ericmack/2018/04/12/nibiru-celebrates-23-years-of-non-existence-with-a-new-prediction-for-april/" data-iframely-url></a>
+
+

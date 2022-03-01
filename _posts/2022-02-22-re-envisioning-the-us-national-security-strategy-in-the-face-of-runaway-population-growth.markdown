@@ -11,7 +11,6 @@ featured-image-alt: National Security Community
 
 The biggest challenge to global stability and security cannot be addressed by major weapons systems. Deterrence strategies will not prevent it. More and more lethal warfighters can do nothing to overcome it. That challenge? Runaway population growth. Runaway population growth will continue to destabilize and undermine the security of key regions, and the global system, regardless of our investment in these traditional approaches to national security. It is time to think differently, and to reorient our national security enterprise to address this challenge before it destroys our planet and our species.
 
-
 ### Runaway Population Growth’s Role In Undermining Security and Stability
 
 Many, including myself, have made arguments that humanity long ago exceeded our planet’s carrying capacity, with runaway population growth leading us to accrue a long term ecological debt that is undermining our planet’s ability to support us as a species.[1] Such arguments often leave readers with the impression that runaway population growth is an environmental challenge—which it no doubt is. Yet, it is easy to demonstrate how environmental challenges such as ecosystem destruction and climate change, which are clearly exacerbated by runaway population growth, also impact stability and security around the planet. It is even easier to demonstrate how runaway population growth causes social instability and threats to human security within particular regions and across the international system.
@@ -121,32 +120,6 @@ There is no end to the economic instruments that could be used to empower women,
 
 Without bending the global population curve, we can expect to see runaway population growth continue to destabilize and undermine the security of key regions, and our entire global system. Within the existing National Security Strategy there are existing features that would require rather minor adjustments to enable our national security enterprise to harness just, ethical, and empowering strategies to help bend the global population curve. These features already flow down in to the strategy documents of the departments and agencies that implement each instrument of national power, and could similarly be aligned with such a vision, given little effort. While the politics around any particular effective policy measure may prove difficult to maneuver through Congressional authorization and appropriations processes, there will no doubt remain a long list of politically viable policy measures that the US national security enterprise could effectively deploy to bend the population curve in key regions, preventing the youth bulges fuelling instability, extremism, conflict, and other threats to human security.
 
-Christopher K. Tucker
+Source: Small Wars Journal  
 
-#### Endnotes
-
-[1] Christopher Tucker, Christopher. A Planet of 3 Billion: Mapping Humanity's Long History of Ecological Destruction and Finding Our Way to a Resilient Future A Global Citizen's Guide to Saving the Planet. Washington, DC: Atlas Observatory Press, 2019.
-
-[2] Harold Holt, et al.  “Declaration on Population: The World Leaders Statement.” Studies in Family Planning.  No. 26. January 1968, https://www.jstor.org/stable/1965194?seq=1.
-
-[3] Jack Rosenthal, Jack. “Nixon Signs Bill Creating Commission on Population.” New York Times. 17 March 1970, https://www.nytimes.com/1970/03/17/archives/nixon-signs-bill-creating-commission-on-population.html.
-
-[4] John D. Rockefeller III, Population and the American Future (The Rockefeller Commission Report).Washington, DC: Commission on Population Growth and the American Future. 27 March 1972, https://www.population-security.org/rockefeller/001_population_growth_and_the_american_future.htm.
-
-[5] “National Security Study Memorandum 200: Implications of Worldwide Population Growth for U.S. Security and Overseas Interests” (NSSM-200). Washington, DC: White House. 10 December 1974, https://pdf.usaid.gov/pdf_docs/PCAAB500.pdf.
-
-[6] Adrienne Germaine and Rachel Kyte, “The Cairo Consensus:  The Right Agenda for the Right Time.” International Women’s Health Coalition. September 1994, https://iwhc.org/resources/the-cairo-consensus-the-right-agenda-for-the-right-time/.
-
-[7] “National Security Strategy.” Washington, DC: White House. December 2017,  https://trumpwhitehouse.archives.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf.
-
-[8] Sheehan, Senator Jeanne Sheehan. Women, Peace and Security Act. Public Law No.115-68 (10/06/2017) based on S.1141—115th Congress. 6 October 2017, https://www.congress.gov/bill/115th-congress/senate-bill/1141.
-
-[9] “Women’s Global Development and Prosperity Initiative.: Washington, DC: White House. 7 Feburary 2019, https://trumpwhitehouse.archives.gov/wgdp/.
-
-[10] “US Strategy on Women, Peace and Security.” Washington, DC: White House. June 2019, https://trumpwhitehouse.archives.gov/wp-content/uploads/2019/06/WPS_Strategy_10_October2019.pdf.
-
-[11] Population Media Center. “Programs and Activities Report.” June 2016, https://www.populationmedia.org/news/annual-reports/.
-
-[12] “Women, Peace and Security Strategic Framework and Implementation Plan.” Washington, DC: Department of Defense. June 2020, https://media.defense.gov/2020/Jun/11/2002314428/-1/-1/1/WOMEN_PEACE_SECURITY_STRATEGIC_FRAMEWORK_IMPLEMENTATION_PLAN.PDF.
-
-[13] Op. cit. “National Security Strategy,” Note 7.
+<a href="https://smallwarsjournal.com/jrnl/art/re-envisioning-us-national-security-strategy-face-runaway-population-growth" data-iframely-url></a>

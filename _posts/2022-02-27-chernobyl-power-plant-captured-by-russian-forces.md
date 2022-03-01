@@ -33,3 +33,8 @@ Decades later, it became a tourist attraction. About a week before the Russian i
 "This is a declaration of war against the whole of Europe."
 
 Reporting by Maria Tsvetkova and Natalia Zinets; Editing by Hugh Lawson and Jonathan Oatis
+
+Source: Reuters 
+
+<a href="https://www.reuters.com/world/europe/chernobyl-power-plant-captured-by-russian-forces-ukrainian-official-2022-02-24/" data-iframely-url></a>
+

@@ -62,4 +62,9 @@ The three most endemic countries are the Democratic Republic of Congo, Madagasca
 
 WHO does not recommend vaccination, except for high-risk groups (such as laboratory personnel who are constantly exposed to the risk of contamination, and health care workers). 
 
- Source: World Health Organization 
+Source: World Health Organization 
+
+<a href="https://www.dailymail.co.uk/news/article-10080541/Black-Death-able-reach-areas-global-warming-Russias-doctor-warns.html" data-iframely-url></a>
+
+
+ 

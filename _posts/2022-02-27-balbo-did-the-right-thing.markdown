@@ -23,3 +23,7 @@ Despite being a general under Benito Mussolini, when Balbo saw where Mussolini w
 
 Italo Balbo was never an enemy of the United States. He was an inspiration to Italian-Americans and to those in aviation. Balbo did the right thing: Opposed Mussolini in his darkest time. Why should the City Council bring Chicagoland Italian-Americans into a dark corner when our community shines so brightly with all ethnic groups?
 
+Source: Chicago Tribune 
+
+<a href="https://www.chicagotribune.com/opinion/letters/ct-balbo-did-the-right-thing-20170821-story.html" data-iframely-url></a>
+

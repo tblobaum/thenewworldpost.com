@@ -20,3 +20,9 @@ The UAF study was funded by Architects & Engineers for 9/11 Truth (AE911Truth), 
 The release of the draft report begins a two-month period during which the public is invited to submit comments. The final report will be published later this year. The research team plans to make public by the end of September all of the data used and generated during the study, a decision that contrasts with NIST's withholding of key modeling data on the grounds that releasing it "might jeopardize public safety."
 
 For more information, visit http://ine.uaf.edu/wtc7 and https://AE911Truth.org/wtc7.
+
+Source: Security Magazine  
+
+<a href="https://AE911Truth.org/wtc7" data-iframely-url></a>
+
+

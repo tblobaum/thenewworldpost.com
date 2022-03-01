@@ -24,5 +24,8 @@ Other countries have created or considered policies to undo this dynamic. Irelan
 
 Baum writes about the Netherlands as an example of a country where drug legalization has worked. And indeed, the Netherlands has been closing jails because it doesn’t have enough criminals. It’s a nice problem to have—and one unlikely to happen anytime soon in the US’s entrenched prison industrial complex.
 
-Originally posted on Quartz
+Source: Quartz 
+
+<a href="https://qz.com/645990/nixon-advisor-we-created-the-war-on-drugs-to-criminalize-black-people-and-the-anti-war-left/" data-iframely-url></a>
+
 

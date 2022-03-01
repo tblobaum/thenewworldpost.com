@@ -11,6 +11,8 @@ dropcap: on
 ---
 Our secret is out. The Jews control the world! We own the media. Politicians do our bidding. Wall Street is a Jewish shtetl. Hollywood moguls make secret deals in Yiddish. Jewish professors propagandize their students to support Israel. Jewish puppet masters pull the strings and their compliant puppets simply follow.
 
+<a href="https://en.wikipedia.org/wiki/Zionist_Occupation_Government_conspiracy_theory" data-iframely-url></a>
+
 If you troll the Internet, these are the absurd allegations that you will find repeated over and over again. It reminds me of the old joke about the two Jews in a Vienna café in the 1930s. One of them is reading the Yiddish newspaper, while the other one peruses the Der Stürmer, the Nazi propaganda organ. The Jew reading the Yiddish newspapers asks accusingly “Why are you reading that Nazi rag?” The other Jew responds: “I used to read the Yiddish newspaper, and all it talked about was how Jews are suffering, being fired from their jobs, being subject to pogroms and starving. Now I read in the Nazi newspaper that we control the world. I prefer the good news!”
 
 Since the publication of the 19th-century Czarist forgery, The Protocols of the Elders of Zion, the primary tropes of antisemitism have been the dual canards that Jews control the world and that all the problems of the world are attributed to the Jews. There is an old Polish proverb that says, “If there is a problem, the Jews must be behind it.
@@ -33,3 +35,6 @@ The world would be a poorer place – intellectually, artistically, charitably a
 
 This article first appeared in The Hill.
 
+Source: Jerusalem Post  
+
+<a href="https://www.jpost.com/opinion/do-the-jews-control-the-world-539880" data-iframely-url></a>

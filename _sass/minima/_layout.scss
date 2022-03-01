@@ -79,6 +79,10 @@ footer a:visited {
   color: #666 !important;
 }
 
+footer a:hover {
+  color: #fff !important;
+}
+
 .bomb-featured-small .bomb-text {
   padding-left: 0px; 
   position: relative;
@@ -213,6 +217,11 @@ footer a:visited {
   color:#888;
 }
 
+.site-footer p {
+  padding-left: 5px;
+}
+
+
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
@@ -228,13 +237,14 @@ footer a:visited {
   @include relative-font-size(0.9375);
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
+  margin-left: -10px;
   @extend %clearfix;
-}
-
+} 
 .footer-col {
   float: left;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
+  min-width: 250px;
 }
 
 .footer-col-1 {
@@ -245,6 +255,7 @@ footer a:visited {
 .footer-col-2 {
   width: -webkit-calc(20% - (#{$spacing-unit} / 2));
   width:         calc(20% - (#{$spacing-unit} / 2));
+  text-align: right; 
 }
 
 .footer-col-3 {
@@ -736,7 +747,8 @@ padding-top: 25px;
   background: #0e0e0e;
   padding: 15px;
   text-align: center;
-  border-radius: 6px;
+  border-radius: 6px; 
+  margin-bottom: 25px;
 }
 
 .newsletter input[type=text] { 
@@ -866,3 +878,9 @@ padding-top: 25px;
 .bomb-archives p {
   margin: 0; 
 }
+
+footer .page-link { 
+  display: block !important;  
+  margin-left: 35px; 
+}
+

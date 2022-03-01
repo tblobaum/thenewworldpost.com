@@ -15,23 +15,16 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
   
-  <script type="text/javascript">
-    function loadIframelyEmbedJs() {
-        // Replace 'iframe.ly' with your custom CDN if available.
-        if (document.querySelectorAll("[data-iframely-url]").length === 0
-            && document.querySelectorAll("iframe[src*='iframe.ly']").length === 0) return;
-        var iframely = window.iframely = window.iframely || {};
-        if (iframely.load) {
-            iframely.load();
-        } else {
-            var ifs = document.createElement('script'); ifs.type = 'text/javascript'; ifs.async = true;
-            ifs.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//cdn.iframe.ly/embed.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ifs, s);
-        }
-    }
-    // Run after DOM ready.
-    loadIframelyEmbedJs();
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-217839357-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-217839357-1');
   </script>
+
 
   <script async charset="utf-8" src="//cdn.iframe.ly/embed.js?api_key=d64e45df5ddc345ead06de" 
   ></script>

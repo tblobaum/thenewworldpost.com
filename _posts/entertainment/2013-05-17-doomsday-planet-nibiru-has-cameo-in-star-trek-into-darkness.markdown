@@ -12,6 +12,8 @@ The new "Star Trek" film warped into on Thursday (May 16) and space enthusiasts 
 
 In "Star Trek Into Darkness," the latest installment in the popular science fiction series, Nibiru is the lush, volcanic jungle planet and was featured in the film's trailer (so no spoilers there really), but before its turn in Hollywood, the extraterrestrial name was attached to one of the most popular end-of-world conspiracies last year. 
 
+<a href="https://www.imdb.com/title/tt1408101/" data-iframely-url></a>
+
 When rumors that the world would end in 2012 became widely circulated last year, one popular contender among doomsday theorists was a supposed planet called Nibiru, which some claimed was set to catastrophically collide with Earth.
 
 There was (and still is) no scientific evidence to support the existence of Nibiru, and NASA even released a statement last year refuting the claims, after the agency was accused of a conspiracy to cover up the Nibiru threat to avoid mass panic. 
@@ -19,6 +21,8 @@ There was (and still is) no scientific evidence to support the existence of Nibi
 The doomsday theory began in 1976 when Zecharia Sitchin wrote a book called "The Twelfth Planet," which was based on his own unique translation of Sumerian cuneiform, one of the earliest systems of writing. In the book, Sitchin identified a planet, Nibiru, that orbits the sun every 3,600 years. Years later, a self-described psychic named Nancy Lieder announced that aliens had warned her that Nibiru would collide with Earth in 2003.
 
 After 2003 came and went without incident, the Nibiru doomsday projection was moved to 2012, to coincide with the ancient Mayan long-count calendar.
+
+<a href="https://en.wikipedia.org/wiki/Nibiru_cataclysm" data-iframely-url></a>
 
 Now, it appears Nibiru is set to make its Hollywood debut.
 
@@ -35,3 +39,7 @@ Chambliss used his own real-world experiences to inspire the look and feel of Ni
 "Everyone wanted the island planet to have a seductive atmosphere, and one thing that I remembered from my travels in Hawaii is what they call 'lipstick bamboo,' which is dark red and otherworldly, so that made me think, what if this planet was all red?" he explained. "There was something wonderful to that, combined with the deep turquoise blue water and white sand. It was not only a striking color palette, but it had that retro vibe which we embrace in our 'Star Trek' storytelling. And then we developed a whole cultural atmosphere around that."
 
 "Star Trek Into Darkness" is directed by J.J. Abrams and stars Chris Pine, Zachary Quinto, Zoe Saldana and Benedict Cumberbatch.
+
+Source: Space
+
+<a href="https://www.space.com/21165-star-trek-nibiru-doomsday-planet.html" data-iframely-url></a>

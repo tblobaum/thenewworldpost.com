@@ -19,6 +19,8 @@ One of the show’s funnier characters is known as Zog. Fans of the show many lo
 
 Matt Groening is the creator of Disenchantment. Groening’s animated bona fides have long since been established before Disenchantment came to Netflix in 2018. 
 
+<a href="https://www.imdb.com/title/tt5363918/" data-iframely-url></a>
+
 Before that, he created Futurama, the hit animated series airing on Fox and later Comedy Central after fans brought it back from cancellation. He also created a little series you might have heard of called The Simpsons. That show is still going strong after more than 30 years on the air, one of the longer runs for any show in TV history. 
 
 Disenchantment has a similar animation style to those two shows, but that’s about all it has in common. According to IMDb, the fantasy story centers on a woman named Princess Tiabeanie, colloquially referred to as Bean. 
@@ -47,4 +49,9 @@ For example, the voice of Fry, Billy West, is also in this show’s cast. Accord
 Fans of that show many remember DiMaggio as the gruff voice of the robot Bender on Futurama. But DiMaggio has had a long, illustrious career as a voice actor outside of the Groening animated universe. According to IMDb he’s also appeared in DuckTales, Rick and Morty, and played Batman villain the Joker among many other roles. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8QpnSzuBTh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Source: Showbiz Cheatsheet
+
+<a href="https://www.cheatsheet.com/entertainment/disenchantment-who-is-the-voice-behind-king-zog.html/" data-iframely-url></a>
+
 

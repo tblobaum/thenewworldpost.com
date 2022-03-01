@@ -9,6 +9,8 @@ featured-image-alt: Planet Nine
 ---
 In early 2016, California Institute of Technology‘s Batygin and Brown described how the similar orbits of six ETNOs could be explained by Planet Nine and proposed a possible orbit for the planet. This hypothesis could also explain ETNOs with orbits perpendicular to the inner planets and others with extreme inclinations, and had been offered as an explanation of the tilt of the Sun’s axis.
 
+<a href="https://en.wikipedia.org/wiki/Planet_Nine" data-iframely-url></a>
+
 ## Orbit
 Planet Nine is hypothesized to follow an elliptical orbit around the Sun with an eccentricity of 0.2 to 0.5. The planet’s semi-major axis is estimated to be 400 AU to 800 AU, roughly 13 to 26 times the distance from Neptune to the Sun. It would take the planet between 10,000 and 20,000 years to make one full orbit around the Sun. Its inclination to the ecliptic, the plane of the Earth’s orbit, is projected to be 15° to 25°. 
 
@@ -27,6 +29,10 @@ Planet Nine could have been captured from outside the Solar System during a clos
 An encounter with another star could also alter the orbit of a distant planet, shifting it from a circular to an eccentric orbit. The in situ formation of a planet at this distance would require a very massive and extensive disk, or the outward drift of solids in a dissipating disk forming a narrow ring from which the planet accreted over a billion years. 
 
 If a planet formed at such a great distance while the Sun was in its original cluster, the probability of it remaining bound to the Sun in a highly eccentric orbit is roughly 10%. An extended disk would have been subject to gravitational disruption by passing stars and by mass loss due to photoevaporation while the Sun remained in the open cluster where it formed, however.
+
+Source: Caltech 
+
+<a href="https://www.caltech.edu/about/news/caltech-researchers-find-evidence-real-ninth-planet-49523" data-iframely-url></a>
 
 
 
