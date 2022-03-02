@@ -31,4 +31,4 @@ Levesque said that the plants would reduce proliferation risks because they redu
 
 Source: The Guardian
 
-<a href="http://thenewworldpost.com/" data-iframely-url></a>
+<a href="https://www.theguardian.com/us-news/2021/jun/03/bill-gates-warren-buffett-new-nuclear-reactor-wyoming-natrium" data-iframely-url></a>
