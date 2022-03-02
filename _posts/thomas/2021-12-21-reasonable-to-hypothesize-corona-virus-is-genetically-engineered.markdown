@@ -30,3 +30,7 @@ On the question of her level of confidence that the world would eventually be ab
 “Only recently in September did a proposal get leaked showing that scientists from the EcoHealth Alliance were in collaboration with the Wuhan Institute of Virology developing this pipeline for inserting novel furin cleavage sites, these genetic modifications, into SARS-like viruses in the lab,” Chan said.
 
 According to Tory lord Lord Ridley, who has co-authored a book on the virus’s origins with Dr Chan, the fact that experts have still not located the animal host that would support a natural origin despite two years of investigation, supports the notion that COVID-19 emerged from a lab.Recent discoveries of China’s attempted cover-up have compelled British and US intelligence agencies to investigate the lab-leak idea seriously, which was previously regarded as a lunatic conspiracy theory.
+
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

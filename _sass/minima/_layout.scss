@@ -370,6 +370,14 @@ footer a:hover {
   }
 }
 
+.post-content h1, 
+.post-content h2, 
+.post-content h3, 
+.post-content h4, 
+.post-content h5, 
+.post-content h6 {
+  margin: 20px 0;
+}
 
 .post-list li {
   justify-content: flex-start; 
@@ -525,8 +533,8 @@ a:hover {
   }
 
 ul, ol {
-  margin-left: 0px;
-  list-style-type: none;
+  // margin-left: 0px;
+  // list-style-type: none;
 }
 
 .bomb-featured .post-link {
@@ -731,7 +739,6 @@ padding-top: 25px;
   font-size: 13px; 
   text-transform: uppercase;  
   font-weight: 600; 
-  
 }
 
 .post-categories {

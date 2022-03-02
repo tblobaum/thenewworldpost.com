@@ -93,3 +93,6 @@ The cash register isn’t ringing as much as in years past. But that’s not Her
 
 “The reason sales are down,” Strunc said, “is because they went 3-9 and they've had five consecutive losing seasons.”
 
+This article first appeared on Nebraska Public Media.
+
+<a href="https://nebraskapublicmedia.org/en/news/news-articles/how-white-supremacy-changed-herbie-husker/" data-iframely-url></a>

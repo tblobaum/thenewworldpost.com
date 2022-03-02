@@ -2,7 +2,7 @@
 layout: post
 author: Thomas James Blobaum 
 title:  "Australian lawmakers call for inquiry into Murdoch media"
-date:   2022-02-09 04:44:00 -0600
+date:   2021-09-12 04:44:00 -0600
 categories: Australia World Murdoch
 featured-image: murdoch.jpeg
 featured-image-alt: Rupert Murdoch 
@@ -28,4 +28,8 @@ Rudd, who was prime minister from 2007 to 2010 and briefly in 2013, has long bee
 He welcomed the Senate report Thursday, calling it an "important decision" for the future of media ownership and regulation in Australia.
 
 The committee also called for Australia's public broadcasters, ABC and SBS, to receive better funding, along with independent newswire Australian Associated Press, which nearly collapsed when investors including News Corp withdrew support in 2020.
+
+This article first appeared on France24.
+
+<a href="https://www.france24.com/en/live-news/20211209-australian-lawmakers-call-for-inquiry-into-murdoch-media" data-iframely-url></a>
 

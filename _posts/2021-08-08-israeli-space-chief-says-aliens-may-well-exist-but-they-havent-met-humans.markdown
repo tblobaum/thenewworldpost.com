@@ -35,3 +35,6 @@ He thinks that Eshed arrived at his theory invoking real information, including 
 
 “There is a lot of information gathered by Americans and it’s a matter of interpretation,” said Ben-Israel. “Most people including myself interpret everything reported as natural phenomena; some people interpret it as something different. If you have a very creative mind, you push toward the second option.”
 
+This article first appeared on the Times of Israel.  
+
+<a href="https://www.timesofisrael.com/israeli-space-chief-says-aliens-may-well-exist-but-they-havent-met-humans/" data-iframely-url></a>

@@ -66,3 +66,6 @@ Say “Blackshirt” and the association is immediate: Nebraska defense.
 
 “I’m so proud it’s been maintained,” the late Kelly would say many years after leaving Nebraska, many years after helping to establish the tradition.
 
+This article first appeared on Huskers.com.
+
+<a href="https://huskers.com/news/2018/1/26/211694410.aspx" data-iframely-url></a>

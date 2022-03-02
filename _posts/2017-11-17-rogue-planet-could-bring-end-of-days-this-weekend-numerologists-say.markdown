@@ -30,3 +30,7 @@ Morrison adds that there’s proof positive that Nibiru does not exist and is no
 Even officials at FEMA were forced to release a statement in an attempt to quell any hysteria about the end of days, in which they say that they have us covered … just in case.
 
 “FEMA partners with NASA to develop guidance on preparing for any potential impacts to Earth from natural space objects,” a FEMA spokesperson said to Newsweek. “Upon notification from NASA of an impending impact threat to the United States, FEMA would take the lead to notify appropriate federal, state and local authorities and emergency response institutions.”
+
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

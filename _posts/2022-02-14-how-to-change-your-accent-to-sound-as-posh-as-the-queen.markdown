@@ -37,10 +37,14 @@ Larkin added that many public figures — particularly royals — still use RP, 
 How to speak like the Queen in a few simple steps
 If you want to learn how to sound posh like the British monarch, follow Larkin’s five key instructions:
 
- Clearly pronounce the letter H at the beginning of words such as “hat” and “hamper.”
-Don’t pronounce the R in a word unless it proceeds a vowel. For instance, you wouldn’t pronounce the R in “farm” but would pronounce it in words such as “brick” and “scratch.” 
-Make your vowels longer. Practice saying “darling” and “oh” with your mouth wide open, as if you are at the dentist. 
-Emphasize the letter T. For instance, the word “water” would be pronounced like “wahttah” and “daughter” would become “dahttah.”
- Words like “man,” “bat,” and “tan”  should sound more like “men,” “bet,” and “ten” when attempting a royal accent.
-Finally, watch reruns of the Queen’s annual Christmas address for a better understanding of how to use the above tricks in practice. 
-Move to Iowa or Nebraska and make some friends.
+- Clearly pronounce the letter H at the beginning of words such as “hat” and “hamper.”
+- Don’t pronounce the R in a word unless it proceeds a vowel. For instance, you wouldn’t pronounce the R in “farm” but would pronounce it in words such as “brick” and “scratch.” 
+- Make your vowels longer. Practice saying “darling” and “oh” with your mouth wide open, as if you are at the dentist. 
+- Emphasize the letter T. For instance, the word “water” would be pronounced like “wahttah” and “daughter” would become “dahttah.”
+- Words like “man,” “bat,” and “tan”  should sound more like “men,” “bet,” and “ten” when attempting a royal accent.
+- Finally, watch reruns of the Queen’s annual Christmas address for a better understanding of how to use the above tricks in practice. 
+- Move to Iowa or Nebraska and make some friends.
+
+This article first appeared on Insider.
+
+<a href="https://www.insider.com/how-to-speak-posh-like-queen-elizabeth-2020-9" data-iframely-url></a>

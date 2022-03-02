@@ -34,4 +34,6 @@ But the decline of family farms and rural communities are not inevitabilities, a
 
 We aren’t doomed to repeat history. We have an opportunity to learn from the past, and ensure that in the future, farms of all sizes have a chance to succeed.
 
-Source: The Hill.
+Source: The Hill 
+
+<a href="https://thehill.com/opinion/finance/464856-we-must-reject-the-go-big-or-go-home-mentality-of-modern-agriculture" data-iframely-url></a>

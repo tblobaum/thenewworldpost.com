@@ -32,3 +32,5 @@ James Zalewski, Karimi’s attorney, said they intend to pursue the remaining cl
 The regional center treats patients with severe mental illnesses, as well as sex offenders with mental disorders. Patients may be sent to the center by court order or by local mental health boards.
 
 Source: Star Herald
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

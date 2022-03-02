@@ -11,8 +11,6 @@ BEIJING– Giant flames engulf every floor of 44-story building and it remains s
 
 A fierce fire consumed all 44 floors of a skyscraper in Beijing today, shooting 30 foot flames into the air, but unlike the similarly-sized 47-story WTC 7, which suffered limited fires across just eight floors, the building in China did not collapse.
 
-<a href="https://en.wikipedia.org/wiki/List_of_tallest_bridges" data-iframely-url></a>
-
 “The fire was burning from the ground floor to the top floor of the large building, the flames reflecting in the glass facade of the main CCTV tower next to the hotel and cultural center,” reports the New York Times.
 
 “The 241-room Mandarin Oriental hotel in the building was due to open this year. Flames were spotted around 7:45 p.m. and within 20 minutes the fire had spread throughout the building, dominating that part of the city.”
@@ -36,3 +34,7 @@ Take another example - the Windsor building in Madrid, a 32 story skyscraper whi
 The skyscraper fire in Beijing offers another stark and bold reminder that when one eliminates the dodgy, agenda-driven, and incomprehensible delusions of NIST, one fact remains abundantly clear;
 
 Office fires - even the flame shooting towering inferno variety - cannot cause modern buildings to implode in on themselves and collapse. Only deliberately placed explosives can achieve this end. The Windsor fire, the Beijing skyscraper fire and many more yet to come painfully underscore the awful truth that the only way WTC 7 and the twin towers could have collapsed in the manner that they did was by means of controlled demolition.
+
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

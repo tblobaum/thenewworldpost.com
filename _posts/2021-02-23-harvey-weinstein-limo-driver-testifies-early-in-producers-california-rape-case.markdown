@@ -55,3 +55,7 @@ At the Dec. 15 appellate hearing, Weinstein’s new defense lawyer, Barry Kamins
 A decision from the appellate court is expected in the coming months.
 
 No trial date has been set yet in Weinstein’s Los Angeles criminal case.
+
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

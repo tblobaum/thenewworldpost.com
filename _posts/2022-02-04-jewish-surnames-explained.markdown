@@ -121,3 +121,7 @@ Miscellaneous other names included Diamond; Glick/Gluck — luck; Hoffman — ho
 Jewish family names from non-Jewish languages included: Sender/Saunders — from Alexander; Kagan — descended from the Khazars, a Turkic-speaking people from Central Asia; Kelman/Kalman — from the Greek name Kalonymous, the Greek translation of the Hebrew shem tov (good name), popular among Jews in medieval France and Italy; Marcus/Marx — from Latin, referring to the pagan god Mars.
 
 Finally, there may have been Jewish names changed or shortened by immigration inspectors (though this is disputed) or by immigrants themselves (or their descendants) to sound more American, which is why “Sean Ferguson” was a Jew.
+
+This article first appeared on Jewish Journal.
+
+<a href="https://jewishjournal.com/culture/126045/" data-iframely-url></a>

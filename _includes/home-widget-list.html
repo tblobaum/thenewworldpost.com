@@ -4,7 +4,7 @@
   <li class="bomb-featured">
     <div class="bomb-img">
       {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
-      {%- assign date_format = site.minima.date_format | default: "%m/%-d/%Y" -%}
+      {%- assign date_format = site.minima.date_format | default: "%-m/%-d/%Y" -%}
     </div>
     <div class="bomb-text">
       <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -21,7 +21,7 @@
   <li class="bomb-featured-small">
     <div class="bomb-img">
       {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
-      {%- assign date_format = site.minima.date_format | default: "%m/%-d/%Y" -%}
+      {%- assign date_format = site.minima.date_format | default: "%-m/%-d/%Y" -%}
     </div>
     <div class="bomb-text">
       <span class="post-meta">{{ post.date | date: date_format }}</span>

@@ -21,3 +21,7 @@ And more cases could still be retroactively added to the weekly total when the c
 
 Statewide as of Friday evening, there have been 111,661 cases and 897 deaths linked to the disease, according to the Nebraska Department of Health and Human Services.
 
+This article first appeared on the Journal Star.  
+
+<a href="https://journalstar.com/lifestyles/health-med-fit/health/lancaster-county-reports-422-new-coronavirus-cases-67th-death/article_f6ebbda3-f77e-585c-bf40-e8bb1608caef.html" data-iframely-url></a>
+

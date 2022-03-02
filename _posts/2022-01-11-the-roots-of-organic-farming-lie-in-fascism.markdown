@@ -65,4 +65,9 @@ When a working class base of British Labour supported UKIP and Brexit during the
 
 Once again, there were arguments from both sides that by breaking free from Europe, Britain could rediscover a more pure sense of identity.
 
+This article first appeared on Scroll.in. 
+
+<a href="https://scroll.in/article/866170/the-roots-of-organic-farming-in-britain-lie-in-fascismhttps://slate.com/news-and-politics/2007/09/nixon-s-jew-count-the-whole-story.html" data-iframely-url></a>
+
+
 

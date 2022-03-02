@@ -28,3 +28,6 @@ Offutt is home to U.S. Strategic Command and is about 10 miles south of Omaha. I
 
 U.S. Strategic Command is part of the high command of the armed forces. It is about 50 miles from the University of Nebraska in Lincoln where the Cornhuskers Football team calls home. The huskers have called their “defense” the Blackshirts since the turmoil of the 1960s.
 
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

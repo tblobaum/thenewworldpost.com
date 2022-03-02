@@ -25,3 +25,6 @@ He also blames “crazy investor behavior” which includes meme stocks, the fas
 
 “When pessimism returns to markets, we face the largest potential markdown of perceived wealth in US history,” he said.
 
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

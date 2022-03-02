@@ -24,3 +24,6 @@ Pottawattamie County Attorney Matt Wilber said that depending on the damage, the
 
 Anyone with information about the incident should call the Sheriff’s Department.
 
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

@@ -7,7 +7,7 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%m/%-d/%Y"  -%}
+        {%- assign date_format = site.minima.date_format | default: "%-m/%-d/%Y"  -%}
         {{ page.date | date: date_format }}
         • 
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -51,7 +51,7 @@ layout: default
 </div>
 
 <br> 
-<p><small>This site is open source. {% github_edit_link "Improve this page" %}</small></p>
+<p><small>{% github_edit_link "Suggest a correction." %}</small></p>
     <script src="https://utteranc.es/client.js"
         repo="tblobaum/thenewworldpost.com"
         issue-term="pathname"
@@ -84,7 +84,7 @@ layout: default
   <li class="bomb-featured-small bomb-article-foot w50 left">
     <div class="bomb-img">
       {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- assign date_format = site.minima.date_format | default: "%-m/%-d/%Y" -%}
     </div>
     <div class="bomb-text">
       <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -110,7 +110,7 @@ layout: default
       <li>
         <div class="bomb-img">
           {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {%- assign date_format = site.minima.date_format | default: "%-m/%-d/%Y" -%}
         </div>
         <div class="bomb-text">
           <span class="post-meta">{{ post.date | date: date_format }}</span>

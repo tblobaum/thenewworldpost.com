@@ -24,5 +24,3 @@ For more information, visit http://ine.uaf.edu/wtc7 and https://AE911Truth.org/w
 Source: Security Magazine  
 
 <a href="https://AE911Truth.org/wtc7" data-iframely-url></a>
-
-

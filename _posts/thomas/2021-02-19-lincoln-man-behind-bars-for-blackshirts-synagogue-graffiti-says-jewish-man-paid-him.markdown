@@ -35,3 +35,6 @@ At sentencing, Jacobsen said that whether Miller wants to blame himself or someb
 
 “Nobody in this community should not feel safe when they go to a house of worship,” the judge said.
 
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

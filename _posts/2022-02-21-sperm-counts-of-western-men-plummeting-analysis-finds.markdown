@@ -3,11 +3,12 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Sperm Counts of Western Men Plummeting, Analysis Finds"
 date:   2022-02-21 04:44:00 -0600
-categories: Sperm Fertility Health USA Nixon  
+categories: Health USA 
+tags: Fertility USA Nixon  
 featured-image: sperm.jpeg
 featured-image-alt: Sperm
 ---
-WORLD– Sperm counts of men in North America, Europe, Australia and New Zealand are plunging, according to a new analysis published Tuesday.
+Sperm counts of men in North America, Europe, Australia and New Zealand are plunging, according to a new analysis published Tuesday.
 
 Among these men there has been a 52% decline in sperm concentration and a 59% decline in total sperm count over a nearly 40-year period ending in 2011, the analysis, published in the journal Human Reproduction Update, said.
 
@@ -17,7 +18,7 @@ Researchers led by Dr. Hagai Levine of Hebrew University of Jerusalem examined t
 
 Based on their analysis, the international team of researchers from Brazil, Denmark, Israel, Spain and the United States reported a decline in sperm concentration of 1.4% per year with an overall drop of 52.4% during the entire study period for men living in industrialized, Western countries. Meanwhile, total sperm count among the same group plunged 1.6% per year and 59.3% overall. By comparison, the researchers found no significant declines in the sperm counts and sperm concentrations of men living in South America, Asia and Africa. 
 
-“The extent of the decline is a heartache,” said Levine. “It’s hard to believe – it’s hard to believe for me.”
+> “The extent of the decline is a heartache,” said Levine. “It’s hard to believe – it’s hard to believe for me.”
 
 The high proportion of men in Western countries with sperm concentrations below 40 million/ml is “particularly concerning,” wrote Levine and his co-researchers, because evidence indicates that a sperm concentration below this threshold is associated with a “decreased monthly probability of conception.”
 
@@ -30,7 +31,7 @@ Many people did not accept the results of the study, said Levine, “it was quit
 
 Since 1992, other researchers conducted analyses to understand whether sperm counts have declined, yet the results were mixed.
 
-“Now we have a pretty solid answer,” said Levine, who said his own study performed a meta-regression, “a more conservative, sophisticated analysis,” one that accounts for factors that might influence the results. 
+“Now we have a pretty solid answer,” said Levine, who said his own study performed a meta-regression,“ a more conservative, sophisticated analysis, ”one that accounts for factors that might influence the results. 
 
 Though Levine emphasized that his analysis did not study the cause of declines, he speculated the reason may be “we are exposed to many chemicals we’ve never been exposed to before.”
 

@@ -37,7 +37,6 @@ The slogan Diversity = White Genocide has also been added.
 
 “These are the latest calling cards of hate,” Mark Pitcavage, Senior Fellow in ADL’s Center on Extremism said. “We pay special attention to those symbols that exhibit staying power as well as those that move from online usage into the real world.”
 
-
 Source: CNN 
 
 <a href="https://www.cnn.com/2019/09/26/us/adl-new-hate-symbols/index.html" data-iframely-url></a>

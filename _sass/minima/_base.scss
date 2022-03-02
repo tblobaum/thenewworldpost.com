@@ -44,6 +44,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 20px;
 }
 
+p.post-meta {
+  line-height: 32px;
+}
+
 p.post-meta,
 h1.post-title {
   max-width: 99999px;
@@ -52,7 +56,7 @@ h1.post-title {
 
 p {
   max-width: 600px;
-  line-height: 1.4;
+  line-height: 1.5;
   // text-align: justify;
   margin: auto;
 }
@@ -88,7 +92,7 @@ ul, ol, dl, figure,
 }
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 }
 
 p, blockquote, pre, ul, ol, dl, figure, .highlight {
@@ -186,8 +190,9 @@ blockquote {
   border-left: 4px solid $grey-color-light;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
-  letter-spacing: -1px;
+  // letter-spacing: -1px;
   font-style: italic;
+  margin: 20px 0;
 
   > :last-child {
     margin-bottom: 0;
@@ -321,31 +326,30 @@ table {
   position: relative;
   }
 
-  img {
+  .home img {
     filter: grayscale(0.8);
     transition: all 0.5s ease;
   }
   img:hover {
     filter: grayscale(0) !important;
   }
-  
-  ul li:first-child img,
-  ul li:nth-child(3) img,
-  ul li:nth-child(5) img,
-  ul li:nth-child(7) img,
-  ul li:nth-child(9) img,
-  ul li:nth-child(11) img,
-  ul li:nth-child(14) img {
+
+  .home ul li:first-child img,
+  .home ul li:nth-child(3) img,
+  .home ul li:nth-child(5) img,
+  .home ul li:nth-child(7) img,
+  .home ul li:nth-child(9) img,
+  .home ul li:nth-child(11) img,
+  .home ul li:nth-child(14) img {
     filter: grayscale(0.2);
   }
 
  
-  ul li:nth-child(2) img,
-  ul li:nth-child(4) img,
-  ul li:nth-child(6) img {
+  .home ul li:nth-child(2) img,
+  .home ul li:nth-child(4) img,
+  .home ul li:nth-child(6) img {
     filter: grayscale(1);
   }
-
 
   img.color, .color img {
     filter: grayscale(0);

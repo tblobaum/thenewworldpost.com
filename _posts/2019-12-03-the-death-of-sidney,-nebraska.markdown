@@ -51,3 +51,6 @@ In 2016, Singer was the second biggest donor to Republicans.
 
 Elliott Management declined to comment on the record when reached by Tucker Carlson Tonight.
 
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

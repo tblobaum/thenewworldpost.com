@@ -40,4 +40,7 @@ The International Potato Center, known by its Spanish acronym CIP, was founded i
 
 CIP is part of the CGIAR, a global partnership that unites organizations engaged in research for a food secure future. CGIAR research is dedicated to reducing rural poverty, increasing food security, improving human health and nutrition, and ensuring more sustainable management of natural resources. Funders include individual countries, major foundations, and international entities.
 
+This article first appeared on the CIP International Potato Center.  
+
+<a href="https://cipotato.org/blog/indicators-show-potatoes-can-grow-mars/" data-iframely-url></a>
 

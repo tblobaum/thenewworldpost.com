@@ -48,7 +48,7 @@ In scenario #2, we vaccinate as many people as we can and as quickly as we can. 
 
 I know which scenario I would choose.
 
-Pattern recognition
+### Pattern recognition
 Finally, a few words on Dr. Bossche himself and the rhetorical tricks he uses in his manifesto. I am sometimes accused of attacking the person instead of simply addressing the arguments, but appraising the messenger and the phrasing of the message can be very useful.
 
 Dr. Geert Vanden Bossche is a veterinary doctor who also has a Ph.D. in virology. His LinkedIn profile lists several jobs in upper management positions, including a three-year stint as the senior program officer for vaccine discovery at the Bill and Melinda Gates Foundation. He is no stranger to vaccines. His academic publications essentially stop in 1995, except for one 2017 article about his natural killer cell vaccine idea published in a journal belonging to a publishing group, OMICS Group Inc, that has been called “predatory” and was sued by the Federal Trade Commission for deceptive practices.
@@ -66,3 +66,6 @@ In short, if we are concerned about the virus mutating to evade vaccine protecti
 * If coronavirus variants emerge for which the current vaccines offer little to no protection, the vaccines can be reformulated to be a better fit, much like the annual flu vaccine
 * Dr. Bossche proposes the use of a new type of vaccine based on natural killer cells, which he claims he is working on but for which there is no published evidence
 
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

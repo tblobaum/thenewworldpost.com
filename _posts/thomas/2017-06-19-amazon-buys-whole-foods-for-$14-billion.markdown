@@ -15,8 +15,6 @@ But this is a much bigger move, and Amazon plans to keep the Whole Foods brand a
 
 Beyond its activist investors, Whole Foods has other business problems, including slow growth, shrinking profits and increasing competition from traditional grocers, meal-kit services like Blue Apron and e-commerce plays like Amazon. Still, it has a strong, high-end brand and plenty of potential.
 
-<a href="https://en.wikipedia.org/wiki/Whole_Foods_Market" data-iframely-url></a>
-
 “Millions of people love Whole Foods Market because they offer the best natural and organic foods, and they make it fun to eat healthy,” Bezos said in a canned quote. “Whole Foods Market has been satisfying, delighting and nourishing customers for nearly four decades — they’re doing an amazing job and we want that to continue.”
 
 <a href="https://en.wikipedia.org/wiki/Jeff_Bezos" data-iframely-url></a>

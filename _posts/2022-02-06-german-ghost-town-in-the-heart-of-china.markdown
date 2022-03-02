@@ -59,5 +59,7 @@ Dell, the architect, puts a brave face on it. Sooner or later, people will move 
 
 Speer, he added, wouldn’t accept such a model city contract again.
 
-https://en.wikipedia.org/wiki/Anting
+This article first appeared on ABC News.
+
+<a href="https://abcnews.go.com/International/german-ghost-town-heart-china/story?id=14722154" data-iframely-url></a>
 

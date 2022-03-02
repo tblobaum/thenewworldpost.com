@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "With the Rise of German Far-Right, Israeli Leaders in Berlin Says it’s Time to Go"
+title:  "With the Rise of German Far-Right, Israeli Celeb in Berlin Say it’s Time to Go"
 date:   2021-03-14 04:20:00 -0600
 categories: World
 tags: Berlin Israel
@@ -96,4 +96,6 @@ He says he would be interested in moving to the United States “for professiona
 
 Asked if Berlin is safe for Jews and Israelis, he responded, “I would have said so seven years ago. Now I’m not sure. But then again I’m not sure anywhere is safe for them.”
 
-From Times of Israel
+This article first appeared on Times of Israel.  
+
+<a href="https://www.timesofisrael.com/with-the-rise-of-german-far-right-israeli-celeb-in-berlin-says-its-time-to-go/" data-iframely-url></a>

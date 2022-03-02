@@ -36,3 +36,7 @@ Katz said the island would be in international waters and could provide economic
 He said he hopes Israel’s security establishment will back the plan, and that it will soon come up for a vote in the Cabinet.
 
 Husam Zumlot, an aide to Mr Abbas, criticised the idea as “dubious” and “politically motivated,” saying it would lead to “the final severing of Gaza from the rest of the occupied territory of the state of Palestine.”
+
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

@@ -67,3 +67,7 @@ Rotunno argued that Weinstein did not get due process at his trial, nearly two y
 Cheronis agreed.
 
 “They tried to create this monster we never believed existed,” Cheronis said. “They were allowed to put in evidence that wasn’t relevant, that was prejudicial, and thank God people are now taking it seriously.”
+
+This article first appeared on the Variety.  
+
+<a href="https://variety.com/2021/film/news/harvey-weinstein-go-free-appeals-court-1235135139/" data-iframely-url></a>

@@ -26,4 +26,11 @@ I am not suggesting, by any means, that Bob Devaney or the Huskers had any inten
 
 The past 30 years have seen many sports teams reckon with the ways their nicknames and iconography have unintentionally elevated and mythologized some of the darkest chapters of our history. It’s probably time for Nebraska to do the same.
 
-Source: Off Tackle Empire
+This article first appeared on Off Tackle Empire. 
+
+<a href="https://www.offtackleempire.com/2020/11/22/21590082/its-probably-time-for-nebraska-to-retire-the-blackshirts-nickname" data-iframely-url></a>
+
+
+
+
+

@@ -4,12 +4,23 @@ author: Thomas James Blobaum
 title:  "The University of Nebraska Supports Fascists Who Are Sterilizing Billions Of People"
 date:   2022-03-01 00:07:57 -0600
 categories: World  
-featured-image:  nebraska-football.png
+featured-image:  conspiracy/ne-center.png
 featured-image-alt:  Nebraska Football
 ---
-Every wonder why Nebraska is known by the majority of America as a "flyover state?" On this webpage you can read about what is probably one of the main reasons why. 
+Ever wonder why Nebraska is known by the majority of America as a "flyover state?" On this webpage you can read about what is probably one of the main reasons why. 
 
 >“For those that believe, no explanation is necessary. For those that do not, no explanation will suffice.”
+
+## Table of Contents
+#### A.) Flags
+#### B.) Corroborating Evidence
+#### C.) Personal Experience
+#### D.) Psychological War
+#### E.) Recap
+#### F.) Relevant Laws
+#### G.) Conclusion
+#### H.) Japanese
+#### I.) Related Conspiracies  
 
 Nebraska has a very serious social problem. At the flagship University of Nebraska in the state's capitol there is an entrenched two-faced Neo-Nazi Conspiracy with roots in the Civil Rights Era.
 
@@ -76,13 +87,12 @@ The Waffen SS, Italian Blackshirts and Nebraska Blackshirts flags all:
 
 The Nebraska Blackshirts flag is clearly inspired by the Waffen SS and Italian Blackshirts flags. The Nebraska flag carries the name blackshirts, while also having a design similar to the other blackshirts flags, giving the signal that they are of the same mind. 
 
-The Waffen SS, Nebraska Blackshirts, and Italian Blackshirts flags are very similar and they all go by the name Blackshirts. This is not a coincidence. This is clear and convincing evidence of a conspiracy. Please don’t be fooled. There is a wealth of information in this document that connects the UNL Blackshirts to fascism, though this first connection we have made is the powerful cornerstone where we draw a deep connection between Nazism and the UNL football team. 
+The Waffen SS, Nebraska Blackshirts, and Italian Blackshirts flags are very similar and they all go by the name Blackshirts. This is not a coincidence. This is clear and convincing evidence of a conspiracy. Please don’t be fooled. There is a wealth of information in this document that connects the UNL Blackshirts to fascism, though this first connection we have made is the cornerstone. 
 
 ### The Flag of the Nazi Party & the Flag of UNL
 The University of Nebraska flag shares a few qualities with the flag of Nazi Germany. They both:
 
 ![](/assets/images/conspiracy/nazi-flag.png)
-
 
 ![](/assets/images/conspiracy/ne-flag.jpg)
 
@@ -109,6 +119,8 @@ The colors of modern Germany are red, black and gold. These colors are essential
 
 ![](/assets/images/conspiracy/native-american-flag.jpg)
 
+![](/assets/images/conspiracy/berlin-belgium.png)
+
 ### Native Americans
 Native Americans, who have long carried the swastika, have flags similar to the German flag. The Native American flags have the full colors of the standard of Adolf Hitler, which are the same as the Cornhuskers: red, black, gold and white. 
 
@@ -119,19 +131,20 @@ Every year the Cornhuskers play the Iowa Hawkeyes around Thanksgiving in a game 
 
 Additionally, the flag of the Iowa Hawkeyes is similar to the flag of the first Reich (just search for the flag of the Holy Roman Empire) and this is known by the hardcore fans. The Heroes game is thus the first Reich versus the third Reich. 
 
+![](/assets/images/conspiracy/heroes-game.png)
+
 One might say that "war hawks" are the ones responsible for the conspiracy that engulfs these two states. A war hawk, or simply hawk, is a term used in politics for someone who favors war or continuing to escalate an existing conflict as opposed to other solutions. War hawks are the opposite of doves. Nebraska clearly has the character of a passive aggressive war hawk. By going along with the conspiracy Iowa does too.
 
 One might take a moment and wonder what affect the Corn-Nazis have had on the very important Iowa Caucuses. If there was a "great" time to assassinate a presidential candidate then you could probably say it is around the time of the Iowa Caucsues. Such an event would lead to fear, confusion, a lack of leadership, and because of how important winning the Iowa Caucus is an assassination there would almost certainly lead to the other political party winning the election. 
 
 It is reasonable to conclude that there is more extremism in Iowa because of the University of Nebraska. It is therefore reasonable to conclude that because of the importance of the Iowa Caucus, that  there is a much greater chance that a Democrat front-runner is assassinated in Iowa because of this and also because of the University of Nebraska. There is probably also a slightly increased chance of a Republican front-runner being assassinated in Iowa. 
 
-
 ### Other Flags
 There are other flags and merchandise by the Cornhuskers that have a political, Nazi or German affiliation. 
 
 ![](/assets/images/conspiracy/ne-anarchist.jpg)
 
-Anarchist / Alt-Right Flag
+###  Anarchist / Alt-Right Flag
 This flag uses the Anarchist design. A poster in a thread on reddit responds to those behind the flag saying, “don't think we don't know what your up to, vast underground conspiracy known as the Alt-Right.” [6] The poster also mocks UNL, stating that the use of the skull and cross bones in the same instance as the use of the term Blackshirts implies that the use of the word blackshirts is not coincidental. This is the same conclusion that any non-biased group individual will reach after reading this web page. 
 
 Another flag features the word “national” as in “National Socialism.”
@@ -145,7 +158,7 @@ Nebraska, like Nazi Germany, is one of the most right-wing states on its contine
 Point 2: Nebraska & Nazi Germany are both ethnic German states
 German was almost 100% German after Hitler had his way with the place. Nebraska is the most German-American state in the United States. It is the only state with the German-American ethnic group as the largest ethnic group in every county. It follows that since the Germans were the Nazis, then the most German-American state would have the highest (or a high) percentage of Neo-Nazis. It just so happens that not only does the most German-American state have a high percentage of Neo-Nazis, but it even has a state-funded Neo-Nazi college sports team. 
 
-![](/assets/images/conspiracy/neb-center.jpg)
+![](/assets/images/conspiracy/ne-center.png)
 
 Point 3: Nebraska & Nazi Germany are both Geo-Central states
 Germany and Nebraska are both in the exact center of their respective continents. This is evidence that shows how Nebraska is similar to Germany. 
@@ -180,6 +193,7 @@ A hand sign adopted by members of 4chan, which then spread all around the world,
 The "swastika carved on the center of the forehead" from WW2 can be seen on University of Nebraska Blackshirts imagery.
 
 ![](/assets/images/conspiracy/ne-forehead.jpg)
+
 ![](/assets/images/conspiracy/nazi-forehead.jpg)
 
 Point 9: Heil Big Red
@@ -195,7 +209,7 @@ Is this a coincidence or is the football institution oozing Nazism? You can be t
 
 88 means Heil Hitler (8=H) so 8 an be either Heil or Hitler. This phone number can then be decoded probably as “HEIL BIG RED.” 
 
-C.) Personal Experience
+## C.) Limited Personal Experience
 I have personal experience with regards to the topic that corroborates the evidence already laid out in this document. 
 
 ### Point 1: Childhood
@@ -228,6 +242,8 @@ The large amount of evidence in this document clearly shows how real the Neo-Naz
 
 ### Pirate Flag Confusion
 How the Blackshirts flags (all three of them) look like the basic pirate flag is often used to muddle a discussion. Don’t be confused. 
+
+![](/assets/images/conspiracy/pirate-flag.jpeg)
 
 ## E.) Recap
 Before I conclude this document I want to quickly recap the points being made. There is a large number of connections that we can make between the University of Nebraska Blackshirts and Nazi Germany. Several of them, even the strong ones, appear to be coincidences or happenstance to the untrained investigator. Others, like the use of the skull combined with the use of the term Blackshirts, are clearly not coincidences, and they shed light on the apparently more coincidental evidence. 
@@ -287,15 +303,14 @@ Conspiracy against rights is a federal offense in the United States of America u
 
 >They shall be fined under this title or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, they shall be fined under this title or imprisoned for any term of years or for life, or both, or may be sentenced to death.[4]
 
-### Legal status of crimes against humanity in international law:
+Legal status of crimes against humanity in international law:
 
 >Unlike genocide and war crimes, which have been widely recognized and prohibited in international criminal law since the establishment of the Nuremberg principles, there has never been a comprehensive convention on crimes against humanity, even though such crimes are continuously perpetrated worldwide in numerous conflicts and crises. There are eleven international texts defining crimes against humanity, but they all differ slightly as to their definition of that crime and its legal elements.[5]
 
 ## G.) Conclusion
 The recap shows clear and convincing evidence linking the UNL Blackshirts to allies of Adolf Hitler, to Adolf Hitler, to Neo-Nazisn and to fascism. Cornhusker fans look like German Nationals with Nazi tendencies, and you don't need this website to have figured that out. In addition German Nationals look like Cornhusker fans. The German national on the left can easily be mistaken for a Cornhusker fan. One who has looked into the depth of the connections, as they are made here or in other documents, can find clear and convincing evidence of a seditious conspiracy and a conspiracy against rights. This is a very serious issue that should be investigated by nire Civil Rights activists and state, federal and international authority. 
 
-### Final Points
-If you know enough about Nebraska, politics and fascism then this one image says it all. The founding date of the Blackshirts. The Civil Rights Movement. The Nazi color scheme. The totenkopf/skull. The red N on the forehead. And the German location: Nebraska.
+![](/assets/images/conspiracy/german-national.jpg)
 
 ### Nazis in Space
 I'm sure the Neo-nazi fans of Iron Sky and other space nazi enthusiasts love this one. UNL have even put a bald skinhead in outer space. He showed off cornhusker gear the whole way. 
@@ -306,7 +321,9 @@ I'm sure the Neo-nazi fans of Iron Sky and other space nazi enthusiasts love thi
 There is a popular Nebraska facebook group called Cornhusker memes with nearly 100,000 followers. Memes about Nebraska are posted by the group. The group's banner image is a popular Nazi meme that has been altered to be a Cornhusker meme. Link 
 
 ![](/assets/images/conspiracy/nazi-moon.jpeg)
+
 ![](/assets/images/conspiracy/ne-memes.png)
+
 ![](/assets/images/conspiracy/ne-memes-2.png)
 
 ### Warren Buffett
@@ -318,6 +335,8 @@ Warren Buffett is a well known fan of the Cornhuskers. Do you think he can hold 
 Evidence of the conspiracy can be found in the local news in Lincoln, but it just doesnt seem to make national headlines like you might think it should. Maybe the national news are all scared of Buffett buying their companies and firing them or ruining their careers for covering something like this. It's plausible. 
 
 ![](/assets/images/conspiracy/temple.jpg)
+
+![](/assets/images/blackshirts-graffiti.jpg)
 
 From jewishjournal.com:
 
@@ -344,33 +363,27 @@ Gee, I wonder why the local news reporters didn't think of that.
 
 https://huskers.com/news/2018/1/26/211694410.aspx
 
-H.) Japanese
+## H.) Japanese
 
+### Imperial Japanese 
+At least a number of Imperial Japanese have joined their German allies as the Blackshirts in Nebraska. Hiro 88 is an upscale Japanese restaurant that only exists in Nebraska. It has locations in Omaha and Lincoln. Hiro as in Hirohito, the emperor of Japan during WW2.88 as in Heil Hitler or Hiro Hito, with H being the 8th letter of the alphabet. HH can also mean His Highness. 
 
-Hiro 88
-Hiro 88 is an upscale Japanese restaurant that only exists in Nebraska. It has locations in Omaha and Lincoln. 
-
-Hiro as in Hirohito, the emperor of Japan during WW2.
-
-88 as in Heil Hitler or Hiro Hito, with H being the 8th letter of the alphabet.
+![](/assets/images/conspiracy/hiro-88.jpeg)
 
 https://www.adl.org/education/references/hate-symbols/88
 
 Locations: https://hiro88.com/hours-contact/
 
+## I.) Related Conspiracies 
 
-I.) Additional Reading
+### Depopulation 
 
-Police Department Race and Ethnicity Demographic Data
-Unsurprisingly, the Lincoln Police Department is almost 100% white. Only a  little over a decade ago it was 100% white and 100% male. 
+![](/assets/images/conspiracy/genocide.png)
 
-www.governing.com/gov-data/safety-justice/police-department-officer-demographics-minority-representation.html 
+### Corona Virus 
 
-FBI warned of white supremacists in law enforcement
-...the problem of racial bias among police isn’t new. In fact, it’s been a concern of the FBI for at least a decade. Exactly 10 years ago this week, the FBI warned of the potential consequences — including bias — of white supremacist groups infiltrating local and state law enforcement, indicating it was a significant threat to national security.
+![](/assets/images/conspiracy/nebraska-germany-nazis-unl-blackshirts-waffen-ss-resident-evil-lincoln-regional-corona-racoon-6-million-rotes-kreuz.png)
 
-www.pbs.org/newshour/nation/fbi-white-supremacists-in-law-enforcement 
+### Lincoln the new Washington 
 
-Why hate crimes are so difficult to convict
-www.pbs.org/newshour/nation/hate-crimes-difficult-convict 
-
+![](/assets/images/conspiracy/lincoln-washington.png)

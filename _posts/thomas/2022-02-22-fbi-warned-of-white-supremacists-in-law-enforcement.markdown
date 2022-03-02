@@ -56,6 +56,6 @@ As the nation continues to examine the role of race in law enforcement, many lik
 
 “There needs to more direct enforcement,” Jones said. “It’s one thing to issue a memo, and another to have continued action after it. There was a warning 10 years ago and nothing else since then.”
 
+This article first appeared on Unknown. 
 
-
-
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

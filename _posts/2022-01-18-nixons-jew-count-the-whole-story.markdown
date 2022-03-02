@@ -34,4 +34,7 @@ Nixon: Now, point: [Fred] Malek is not Jewish.Haldeman: No.Nixon: All right, I w
 
 Three weeks pass. It is now the morning of July 24, 1971, and Nixon, fulminating about Daniel Ellsberg and the New York Times and administration leaks, finds his thoughts drifting back to the Bureau of Labor Statistics. What follows is from a second new Miller Center transcription (click here and scroll to the bottom):
 
-Originally posted on Slate
+This article first appeared on Slate. 
+
+<a href="https://slate.com/news-and-politics/2007/09/nixon-s-jew-count-the-whole-story.html" data-iframely-url></a>
+

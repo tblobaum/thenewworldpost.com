@@ -30,3 +30,7 @@ He ended his letter by warning that major chemical companies could soon be hit b
 Grantham gained influence as an investor after correctly calling the dotcom bubble in 2000 and the market’s dramatic downturn in 2008. GMO has struggled in recent years, however. It reported $62.1 billion in assets under management at the end of 2018, down from about $124 billion in June 2014.
 
 Grantham has long expressed public concern about environmental issues, including launching the Grantham Foundation for the Protection of the Environment in 1997. His firm also runs the GMO Climate Change fund.
+
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

@@ -17,7 +17,6 @@ This suggests measures of sperm quality may reflect the impact of modern living 
 
 Studies have reported declines in sperm count since the early 1990s, but many of those have been questioned because they did not account for potentially major confounding factors such as age, sexual activity and the types of men involved.
 
-
 Working with a team of researchers in the United States, Brazil, Denmark, Israel and Spain, Levine screened and brought together the findings of 185 sperm count studies from 1973 to 2011 and then conducted a so-called meta-regression analysis.
 
 The results, published in the journal Human Reproduction Update, showed a 52.4 percent decline in sperm concentration and a 59.3 percent decline in total sperm count among North American, European, Australian and New Zealand men.
@@ -34,3 +33,6 @@ Daniel Brison, a specialist in embryology and stem cell biology at Britain’s M
 
 Richard Sharpe at Edinburgh University added: “Given that we still do not know what lifestyle, dietary or chemical exposures might have caused this decrease, research efforts to identify (them) need to be redoubled and to be non-presumptive as to cause.”
 
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

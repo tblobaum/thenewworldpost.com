@@ -8,10 +8,9 @@ tags: Nixon
 featured-image: national-security.jpeg
 featured-image-alt: National Security Community 
 ---
-
 The biggest challenge to global stability and security cannot be addressed by major weapons systems. Deterrence strategies will not prevent it. More and more lethal warfighters can do nothing to overcome it. That challenge? Runaway population growth. Runaway population growth will continue to destabilize and undermine the security of key regions, and the global system, regardless of our investment in these traditional approaches to national security. It is time to think differently, and to reorient our national security enterprise to address this challenge before it destroys our planet and our species.
 
-### Runaway Population Growth’s Role In Undermining Security and Stability
+## Runaway Population Growth’s Role In Undermining Security and Stability
 
 Many, including myself, have made arguments that humanity long ago exceeded our planet’s carrying capacity, with runaway population growth leading us to accrue a long term ecological debt that is undermining our planet’s ability to support us as a species.[1] Such arguments often leave readers with the impression that runaway population growth is an environmental challenge—which it no doubt is. Yet, it is easy to demonstrate how environmental challenges such as ecosystem destruction and climate change, which are clearly exacerbated by runaway population growth, also impact stability and security around the planet. It is even easier to demonstrate how runaway population growth causes social instability and threats to human security within particular regions and across the international system.
 
@@ -19,7 +18,7 @@ Still, it is rare to hear national security leaders discuss the implications of 
 
 This is hardly a new trend. It is simply that US national security leaders have fallen prey to the same cultural blind spot that has dominated American culture for nearly half a century. It is high time that US national security policy tackles the issue of runaway population growth which is driving so many trends that are undermining security and stability around the world.
 
-The History of Population Considerations in US National Security Policy
+## The History of Population Considerations in US National Security Policy
 
 Today, few national security professionals are aware that the issue of runaway population growth was once an issue of great importance at the highest levels of the US national security community. For that reason, it is useful to situate population discussions in context of the history of US national security policymaking.
 
@@ -29,7 +28,7 @@ Runaway population growth had found its way in to the US national security polic
 
 Half a century after NSSM-200, and a quarter century after Cairo, we are left with nothing more than a massive cultural blind spot leading national security leaders to overlook the most crushing threat to our planet and our species. All the while, the level of funding required to bend the global population curve through humane, ethical and empowering strategies is dwarfed by the amount of money (mis)spent each year on failed major weapon systems by the US Department of Defense.
 
-Where Does Runaway Population Growth Fit in the US National Security Enterprise?
+### Where Does Runaway Population Growth Fit in the US National Security Enterprise?
 
 Runaway population growth is actively undermining US national security interests and principles in key regions, while also undermining the security of our global system in many different ways.  When facing a new (or newly perceived) threat to our national security, we must ask how to address it within our National Security Strategy, and how it flows down in to the National Defense Strategy, as well as the Department of State and USAID Joint Strategic Plan, their Integrated Country Strategies, and Joint Regional Strategies.[7]
 
@@ -41,7 +40,7 @@ USAID’s strategy and resourcing, like those of all components of the national 
 
 This leads one to contemplate, why does the DoD have no consideration of population issues represented in its strategy? This is most likely because population issues are hardly represented in the National Security Strategy at all. Indeed, USAID’s PHE efforts are tied more to America’s strategic commitment to women’s health and empowerment internationally—a commitment worthy of American initiative. This explains why USAID’s PHE efforts are not designed to address the larger role of runaway population growth in undermining stability and security around the world. And, it explains why no other component of the US national security community even considers these issues, even implicitly.
 
-Time to Address Runaway Population Growth in the US National Security Strategy
+### Time to Address Runaway Population Growth in the US National Security Strategy
 
 With a new Administration comes the crafting of a new National Security Strategy that reflects its approach to realizing American interests and principles abroad.  It is time that runaway population growth be addressed in the National Security Strategy the same way the issues of WMD proliferation, terrorism, and great power competition (GPC) are treated.
 
@@ -78,28 +77,26 @@ Naturally, one must also contemplate the role of Department of State programs wh
 
 Obviously, each region would demand a different mix of programmatic approaches to bend its population curve.
 
-### Information
-
 As part of these PHE programs, USAID has made some limited investments in norm shifting information campaigns. Novel entertainment media, crafted for a specific geography and cultural setting, has demonstrated enormous success in radically different places. Whether television or radio, these media interventions have demonstrated the ability to achieve material shifts in reproductive norms, simply by educating and modeling behavior in an entertaining and engaging fashion. It has been proven that serial dramas as particularly good at planting seeds that ultimately shift reproductive norms, as they center on the evolution of key characters from traditional attitudes towards modern attitudes with regard to the role of women and girls, family size consideration, the use of family planning, and overall family communications on these topics. This area of investment has been sorely under-resourced, and the impact on TFR per dollar invested has been underappreciated by national security policymakers. 
 
 A well crafted information campaign that is resourced at modest levels, compared to a major weapons system, could be transformational. The success of such programs has been demonstrated in Argentina, Bolivia, Botswana, Brazil, Burkina Faso, Burundi, Chile, Colombia, Costa Rica, Côte d’Ivoire, Democratic Republic of the Congo, Dominican Republic, nine island nations of the Eastern Caribbean, Ecuador, El Salvador, Ethiopia, Guatemala, Haiti, Honduras, Jamaica, Kyrgyzstan, Mali, México, Nepal, Nicaragua, Niger, Nigeria, Papua New Guinea, Panamá, Paraguay, Perú, the Philippines, Puerto Rico, Rwanda, Senegal, Sierra Leone, South Africa, Sudan, Swaziland, the United States, Uruguay, Venezuela, Vietnam, and Zimbabwe. PMC has new projects in development in Burundi, Burkina Faso, Democratic Republic of the Congo, Ethiopia, India, Kenya, Mexico, Niger, Nigeria, the Philippines, Rwanda, Senegal, Sierra Leone, Pakistan, Uganda, and Zambia.[11] However, this approach requires larger scale, sustained funding for such programs, conducted as a complement to other policy interventions, across all relevant geographies, if we are to bend the global population curve.  Such funding has not been forthcoming in the US foreign policy budgets.
 
 The effectiveness of such Information based interventions often may depend on the media outlet chosen for its dissemination. The current US Agency for Global Media (formerly the Broadcast Board of Governors), its subsidiaries Radio Free Europe/Radio Liberty, and its grantee Radio Free Asia largely address geographies with less concerning TFR’s—if not already below replacement value. This leads us to think about how to design and deploy such content to high TFR nations, through local media outlets that reach the target demographics. And, it leads us to think about which government agency should own this mission.
 
-### Military
+## Military
 
 The Department of Defense (DoD) and the military services have been conspicuously absent from any population related initiatives. However, the relatively recent emergence of Women, Peace, and Security frameworks within US defense policy, and those of our allies, has provided a useful platform for potentially addressing these issues. In particular, it enables the provision of sexual health education and resources in the fight against fundamentalist influences, which tend to demand the subjugation of women and girls, including their sexual subjugation.
 
 The June 2020 Women, Peace and Security Strategic Framework and Implementation Plan (WPS SFIP) promulgated by the US DoD has as its Defense Objective 3 that “Partner nation defense and security sectors ensure women and girls are safe and secure and that their human rights are protected, especially during conflict and crisis.”[12] This gives the DoD lots of programmatic leeway when dealing with partner nations. Such objectives set DoD on a path to deliver performance, organize for innovation, and align Department action in support of the WPS Strategy Lines of Effort (LOEs).  LOE 2 & 3 within the 2020 WPS SFIP are most interesting.
 
-### WPS Strategy LOE 2 directs the Department to:
+## WPS Strategy LOE 2 directs the Department to:
 
-Promote the protection of women and girls’ security, human rights, and access to aid with governments and regional or other security sector forces, as appropriate.
-Address security-related barriers to the protection of women and girls.
-Prioritize efforts to prevent and respond to sexual exploitation and abuse.
-Provide women and girls with safe and equal access to humanitarian assistance.
-Empower women as partners in preventing and combatting terrorism.
-WPS Strategy LOE 3 directs the Department to:
+* Promote the protection of women and girls’ security, human rights, and access to aid with governments and regional or other security sector forces, as appropriate.
+* Address security-related barriers to the protection of women and girls.
+* Prioritize efforts to prevent and respond to sexual exploitation and abuse.
+* Provide women and girls with safe and equal access to humanitarian assistance.
+* Empower women as partners in preventing and combatting terrorism.
+* WPS Strategy LOE 3 directs the Department to:
 
 * Adjust its international programs to improve outcomes in women’s equality and empowerment.
 * Train DoD personnel on the needs, perspectives, and security requirements of men and women; protecting civilians from violence, exploitation, and trafficking in persons; and international humanitarian law (IHL) and international human rights law (IHRL).
@@ -108,7 +105,7 @@ WPS Strategy LOE 3 directs the Department to:
 
 Also, it calls for security cooperation with partner nation defense and security sectors, as appropriate, to facilitate their ability to ensure the security and safety of their civilians —especially women and girls.  This creates a huge opportunity for the DoD and military services to play a role in investing in population dynamics through the empowerment of women and girls, given the role of runaway population growth in fueling extremism in so many geographies. Not only would this be consistent with US core values, but it would be integral to overall mission success.
 
-### Economic
+## Economic
 
 The economic instrument of national power is also essential in bending the global population curve.  It is already recognized that “societies that empower women to participate fully in civic and economic life are more prosperous and peaceful.”[13] What is not recognized in US policy is that we tend to observe below replacement value fertility in the geographies where women are empowered, educated, integrated into the workforce, and given access to family planning technologies.  If we take seriously the role of runaway population growth in fueling instability and human insecurity in so many regions around the world, we would expand our use of the economic instrument of national power to address the issue.
 
@@ -116,7 +113,7 @@ Progress has been made empowering women through micro-enterprise development inv
 
 There is no end to the economic instruments that could be used to empower women, educate women and girls, integrate women into the workforce, and provide access to family planning technologies. We are left simply to determine the impact of each economic instrument on TFR, to set a target, and to deploy economic and policy resources to meet the target.
 
-### Conclusion
+## Conclusion
 
 Without bending the global population curve, we can expect to see runaway population growth continue to destabilize and undermine the security of key regions, and our entire global system. Within the existing National Security Strategy there are existing features that would require rather minor adjustments to enable our national security enterprise to harness just, ethical, and empowering strategies to help bend the global population curve. These features already flow down in to the strategy documents of the departments and agencies that implement each instrument of national power, and could similarly be aligned with such a vision, given little effort. While the politics around any particular effective policy measure may prove difficult to maneuver through Congressional authorization and appropriations processes, there will no doubt remain a long list of politically viable policy measures that the US national security enterprise could effectively deploy to bend the population curve in key regions, preventing the youth bulges fuelling instability, extremism, conflict, and other threats to human security.
 

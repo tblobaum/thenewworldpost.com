@@ -23,3 +23,6 @@ One of the things the team discovered is that these worlds would have had high r
 
 In other words, as we find Earth-sized worlds orbiting Sun-like stars, the odds are good that they will also have similar geology. And that means the chances of a truly Earth-like world is higher than we once thought.
 
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

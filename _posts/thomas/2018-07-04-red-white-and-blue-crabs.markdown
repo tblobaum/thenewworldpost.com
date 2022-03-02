@@ -46,3 +46,7 @@ But despite their infamous taste for flesh,”they usually keep to themselves,�
 In fact, it’s the crabs’ safety that’s threatened if anything. “It’s very likely that they’re actually an endangered species due to population pressures from human consumption,” said Morgan (they’re “data-deficient” according to the latest IUCN update, but their populations are likely declining).
 
 These slow-growing crabs take at least 5 years to reach maturity, several decades to become fully grown, and can live almost as long as we do. And that means they’re just not great at rebounding if their numbers crash. So if we keep messing with these amazing animals the way we are now by eating them and destroying their island homes, we may never understand their colorful lives.
+
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

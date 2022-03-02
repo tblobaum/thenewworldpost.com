@@ -48,4 +48,6 @@ He further said that the Chinese are already involved in building Israeli port o
 
 He further added that the role of Israel's high-tech development in China is pretty large. In China’s agriculture, a lot is done by the Israeli experts, including breeders, who have special farms. Therefore, the cooperation is mutually beneficial,” the editor concluded.
 
-<a href="https://en.wikipedia.org/wiki/Port_of_Ashdod" data-iframely-url></a>
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

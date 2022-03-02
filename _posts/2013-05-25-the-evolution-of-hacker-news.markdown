@@ -81,3 +81,6 @@ While it’s clear that Graham has his frustrations with the community, when he 
 
 As for the future of Hacker News, it’s clear that Graham is focused on maintaining quality and making sure that the community treats each other with respect and kindness. “I hope that most Hacker News readers know that I am doing this for their sake,” he says.
 
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

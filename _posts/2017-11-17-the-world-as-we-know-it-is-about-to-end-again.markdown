@@ -72,3 +72,6 @@ He took issue with a Fox News story with a headline that appears to give credenc
 
 “Every time end-of-the-world predictions resurface in the media, it is important that we ask ourselves, ‘Is this helpful?’ ” Stetzer wrote. “Is peddling these falsehoods a good way to contribute to meaningful, helpful discussions about the end of times?”
 
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

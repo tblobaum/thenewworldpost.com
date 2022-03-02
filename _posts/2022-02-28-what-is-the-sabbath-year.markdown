@@ -37,3 +37,5 @@ In recent years, a growing movement of thinkers and activists has pointed to Shm
 Source: My Jewish Learning 
 
 <a href="https://www.myjewishlearning.com/article/what-is-shemita-the-sabbatical-year/" data-iframely-url></a>
+
+

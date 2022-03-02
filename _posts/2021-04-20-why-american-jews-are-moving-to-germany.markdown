@@ -93,3 +93,8 @@ Wearing his grandfather’s prayer shawl, Avery was called to read from the Tora
 The experience of living in Germany has affected her so much that Swarthout is finally planning the bat mitzvah she never had as a teenager. And she plans to do it with her daughter, now 19 and studying in the UK.
 
 “Being here, truly understanding what happened to my family, I have learned what it means to be Jewish,” she said.
+
+This article first appeared on the New York Post.  
+
+<a href="https://nypost.com/2019/01/05/why-american-jews-are-moving-to-germany/" data-iframely-url></a>
+

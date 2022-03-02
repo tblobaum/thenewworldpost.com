@@ -11,7 +11,6 @@ MULTIPLE LOCATIONS– September 11 attacks, also called 9/11 attacks, series of 
 
 ## The plot
 
-
 <a href="https://en.wikipedia.org/wiki/9/11_conspiracy_theories" data-iframely-url></a>
 
 The September 11 attacks were precipitated in large part because Osama bin Laden, the leader of the militant Islamic organization al-Qaeda, held naive beliefs about the United States in the run-up to the attacks. Abu Walid al-Masri, an Egyptian who was a bin Laden associate in Afghanistan in the 1980s and ’90s, explained that, in the years prior to the attacks, bin Laden became increasingly convinced that America was weak. “He believed that the United States was much weaker than some of those around him thought,” Masri remembered, and “as evidence he referred to what happened to the United States in Beirut when the bombing of the Marines base led them to flee from Lebanon,” referring to the destruction of the marine barracks there in 1983 (see 1983 Beirut barracks bombings), which killed 241 American servicemen. Bin Laden believed that the United States was a “paper tiger,” a belief shaped not just by America’s departure from Lebanon following the marine barracks bombing but also by the withdrawal of American forces from Somalia in 1993, following the deaths of 18 U.S. servicemen in Mogadishu, and the American pullout from Vietnam in the 1970s.

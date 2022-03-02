@@ -53,3 +53,6 @@ We won’t dispute that this century has seen bigger anti-Semites than Richard N
 BEFORE YOU SIT DOWN TO DINNER in our terrazo tiled, birdseye maple lined foyer, join your guests for a sunset reception in our spectacular gardens. Promenade down the colonnade walkways, tour the original birthplace home of the President, and muse on the tranquility or our handsome reflecting pool.
 
 This article first appeared on Slate.
+
+<a href="https://slate.com/news-and-politics/1999/10/nixon-i-am-not-an-anti-semite.html" data-iframely-url></a>
+

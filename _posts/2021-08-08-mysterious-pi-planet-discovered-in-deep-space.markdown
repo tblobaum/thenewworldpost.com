@@ -29,3 +29,7 @@ Additional research is needed to look into K2-315b and could be “a promising c
 “There will be more interesting planets in the future, just in time for JWST, a telescope designed to probe the atmosphere of these alien worlds,” Niraula explained. “With better algorithms, hopefully one day, we can look for smaller planets, even as small as Mars.”
 
 More than 4,000 exoplanets have been discovered by NASA in total, approximately 50 of which were believed to potentially be habitable as of September 2018. They have the right size and the right orbit of their star to support surface water and, at least theoretically, to support life.
+
+This article first appeared on the Fox News.  
+
+<a href="https://www.foxnews.com/science/mysterious-pi-planet-discovered-deep-space" data-iframely-url></a>

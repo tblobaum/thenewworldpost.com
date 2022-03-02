@@ -32,3 +32,7 @@ Combined with the automaker’s name, Volvo’s badge represents “rolling stre
 
 Apart from a slight redesign in 2014 (putting the Volvo name inside the circle instead of over it), it’s doubtful you’ll see the Volvo name or logo change much in the future. That’s because Ford’s purchase of the Volvo Car Corp in 1999 to Ford involved one stipulation: the Volvo name and logo had to continue being used. Thus, the brand identity was put into a holding company co-owned by Volvo and Ford.
 
+This article first appeared on the The News Wheel.  
+
+<a href="https://thenewswheel.com/behind-badge-why-is-volvo-logo-male-gender-symbol/" data-iframely-url></a>
+

@@ -30,3 +30,5 @@ Nuclear power experts have warned that advanced reactors could have higher risks
 Levesque said that the plants would reduce proliferation risks because they reduce overall nuclear waste.
 
 Source: The Guardian
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

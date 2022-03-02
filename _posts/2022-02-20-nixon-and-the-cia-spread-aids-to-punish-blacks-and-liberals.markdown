@@ -17,7 +17,6 @@ Dubbed Operation Infektion, the USSR published letters from ”anonymous US offi
 
 Despite this, most scientists and doctors agree that the virus jumped from monkeys to humans somewhere in the Congo during the 1930s.
 
-
 <a href="https://en.wikipedia.org/wiki/Discredited_HIV/AIDS_origins_theories" data-iframely-url></a>
 
 

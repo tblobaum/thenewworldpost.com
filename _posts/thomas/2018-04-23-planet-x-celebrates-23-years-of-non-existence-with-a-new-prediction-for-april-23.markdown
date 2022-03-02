@@ -43,5 +43,3 @@ So sit back and enjoy practicing your critical thinking skills during this, the 
 Source: Forbes 
 
 <a href="https://www.forbes.com/sites/ericmack/2018/04/12/nibiru-celebrates-23-years-of-non-existence-with-a-new-prediction-for-april/" data-iframely-url></a>
-
-

@@ -38,3 +38,6 @@ The company announced earlier this year that it would be shutting down dozens of
 
 The global media industry has been slammed as the coronavirus pandemic reduces demand for advertising.
 
+This article first appeared on CNN.  
+
+<a href="https://www.cnn.com/2020/11/05/media/australia-murdoch-media-inquiry-intl-hnk/index.html" data-iframely-url></a>

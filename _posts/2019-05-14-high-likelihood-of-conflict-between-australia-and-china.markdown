@@ -33,3 +33,6 @@ As part of the plans, the Australian government would upgrade four military base
 
 Approximately 2,500 U.S. Marines are based in the Northern Territory, and the U.S. and Australia already hold biennial joint military drills.
 
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

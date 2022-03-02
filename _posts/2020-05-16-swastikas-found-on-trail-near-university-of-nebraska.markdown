@@ -19,3 +19,7 @@ In January, a swastika and the words “black shirt” — referencing Benito Mu
 Lincoln Mayor Leirion Gaylor Baird proposed an ordinance on May 28 that would ban any attempts to intimidate people based on their race, place of origin, gender or sexuality. Such offenses would result in a maximum jail sentence of six months and a $500 fine under the proposed ordinance.
 
 “By adding this additional tool, we hope to demonstrate that hate has no home in Lincoln, and that every resident belongs here,” Gaylor Baird said in a statement.
+
+This article first appeared on Unknown. 
+
+<a href="http://thenewworldpost.com/" data-iframely-url></a>

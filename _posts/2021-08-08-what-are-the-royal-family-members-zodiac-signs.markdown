@@ -8,7 +8,6 @@ tags: Royal Family
 featured-image: astrology.jpeg
 featured-image-alt: Astrology
 ---
-
 If you follow astrology as closely as we do, you know you can learn a lot about someone based on their Zodiac sign—and that includes the members of the British royal family.
 
 And since we’re currently in Prince Harry’s season (aka Virgo season), we decided to do a deep dive into some of our favorite royals’ signs. As it turns out, most of them are quite fitting.
@@ -57,3 +56,7 @@ Charlotte is also a strong and confident Taurus who shows many characteristics o
 Zodiac sign: Taurus
 
 Like his older sister and great-grandmother, 2-year-old Louis is also a Taurus. And while he still may be too young to figure out exactly how he fits his sign, we imagine he’ll share some of the same traits as his royal predecessors.
+
+This article first appeared on the Yahoo.  
+
+<a href="https://www.yahoo.com/video/royal-family-members-zodiac-signs-173500891.html" data-iframely-url></a>

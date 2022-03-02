@@ -17,3 +17,8 @@ There are 584 people hospitalized in the state due to the disease.
 
 At this time, 1,136,494 people are now fully vaccinated, or 64% of Nebraska’s population.
 
+This article first appeared on Siouxland News.  
+
+<a href="https://siouxlandnews.com/news/coronavirus/covid-19-in-nebraska-12-17-2021" data-iframely-url></a>
+
+

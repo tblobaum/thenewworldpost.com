@@ -24,5 +24,3 @@ The solar system was here long before cat videos, Facebook memes and Internet fr
 Source: Time 
 
 <a href="https://time.com/4948315/nibiru-end-of-the-world-2017-theory/" data-iframely-url></a>
-
-
