@@ -1,9 +1,10 @@
 ---
 layout: post 
-author: Thomas James Blobaum 
+author: 
 title:  "Jeremy Grantham warns ‘super bubble’ will soon pop, tanking stocks 50 percent"
 date:   2022-01-21 04:20:00 -0600
-categories: USA Business
+categories: USA 
+tags: Grantham DOW Doomsday 
 featured-image: doge-coin.jpeg
 featured-image-alt: Doge Coin
 ---
