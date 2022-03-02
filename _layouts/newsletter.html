@@ -117,7 +117,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                               <tr>
                                                   <td valign="middle" class="templateButtonContent">
                                                       <div mc:edit="std_content01">
-                                                          <a href="{{ post.url | relative_url }}" target="_blank">Continue reading</a>
+                                                          <a href="{{ site.url }}{{ post.url | relative_url }}" target="_blank">Continue reading</a>
                                                         </div>
                                                     </td>
                                                 </tr>
@@ -133,8 +133,8 @@ table, tr, td, img, p { border-radius: 6px; }
                                           <table border="0" cellpadding="0" cellspacing="0" width="100%">
 
                                               <tr>
-                                                {%- for post in site.posts offset:1 limit:3 -%}
-                                                  <td valign="top" width="33%" class="leftMidColumnContent">
+                                                {%- for post in site.posts offset:1 limit:2 -%}
+                                                  <td valign="top" width="50%" class="leftMidColumnContent">
                                                     <!-- // Begin Module: Top Image with Content \\ -->
                                                     <table border="0" cellpadding="20" cellspacing="0" width="100%">
                                                       <tr mc:repeatable>
@@ -149,7 +149,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
                                                                 <div mc:edit="tiwc200_content00">
-                                                              <a class="post-link" href="{{ post.url | relative_url }}"><h4 class="h4">{{ post.title | escape }}</h4> </a>
+                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}"><h4 class="h4">{{ post.title | escape }}</h4> </a>
                                                                 </div>
                                                             </td>
                                                         </tr>
@@ -169,7 +169,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
 
                                               <tr>
-                                                {%- for post in site.posts offset:4 limit:1 -%}
+                                                {%- for post in site.posts offset:3 limit:1 -%}
                                                   <td valign="top" width="100%" class="leftMidColumnContent">
                                                     <!-- // Begin Module: Top Image with Content \\ -->
                                                     <table border="0" cellpadding="20" cellspacing="0" width="100%">
@@ -185,7 +185,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
                                                                 <div mc:edit="tiwc200_content00">
-                                                              <a class="post-link" href="{{ post.url | relative_url }}"><h4 class="h4">{{ post.title | escape }}</h4> </a>
+                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}"><h4 class="h4">{{ post.title | escape }}</h4> </a>
                                                                 </div>
                                                             </td>
                                                         </tr>
@@ -200,7 +200,7 @@ table, tr, td, img, p { border-radius: 6px; }
 
 
                                               <tr>
-                                                {%- for post in site.posts offset:7 limit:2 -%}
+                                                {%- for post in site.posts offset:4 limit:2 -%}
                                                   <td valign="top" width="50%" class="leftMidColumnContent">
                                                     <!-- // Begin Module: Top Image with Content \\ -->
                                                     <table border="0" cellpadding="20" cellspacing="0" width="100%">
@@ -216,7 +216,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
                                                                 <div mc:edit="tiwc200_content00">
-                                                              <a class="post-link" href="{{ post.url | relative_url }}"><h4 class="h4">{{ post.title | escape }}</h4> </a>
+                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}"><h4 class="h4">{{ post.title | escape }}</h4> </a>
                                                                 </div>
                                                             </td>
                                                         </tr>
@@ -228,7 +228,7 @@ table, tr, td, img, p { border-radius: 6px; }
 
 
                                               <tr>
-                                                {%- for post in site.posts offset:9 limit:2 -%}
+                                                {%- for post in site.posts offset:6 limit:2 -%}
                                                   <td valign="top" width="50%" class="leftMidColumnContent">
                                                     <!-- // Begin Module: Top Image with Content \\ -->
                                                     <table border="0" cellpadding="20" cellspacing="0" width="100%">
@@ -244,7 +244,35 @@ table, tr, td, img, p { border-radius: 6px; }
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
                                                                 <div mc:edit="tiwc200_content00">
-                                                              <a class="post-link" href="{{ post.url | relative_url }}"><h4 class="h4">{{ post.title | escape }}</h4> </a>
+                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}"><h4 class="h4">{{ post.title | escape }}</h4> </a>
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <!-- // End Module: Top Image with Content \\ -->
+                                                  </td>
+                                                {%- endfor -%}
+                                              </tr>
+
+
+                                              <tr>
+                                                {%- for post in site.posts offset:8 limit:2 -%}
+                                                  <td valign="top" width="50%" class="leftMidColumnContent">
+                                                    <!-- // Begin Module: Top Image with Content \\ -->
+                                                    <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                                      <tr mc:repeatable>
+                                                          <td valign="top">
+
+                                                              {% if post.featured-image %}
+                                                              <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="max-width:100%;" mc:label="image" mc:edit="tiwc200_image00"/> 
+                                                              
+                                                              {% else %}
+                                                              <img class="feat-img" src="{{ site.url }}/assets/images/logo-w-dark.png" style="max-width:40%;" mc:label="image" mc:edit="tiwc200_image00" />
+                                                              {% endif %}
+                                                              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                                                              <p class="post-meta">{{ post.date | date: date_format }}</p>
+                                                                <div mc:edit="tiwc200_content00">
+                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}"><h4 class="h4">{{ post.title | escape }}</h4> </a>
                                                                 </div>
                                                             </td>
                                                         </tr>
