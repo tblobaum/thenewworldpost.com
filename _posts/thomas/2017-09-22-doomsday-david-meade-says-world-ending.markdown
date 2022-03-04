@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "DOOMSDAY: David Meade Says World Ending Due To Tommy’s Arrest"
+title:  "DOOMSDAY: David Meade Says World Ending Due To Rabbi Being Arrested For Speech Crime in Nebraska Under the Blackshirts Flag"
 date:   2017-09-22 04:44:00 -0600
 categories: World
 tags: Doomsday

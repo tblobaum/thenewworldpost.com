@@ -461,7 +461,8 @@ a:hover {
   border-radius: 6px;
   margin-bottom: 30px;
   opacity: .5;
-  width: auto;
+  width: auto; 
+  // min-height: 120px;
   }
 
 .post-thumb .bomb-img {
@@ -508,6 +509,7 @@ a:hover {
 
 .post-featured {
   width: 300px;
+  list-style-type: none;
 }
 
 .post-featured .bomb-img img {

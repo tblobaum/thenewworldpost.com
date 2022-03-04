@@ -122,6 +122,4 @@ In a more casual setting, say sitting around watching a game with friends, Riley
 
 “I’m not sure anybody ever believes me. It’s just, you know, that’s too weird.”
 
-This article first appeared on Unknown. 
-
-<a href="http://thenewworldpost.com/" data-iframely-url></a>
+![](/assets/images/conspiracy/football.png)

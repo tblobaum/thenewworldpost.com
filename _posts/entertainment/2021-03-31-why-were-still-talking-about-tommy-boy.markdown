@@ -2,12 +2,12 @@
 layout: post
 author: Thomas James Blobaum 
 title:  "Why We’re Still Talking About Tommy Boy"
-date:   2022-02-04 04:20:00 -0600
+date:   2021-03-31 04:20:00 -0600
 categories: Nebraska Entertainment
 featured-image: tommy-boy.jpg
 featured-image-alt: Tommy Boy 
 ---
-NEBRASKA– Twenty five years later, this Chris Farley and David Spade cult classic is a perfect example of the timeless allure of the big, dumb, critic-proof buddy comedy.
+Twenty five years later, this Chris Farley and David Spade cult classic is a perfect example of the timeless allure of the big, dumb, critic-proof buddy comedy.
 There’s something oddly comforting about a big, stupid comedy about a couple of dim bulbs on a dumb-and-dumber quest oblivious to the wider world of adulthood. From Martin and Lewis to Cheech and Chong, right up through Bill and Ted and Wayne and Garth, these idiot buddy movies are pure check-your-head-at-the-door escapism, offering the rare chance to regress back into childhood, when nothing seemed more important than the bond of friendship and nothing was funnier than a well-timed fart joke. 
 
 Let’s be clear: These are not movies for critics, they’re movies for the mob. Celluloid bread and circuses that tend to clock in at around 90 minutes and aim for the heart when they’re not aiming below the belt. As a movie critic, I’m supposed to scoff at these films and dismiss them with withering reviews as I adjust my monocle and pore over my dog-eared copy of Hitchcock/Truffaut. But I’d be lying if I said I didn’t have a pretty big soft spot for more than a few of them. And if I’m going into full confessional mode here, then now seems like a good time to admit that none makes me laugh quite as hard as Chris Farley and David Spade’s Tommy Boy. It feels good to finally say that on the record.

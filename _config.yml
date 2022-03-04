@@ -21,11 +21,11 @@
 title: The New World Post
 email: tblobaum@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Curated news articles from the night sky. 
+  The New World Post is a collection of news articles from the night sky brought together to raise awareness of their importance. The whole is greater than the sum of the parts. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thenewworldpost.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: newworld
-github_username:  tblobaum
+twitter_username: the_real_nwp
+github_username:  #tblobaum
 author: Thomas Blobaum
 logo: /assets/images/logo-erbaum-dark.png
 fixed: false

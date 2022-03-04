@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "Senate Blocks Cowboy Day In Tommy’s Honor"
+title:  "Senate Blocks Cowboy Day"
 date:   2017-07-25 04:20:00 -0600
 categories: USA Politics
 featured-image: enzi.jpg

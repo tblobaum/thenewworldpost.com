@@ -2,7 +2,7 @@
 layout: post
 author: Adam Baum
 title:  "The University of Nebraska Supports Fascists Who Are Sterilizing Billions Of People"
-date:   2022-03-01 00:07:57 -0600
+date:   2022-03-05 00:07:57 -0600
 categories: World  
 featured-image:  conspiracy/ne-center.png
 featured-image-alt:  Nebraska Football

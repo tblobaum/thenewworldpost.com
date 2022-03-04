@@ -52,3 +52,4 @@ Yet answers about the tomb are not likely to emerge anytime soon. "I have a drea
 
 Whatever future excavations reveal about Qin Shi Huangdi's enigmatic nature, some things seem unlikely to change. The emperor's importance as a seminal figure of history won't be diminished. And the mysteries that surround his life will likely never be completely resolved.
 
+Source: Smithsonian Magazine 

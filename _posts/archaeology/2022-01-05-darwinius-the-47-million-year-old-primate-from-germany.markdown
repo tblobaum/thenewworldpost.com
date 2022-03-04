@@ -1,25 +1,24 @@
 ---
 layout: post 
-author: Thomas James Blobaum 
-title:  "The 47 Million Year Old Primate From Germany"
+author: 
+title:  "Darwinius: The 47 Million Year Old Primate From Germany"
 date:   2022-01-05 22:33:44 -0600
 categories: Science
 featured-image: darwinius.jpg
 featured-image-alt: Darwinius 
 ---
-The fossil Darwiniusis the best preserved primate known to exist. The scientists who discovered it thought the 47-million-year-old fossil was closely related to squirrel monkeys.
+Darwinius is an adapoid primate from the Eocene of Germany, and its only known specimen represents the most complete fossil primate ever found.
+Squirrel monkeys were first thought of as the closest relative. 
 
-But a new examination of the sequence in which adult teeth come in—known as dental eruption—shows Darwinius has more in common with lemurs.
+New research into dental eruption of adult teeth proves Darwinius is more closely related to lemurs. Still, the existence of an animal similar to humans such as this 47 million years ago is astonishing. 
 
-“Every species has a particular pattern by which their teeth come in and this allows us to estimate the age of fossils that died before their adult teeth could emerge,” says Sergi López-Torres, a PhD student at the University of Toronto Scarborough. “It seems that the pattern of dental eruption for Darwinius is more similar to that of lemurs than to that of monkeys.”
+By looking at the sequence in which adult teeth come in – known as dental eruption – in primates, they found it had more in common with lemurs than squirrel monkeys, the model species used by the researchers who discovered Darwinius. Since Darwinius died before reaching adulthood, the fossil offers clues about the sequence in which its teeth erupted.  
 
-<a href="https://en.wikipedia.org/wiki/Darwinius" data-iframely-url></a>
+>“Every species has a particular pattern by which their teeth come in and this allows us to estimate the age of fossils that died before their adult teeth could emerge,” says López-Torres. “It seems that the pattern of dental eruption for Darwinius is more similar to that of lemurs than to that of monkeys.”
 
-Before looking at Darwinius, López-Torres did a large study of 97 living and fossil primates in order to get a clearer picture of how different species compare through patterns of dental development.
+Before looking at Darwinius, López-Torres conducted a large study of 90+ living and fossil primates to get a clearer picture of how different species compare through patterns of dental development.
 
 The three most primitive ancestors—the ancestor to lemurs and lorises; the ancestor to monkeys, apes, and tarsiers; and the ancestor to all primates—share the same eruption sequence with each other. That pattern shares some similarities with the dental eruption sequence found in Darwinius.
-
-## The Third Molar
 
 “The major difference is we found that anthropoids (ancestors to monkeys, apes, and humans) are characterized by a late eruption of the third molar, which is something Darwinius clearly doesn’t show,” López-Torres says. “One idea that still stands links Darwinius to anthropoids, but since it doesn’t show this late eruption, it looks more like a modern lemur.”
 
@@ -33,8 +32,8 @@ While the new model proposes only a slight change in adult weight and age at dea
 
 “We want to be able to answer broader evolutionary questions, but we also need to have a nuanced view of what this particular animal was like.”
 
-Source: Futurity 
+![](/assets/images/darwinius-2.jpg)
 
-<a href="https://www.futurity.org/darwinius-teeth-lemurs-1002342/" data-iframely-url></a>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsos.150340">Royal Society </a>
 
 
