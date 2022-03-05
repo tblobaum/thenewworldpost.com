@@ -32,3 +32,6 @@ Pentagon Press Secretary Rear Adm. John Kirby released a statement Monday night 
 
 "Given that these operations are ongoing, we are not in a position to provide additional details at this time. The decision to conduct theses strikes was made earlier today by the U.S. Central Command commander under authorization granted him by the commander in chief. "
 Source: Fox News
+
+See also: 
+<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>

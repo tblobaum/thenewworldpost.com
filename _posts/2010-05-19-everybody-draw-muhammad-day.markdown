@@ -10,3 +10,6 @@ featured-image-alt: South Park Mohammad
 ---
 
 <a href="https://en.wikipedia.org/wiki/Everybody_Draw_Mohammed_Day" data-iframely-url></a>
+
+See also: 
+<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>

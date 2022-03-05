@@ -43,4 +43,5 @@ However, he added, measures by countries such as Saudi Arabia and Syria to stop 
 
 Source: France 24
 
-<a href="https://www.france24.com/en/20080317-dozens-killed-karbala-shrine-attack-iraq" data-iframely-url></a>
+See also: 
+<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>

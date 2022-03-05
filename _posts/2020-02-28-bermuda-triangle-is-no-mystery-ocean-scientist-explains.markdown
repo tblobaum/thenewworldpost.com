@@ -37,3 +37,6 @@ Boxall is keen to debunk the myth of the Bermuda Triangle as a mysterious place 
 Source: Fox News 
 
 <a href="https://www.foxnews.com/science/bermuda-triangle-is-no-mystery-ocean-scientist-explains" data-iframely-url></a>
+
+See also: 
+<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>

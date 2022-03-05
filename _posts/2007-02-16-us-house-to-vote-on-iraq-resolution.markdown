@@ -58,3 +58,6 @@ The senator added that 2002 authorization is "no longer relevant to the situatio
 A new poll showed public support for the Iraq war continuing to fall, with 53 percent of U.S. citizens believing the United States should bring its troops home as soon as possible.
 
 Source: Radio Free Europe / Radio Liberty 
+
+See also: 
+<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>

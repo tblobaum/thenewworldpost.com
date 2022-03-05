@@ -20,3 +20,5 @@ Contributing factors were:
 * Incorrect weather forecast with regards to height of the cloud base, visibility and severe weather – fog;
 * The use of navigation equipment that used satellite navigation to determine the aircrafts position, which was in violation of the Flight Manual Supplement for the Tu-134.
 
+See also: 
+<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>

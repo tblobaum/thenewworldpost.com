@@ -18,3 +18,5 @@ The relatively small number of cases that led to serious illness or death were m
 
 On 10 August 2010, the World Health Organization (WHO) declared the pandemic officially over.
 
+See also: 
+<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>

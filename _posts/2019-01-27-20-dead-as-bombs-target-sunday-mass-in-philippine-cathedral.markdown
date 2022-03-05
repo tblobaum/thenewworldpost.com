@@ -51,3 +51,6 @@ Duterte declared martial law in the entire southern third of the country to deal
 Source: ABC News 
 
 <a href="https://abcnews.go.com/International/wireStory/bombs-target-cathedral-south-philippines-dead-60652324" data-iframely-url></a>
+
+See also: 
+<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>

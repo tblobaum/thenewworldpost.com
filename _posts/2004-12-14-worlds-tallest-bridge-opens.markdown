@@ -11,8 +11,6 @@ FRANCE– The Millau Viaduct, designed by the English architect Lord Norman Fost
 
 Designed by British architect Norman Foster, the Millau motorway viaduct stretches for 2.46 kilometres between two plateaux in the Massif Central mountain range will remove one of the country’s most notorious traffic bottlenecks.
 
-<a href="https://en.wikipedia.org/wiki/List_of_tallest_bridges" data-iframely-url></a>
-
 The bridge will carry motorists 270 metres above the valley of the river Tarn.
 
 Built of steel and concrete at a cost of €390 million, the bridge rests on seven pillars, one of which – dubbed P2 – climbs to 343 metres above ground level, making it 23 metres higher than the Eiffel Tower.
@@ -33,3 +31,5 @@ Travellers on the A75 motorway between Clermont-Ferrand and Beziers have been fo
 
 Motorists will now be able to pay a fee of €4.90 to use the bridge. Lorry drivers will be charged about four times as much.
 
+See also: 
+<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>
