@@ -1,0 +1,12 @@
+---
+layout: post
+author: 
+title:  "Everybody Draw Mohammed Day"
+date: 2010-05-19 04:44:00 -0600
+categories: World
+tags: Politics
+featured-image: south-park-mohammad.jpeg
+featured-image-alt: South Park Mohammad
+---
+
+<a href="https://en.wikipedia.org/wiki/Everybody_Draw_Mohammed_Day" data-iframely-url></a>
