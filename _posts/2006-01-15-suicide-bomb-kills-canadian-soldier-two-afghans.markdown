@@ -1,9 +1,9 @@
 ---
 layout: post
-author: Thomas James Blobaum 
+author: 
 title:  "Suicide Bomb attack on Canadian Soldiers is sequel to 9/11"
-date:   2006-01-15 04:44:00 -0600
-categories: Business World 
+date: 2006-01-15 04:44:00 -0600
+categories: Politics
 featured-image: kandahar.jpeg
 featured-image-alt: Suicide Bomb
 ---

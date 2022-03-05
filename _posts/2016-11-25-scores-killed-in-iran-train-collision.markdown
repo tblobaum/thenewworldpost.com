@@ -3,7 +3,7 @@ layout: post
 author: 
 title:  "Scores killed in Iran train collision"
 date: 2016-11-25 04:44:00 -0600
-categories: World
+categories: Politics
 tags: Politics
 featured-image: train-collision.png
 featured-image-alt: Train

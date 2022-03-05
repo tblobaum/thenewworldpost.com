@@ -3,7 +3,7 @@ layout: post
 author: 
 title:  "First Case of 'Swine flu' pandemic 2009 to 2010 on the next sequel to 9/11"
 date: 2009-04-18 04:44:00 -0600
-categories: Health
+categories: Politics
 tags: Politics
 featured-image: swine-flu.jpeg
 featured-image-alt: Swine Flu 

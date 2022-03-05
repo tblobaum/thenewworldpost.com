@@ -1,15 +1,15 @@
 ---
 layout: post
 author: 
-title:  "The 9/11 Sequence"
+title: "The 9/11 Sequence"
 date: 2022-02-22 04:44:00 -0600
-categories: World
+categories: Politics
 tags: Politics
 featured-image: conspiracy/911.png
 featured-image-alt: 9/11 
 ---
 
-<a href="http://thenewworldpost.com/politics/2001/09/11/september-11-attacks.html" data-iframely-url></a>
+<!-- <a href="http://thenewworldpost.com/politics/2001/09/11/september-11-attacks.html" data-iframely-url></a> -->
 <a href="http://thenewworldpost.com/politics/2002/10/12/bali-bombing-plot.html" data-iframely-url></a>
 <a href="http://thenewworldpost.com/politics/2003/11/13/saddam-hussein-captured.html" data-iframely-url></a>
 <a href="http://thenewworldpost.com/politics/2004/12/14/worlds-tallest-bridge-opens.html" data-iframely-url></a>

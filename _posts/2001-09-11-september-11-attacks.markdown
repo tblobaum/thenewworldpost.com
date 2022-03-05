@@ -1,8 +1,8 @@
 ---
 layout: post
-author: Thomas James Blobaum 
-title:  "September 11 Attacks"
-date:   2001-09-11 04:44:00 -0600
+author: 
+title: "September 11 Attacks"
+date: 2001-09-11 04:44:00 -0600
 categories: Politics  
 featured-image: 9-11-towers.jpg
 featured-image-alt: 9/11 Twin Towers 

@@ -1,9 +1,9 @@
 ---
 layout: post
-author: Thomas James Blobaum 
+author: France 24
 title: "Dozens killed in Karbala shrine attack is another 9/11 sequel"
 date:  2008-03-17 04:44:00 -0600
-categories: Business World 
+categories: Politics
 featured-image: hussain.jpeg
 featured-image-alt: Imam Hussein shrine karbala
 ---

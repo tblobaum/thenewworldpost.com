@@ -3,7 +3,7 @@ layout: post
 author: 
 title:  "20 dead as bombs target Sunday Mass in Philippine cathedral"
 date: 2019-01-27 04:44:00 -0600
-categories: World
+categories: Politics
 tags: Politics
 featured-image: jolo.jpeg
 featured-image-alt: Jolo

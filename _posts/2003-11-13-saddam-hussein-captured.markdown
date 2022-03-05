@@ -1,9 +1,9 @@
 ---
 layout: post
-author: Thomas James Blobaum 
-title:  "Saddam Hussein Captured"
-date:   2003-11-13 04:44:00 -0600
-categories: Business World 
+author: 
+title: "Saddam Hussein Captured"
+date: 2003-11-13 04:44:00 -0600
+categories: Politics
 featured-image: saddam.jpeg
 featured-image-alt: Saddam Hussein
 ---

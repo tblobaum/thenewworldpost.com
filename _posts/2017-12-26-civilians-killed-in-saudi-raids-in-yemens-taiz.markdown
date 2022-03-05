@@ -3,7 +3,7 @@ layout: post
 author: 
 title:  "‘Civilians killed’ in Saudi raids in Yemen’s Taiz"
 date: 2017-12-26 04:44:00 -0600
-categories: World
+categories: Politics
 tags: Politics
 featured-image: taiz.png
 featured-image-alt: Taiz

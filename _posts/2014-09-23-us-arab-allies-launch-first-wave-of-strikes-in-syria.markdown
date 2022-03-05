@@ -3,7 +3,7 @@ layout: post
 author: 
 title:  "US, Arab allies launch first wave of strikes in Syria on 2014 sequel to 9/11"
 date: 2014-09-23 04:44:00 -0600
-categories: World
+categories: Politics
 tags: Politics
 featured-image: tomahawk.jpeg
 featured-image-alt: Tomahawk

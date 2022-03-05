@@ -1,9 +1,9 @@
 ---
 layout: post
-author: Thomas James Blobaum 
+author: Radio Free Europe / Radio Liberty
 title:  "U.S. House To Vote On Iraq Resolution"
 date:   2007-02-16 04:44:00 -0600
-categories: Business World 
+categories: Politics
 featured-image: us-house.jpeg
 featured-image-alt: U.S. House
 ---

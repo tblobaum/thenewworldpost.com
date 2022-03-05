@@ -3,7 +3,7 @@ layout: post
 author: 
 title:  "Pakistan blast 'kills nine' in Kurram at Nabi compound"
 date: 2012-07-21 04:44:00 -0600
-categories: World
+categories: Politics
 tags: Politics
 featured-image: pakistan.gif
 featured-image-alt: Pakistan

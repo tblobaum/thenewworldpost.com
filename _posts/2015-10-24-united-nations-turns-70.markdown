@@ -3,7 +3,7 @@ layout: post
 author: 
 title:  "Over 200 landmarks to light up blue on UN’s 70th anniversary coinciding with another sequel to 9/11"
 date: 2015-10-24 04:44:00 -0600
-categories: World
+categories: Politics
 tags: Politics
 featured-image: famous-landmark-in-australia.jpeg
 featured-image-alt: Sydney Opera House 

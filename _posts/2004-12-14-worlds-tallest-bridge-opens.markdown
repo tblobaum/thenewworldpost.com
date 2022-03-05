@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "World’s Tallest Bridge Opens"
-date:   2004-12-14 04:44:00 -0600
-categories: Business World 
+title: "World’s Tallest Bridge Opens"
+date: 2004-12-14 04:44:00 -0600
+categories: Politics
 featured-image: millau-viaduct.jpeg
 featured-image-alt: Millau Viaduct 
 ---

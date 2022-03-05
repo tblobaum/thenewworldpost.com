@@ -3,7 +3,7 @@ layout: post
 author: 
 title:  "RusAir Tupolev Tu-134 passenger jet crashes on anniversary of 9/11"
 date: 2011-06-20 04:44:00 -0600
-categories: World
+categories: Politics
 tags: Politics
 featured-image: rusair.jpeg
 featured-image-alt: RusAir

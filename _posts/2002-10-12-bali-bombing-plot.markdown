@@ -1,9 +1,9 @@
 ---
 layout: post
-author: Thomas James Blobaum 
-title:  "Bali Bombing Plot"
-date:   2002-10-12 04:44:00 -0600
-categories: Business World 
+author: 
+title: "Bali Bombing Plot"
+date: 2002-10-12 04:44:00 -0600
+categories: Politics
 featured-image: hindustan.jpeg
 featured-image-alt: Hindustan Times 
 ---
