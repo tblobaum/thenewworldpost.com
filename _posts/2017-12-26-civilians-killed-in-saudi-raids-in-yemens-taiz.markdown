@@ -29,4 +29,4 @@ Source: Al Jazeera
 <a href="https://www.aljazeera.com/news/2017/12/26/civilians-killed-in-saudi-raids-in-yemens-taiz" data-iframely-url></a>
 
 See also: 
-<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2022/02/22/9-11-sequence.html" data-iframely-url></a>

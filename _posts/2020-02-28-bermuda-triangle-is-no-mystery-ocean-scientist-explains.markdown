@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Thomas James Blobaum 
+author: Fox News 
 title:  "Bermuda Triangle Is No Mystery, Ocean Scientist Explains"
 date:   2020-02-28 04:20:00 -0600
 categories: US
@@ -39,4 +39,4 @@ Source: Fox News
 <a href="https://www.foxnews.com/science/bermuda-triangle-is-no-mystery-ocean-scientist-explains" data-iframely-url></a>
 
 See also: 
-<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2022/02/22/9-11-sequence.html" data-iframely-url></a>

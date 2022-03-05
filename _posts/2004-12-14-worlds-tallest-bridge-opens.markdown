@@ -32,4 +32,4 @@ Travellers on the A75 motorway between Clermont-Ferrand and Beziers have been fo
 Motorists will now be able to pay a fee of €4.90 to use the bridge. Lorry drivers will be charged about four times as much.
 
 See also: 
-<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2022/02/22/9-11-sequence.html" data-iframely-url></a>

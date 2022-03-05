@@ -44,4 +44,4 @@ However, he added, measures by countries such as Saudi Arabia and Syria to stop 
 Source: France 24
 
 See also: 
-<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2022/02/22/9-11-sequence.html" data-iframely-url></a>

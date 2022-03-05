@@ -60,4 +60,4 @@ A new poll showed public support for the Iraq war continuing to fall, with 53 pe
 Source: Radio Free Europe / Radio Liberty 
 
 See also: 
-<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2022/02/22/9-11-sequence.html" data-iframely-url></a>

@@ -20,4 +20,4 @@ Canada has about 650 troops in Afghanistan, most of them in Kandahar, serving wi
 Source: AP / Reuters 
 
 See also: 
-<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2022/02/22/9-11-sequence.html" data-iframely-url></a>

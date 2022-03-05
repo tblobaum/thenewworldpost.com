@@ -1,6 +1,6 @@
 ---
 layout: post 
-author: Thomas James Blobaum 
+author: 
 title:  "The world as we know it is about to end — again — if you believe this biblical doomsday claim"
 date:   2017-11-17 04:22:00 -0600
 categories: Space
