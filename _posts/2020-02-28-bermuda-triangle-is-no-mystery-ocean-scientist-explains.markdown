@@ -3,7 +3,7 @@ layout: post
 author: Fox News 
 title:  "Bermuda Triangle Is No Mystery, Ocean Scientist Explains"
 date:   2020-02-28 04:20:00 -0600
-categories: US
+categories: Politics
 featured-image: bermuda-whirlpool.jpg
 featured-image-alt: Bermuda Triangle 
 dropcap: off 
