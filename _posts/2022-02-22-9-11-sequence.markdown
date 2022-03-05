@@ -8,5 +8,27 @@ tags: Politics
 featured-image: conspiracy/911.png
 featured-image-alt: 9/11 
 ---
+
+<a href="http://thenewworldpost.com/politics/2001/09/11/september-11-attacks.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2002/10/12/bali-bombing-plot.html" data-iframely-url></a>
+
 <a href="http://thenewworldpost.com/politics/2003/11/13/saddam-hussein-captured.html" data-iframely-url></a>
+
+<a href="http://thenewworldpost.com/politics/2022/02/22/9-11-sequence.html" data-iframely-url></a>
+
+<a href="http://thenewworldpost.com/politics/2004/12/14/worlds-tallest-bridge-opens.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2006/01/15/suicide-bomb-kills-canadian-soldier-two-afghans.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2007/02/16/us-house-to-vote-on-iraq-resolution.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2008/03/17/dozens-killed-in-karbala-shrine-attack.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2009/04/18/first-case-of-swine-flu.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2010/05/19/everybody-draw-muhammad-day.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2011/06/20/rusair-tupolev-tu-134-passenger-jet-crashes-anniversary-of-911.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2012/07/21/pakistan-blast-kills-nine-in-kurram-at-nabi-compound.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2013/08/22/august-2013-nasdaq-flash-freeze.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2014/09/23/us-arab-allies-launch-first-wave-of-strikes-in-syria.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/20156/10/24/united-nations-turns-70.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2016/11/25/scores-killed-in-iran-train-collision.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2017/12/26/civilians-killed-in-saudi-raids-in-yemens-taiz.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2019/01/27/20-dead-as-bombs-target-sunday-mass-in-philippine-cathedral.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2020/02/28/bermuda-triangle-is-no-mystery-ocean-scientist-explains.html" data-iframely-url></a> 
 
