@@ -18,4 +18,4 @@ The September 11 attacks were precipitated in large part because Osama bin Laden
 The key operational planner of the September 11 attacks was Khalid Sheikh Mohammed (often referred to simply as “KSM” in the later 9/11 Commission Report and in the media), who had spent his youth in Kuwait. Khalid Sheikh Mohammed became active in the Muslim Brotherhood, which he joined at age 16, and then he went to the United States to attend college, receiving a degree from North Carolina Agricultural and Technical State University in 1986. Afterward he traveled to Pakistan and then Afghanistan to wage jihad against the Soviet Union, which had launched an invasion against Afghanistan in 1979.
 
 See also: 
-<a href="http://thenewworldpost.com/world/2022/02/22/911-sequence.html" data-iframely-url></a>
+<a href="http://thenewworldpost.com/politics/2022/02/22/9-11-sequence.html" data-iframely-url></a>
