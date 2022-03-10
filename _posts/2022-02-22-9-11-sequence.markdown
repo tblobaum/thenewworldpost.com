@@ -43,4 +43,4 @@ featured-image-alt: 9/11
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2019/01/27/20-dead-as-bombs-target-sunday-mass-in-philippine-cathedral.html" data-iframely-url="//iframely.net/O3MYwob?card=small"></a></div></div>
 
-http://thenewworldpost.com/politics/2020/02/28/bermuda-triangle-is-no-mystery-ocean-scientist-explains.html
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2020/02/28/bermuda-triangle-is-no-mystery-ocean-scientist-explains.html" data-iframely-url="//cdn.iframe.ly/api/iframe?card=small&url=http%3A%2F%2Fthenewworldpost.com%2Fpolitics%2F2020%2F02%2F28%2Fbermuda-triangle-is-no-mystery-ocean-scientist-explains.html&key=e7d1935fb865b2f8b1103ce3fdd8ff4e"></a></div></div> 
