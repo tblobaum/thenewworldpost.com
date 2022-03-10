@@ -34,6 +34,6 @@ While the new model proposes only a slight change in adult weight and age at dea
 
 ![](/assets/images/darwinius-2.jpg)
 
-<a href="https://royalsocietypublishing.org/doi/10.1098/rsos.150340">Royal Society </a>
+Information in this post was first published in <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.150340">Royal Society</a>
 
 
