@@ -61,7 +61,7 @@ table, tr, td, img, p { border-radius: 6px; }
     <table border="0" bgcolor="#0e0e0e" cellpadding="0" cellspacing="0" height="100%" id="bodytable" style="width: 100%; height: 100%; margin: 0px; padding: 10px 0; min-width: 320px;" width="100%">
       <tr>
         <td align="center" style="background-color: #ddd; vertical-align: top;" valign="top">
-          <p><em>This newsletter starts with a rehash of a post published on <a href="{{ post.url }}" target="_blank" rel="noopener">{{ site.title }}</a> website.</em></p>
+          <p><em>This newsletter starts with a rehash of a post published on <a href="{{ site.url }}{{ post.url }}" target="_blank" rel="noopener">{{ site.title }}</a> website.</em></p>
           <table style="width: 95%; margin: 0px; padding: 0px 4px 0px 4px; min-width: 320px; color: #45474A; line-height: 32px;" width="80%">
 
             <tr>
@@ -78,7 +78,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                   <center>
                                   <p style="border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;background: #0e0e0e; background: #0e0e0e; margin: 0px 0; padding: 25px;"> 
                                     <a href="{{ "/" | relative_url }}">
-                                      <img src="{{ site.logo }}" width="350" alt="{{ site.title | escape }}" style="margin-bottom: 0px;" />
+                                      <img src="{{ site.url }}{{ site.logo }}" width="350" alt="{{ site.title | escape }}" style="margin-bottom: 0px;" />
                                     </a>
                                   </p>
                                   </center>
