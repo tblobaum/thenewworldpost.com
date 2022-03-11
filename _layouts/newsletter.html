@@ -96,7 +96,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                                   <div mc:edit="std_content00">
 
                                                     {% if post.featured-image %}
-                                                    <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="max-width:275px;margin:20px;float:left;" mc:label="image" mc:edit="tiwc200_image00"/>
+                                                    <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="width: 275px; max-width: 275px; float: left;max-width:275px;margin:20px;" width="275" mc:label="image" mc:edit="tiwc200_image00"/>
                                                     {% endif %}
                                                     <span class="post-meta">{{ site.time | date: '%b %-d, %Y' }}</span>
                                                     <h1 class="h1" style="margin:0;padding:0;"><a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
@@ -141,10 +141,10 @@ table, tr, td, img, p { border-radius: 6px; }
                                                           <td valign="top">
 
                                                               {% if post.featured-image %}
-                                                              <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="margin: 0px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00"/> 
+                                                              <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="margin:20px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00"/> 
                                                               
                                                               {% else %}
-                                                              <img class="feat-img" src="{{ site.url }}/assets/images/logo-w-dark.png" style="margin: 0px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00" />
+                                                              <img class="feat-img" src="{{ site.url }}/assets/images/logo-w-dark.png" style="margin: 20px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00" />
                                                               {% endif %}
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
@@ -177,10 +177,10 @@ table, tr, td, img, p { border-radius: 6px; }
                                                           <td valign="top">
 
                                                               {% if post.featured-image %}
-                                                              <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="margin: 0px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00"/> 
+                                                              <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="margin: 20px; width: 340px; max-width: 340px; float: left;" width="340" mc:label="image" mc:edit="tiwc200_image00"/> 
                                                               
                                                               {% else %}
-                                                              <img class="feat-img" src="{{ site.url }}/assets/images/logo-w-dark.png" style="margin: 0px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00" />
+                                                              <img class="feat-img" src="{{ site.url }}/assets/images/logo-w-dark.png" style="margin: 20px; width: 340px; max-width: 340px; float: left;" width="340" mc:label="image" mc:edit="tiwc200_image00" />
                                                               {% endif %}
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
@@ -208,10 +208,10 @@ table, tr, td, img, p { border-radius: 6px; }
                                                           <td valign="top">
 
                                                               {% if post.featured-image %}
-                                                              <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="margin: 0px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00"/> 
+                                                              <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="margin: 20px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00"/> 
                                                               
                                                               {% else %}
-                                                              <img class="feat-img" src="{{ site.url }}/assets/images/logo-w-dark.png" style="margin: 0px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00" />
+                                                              <img class="feat-img" src="{{ site.url }}/assets/images/logo-w-dark.png" style="margin: 20px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00" />
                                                               {% endif %}
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
@@ -236,10 +236,10 @@ table, tr, td, img, p { border-radius: 6px; }
                                                           <td valign="top">
 
                                                               {% if post.featured-image %}
-                                                              <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="margin: 0px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00"/> 
+                                                              <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="margin: 20px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00"/> 
                                                               
                                                               {% else %}
-                                                              <img class="feat-img" src="{{ site.url }}/assets/images/logo-w-dark.png" style="margin: 0px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00" />
+                                                              <img class="feat-img" src="{{ site.url }}/assets/images/logo-w-dark.png" style="margin: 20px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00" />
                                                               {% endif %}
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
@@ -264,10 +264,10 @@ table, tr, td, img, p { border-radius: 6px; }
                                                           <td valign="top">
 
                                                               {% if post.featured-image %}
-                                                              <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="margin: 0px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00"/> 
+                                                              <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="margin: 20px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00"/> 
                                                               
                                                               {% else %}
-                                                              <img class="feat-img" src="{{ site.url }}/assets/images/logo-w-dark.png" style="margin: 0px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00" />
+                                                              <img class="feat-img" src="{{ site.url }}/assets/images/logo-w-dark.png" style="margin: 20px; width: 170px; max-width: 170px; float: left;" width="170" mc:label="image" mc:edit="tiwc200_image00" />
                                                               {% endif %}
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
