@@ -8,39 +8,30 @@ tags: Politics
 featured-image: conspiracy/911.png
 featured-image-alt: 9/11 
 ---
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2001/09/11/september-11-attacks.html" data-iframely-url="//iframely.net/lDJpNOl?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2002/10/12/bali-bombing-plot.html" data-iframely-url="//iframely.net/MkN75fz?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2003/11/13/saddam-hussein-captured.html" data-iframely-url="//iframely.net/Aiz8Ab6?card=small"></a></div></div> 
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2004/12/14/worlds-tallest-bridge-opens.html" data-iframely-url="//iframely.net/ODuOujd?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2006/01/15/suicide-bomb-kills-canadian-soldier-two-afghans.html" data-iframely-url="//iframely.net/YDvBMOM?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2007/02/16/us-house-to-vote-on-iraq-resolution.html" data-iframely-url="//iframely.net/r1TktBy?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2008/03/17/dozens-killed-in-karbala-shrine-attack.html" data-iframely-url="//iframely.net/fSjheSo?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2009/04/18/first-case-of-swine-flu.html" data-iframely-url="//iframely.net/22L6qQf?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2010/05/19/everybody-draw-muhammad-day.html" data-iframely-url="//iframely.net/7Fqlp7R?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2011/06/20/rusair-tupolev-tu-134-passenger-jet-crashes-anniversary-of-911.html" data-iframely-url="//iframely.net/AgbdUSr?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2012/07/21/pakistan-blast-kills-nine-in-kurram-at-nabi-compound.html" data-iframely-url="//iframely.net/DGX3c9K?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2013/08/22/august-2013-nasdaq-flash-freeze.html" data-iframely-url="//iframely.net/6VSDoCA?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2014/09/23/us-arab-allies-launch-first-wave-of-strikes-in-syria.html" data-iframely-url="//iframely.net/PgGQ3JZ?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2015/10/24/united-nations-turns-70.html" data-iframely-url="//iframely.net/GNcUK9Y?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2016/11/25/scores-killed-in-iran-train-collision.html" data-iframely-url="//iframely.net/61gTEf0?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2017/12/26/civilians-killed-in-saudi-raids-in-yemens-taiz.html" data-iframely-url="//iframely.net/YfbuMk9?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2019/01/27/20-dead-as-bombs-target-sunday-mass-in-philippine-cathedral.html" data-iframely-url="//iframely.net/O3MYwob?card=small"></a></div></div>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://thenewworldpost.com/politics/2020/02/28/bermuda-triangle-is-no-mystery-ocean-scientist-explains.html" data-iframely-url="//cdn.iframe.ly/api/iframe?card=small&url=http%3A%2F%2Fthenewworldpost.com%2Fpolitics%2F2020%2F02%2F28%2Fbermuda-triangle-is-no-mystery-ocean-scientist-explains.html&key=e7d1935fb865b2f8b1103ce3fdd8ff4e"></a></div></div> 
+The 9/11 sequence is a chrononlogical pattern of events that have occurred in order with the 9/11 terror attacks. Some are merely a coincidence, some are arguably coincidental and some are purposeful.  
+  
+4/6/4646 - Chinese date Israel is reborn  
+5/7/1997 - <a href="https://www.imdb.com/title/tt0119116/">Pyramids and Aliens in doomsday movie Fifth Element</a>  
+6/8/1998 - unknown  
+7/9/1999 - <a href="https://www.imdb.com/title/tt0163651/">American Pie</a>  
+8/10/2001 - <a href="https://www.imdb.com/title/tt0252866/">American Pie 2</a>  
+9/11/2001 - <a href="http://thenewworldpost.com/politics/2001/09/11/september-11-attacks.html">September 11 attacks</a>  
+10/12/2002 - <a href="http://thenewworldpost.com/politics/2002/10/12/bali-bombing-plot.html">Bali bombing</a>  
+11/13/2003 - <a href="http://thenewworldpost.com/politics/2003/11/13/saddam-hussein-captured.html">Saddam Hussein captured</a>  
+12/14/2004 - <a href="http://thenewworldpost.com/politics/2004/12/14/worlds-tallest-bridge-opens.html">World's Tallest Bridge opens in France</a>  
+1/15/2006 - <a href="http://thenewworldpost.com/politics/2006/01/15/suicide-bomb-kills-canadian-soldier-two-afghans.html">Suicide bomb kills Canadian soldier</a>  
+2/16/2007 - <a href="http://thenewworldpost.com/politics/2007/02/16/us-house-to-vote-on-iraq-resolution.html">US House votes on Iraq resolution</a>  
+3/17/2008 - <a href="http://thenewworldpost.com/politics/2008/03/17/dozens-killed-in-karbala-shrine-attack.html">Dozens killed in Karabala shrine attack</a>  
+4/18/2009 - <a href="http://thenewworldpost.com/politics/2009/04/18/first-case-of-swine-flu.html">First case of the Swine Flu</a>  
+5/19/2010 - <a href="http://thenewworldpost.com/politics/2010/05/19/everybody-draw-muhammad-day.html">Everybody draw Muhammad day</a>  
+6/20/2011 - <a href="http://thenewworldpost.com/politics/2011/06/20/rusair-tupolev-tu-134-passenger-jet-crashes-anniversary-of-911.html">RusAir Tupolev passenger jet crashes</a>  
+7/21/2012 - <a href="http://thenewworldpost.com/politics/2012/07/21/pakistan-blast-kills-nine-in-kurram-at-nabi-compound.html">Pakistan blast kills 9 in Kurram at Nabi compound</a>  
+8/22/2013 - <a href="http://thenewworldpost.com/politics/2013/08/22/august-2013-nasdaq-flash-freeze.html">NASDAQ flash freeze</a>  
+9/23/2014 - <a href="http://thenewworldpost.com/politics/2014/09/23/us-arab-allies-launch-first-wave-of-strikes-in-syria.html">US-Arab Allies launch first wave of strikes in Syria</a>  
+10/24/2015 - <a href="http://thenewworldpost.com/politics/2015/10/24/united-nations-turns-70.html">United Nations 70th anniversary</a>  
+11/25/2016 - <a href="http://thenewworldpost.com/politics/2016/11/25/scores-killed-in-iran-train-collision.html">Scores killed in Iran train collision</a>  
+12/26/2017 - <a href="http://thenewworldpost.com/politics/2017/12/26/civilians-killed-in-saudi-raids-in-yemens-taiz.html">Civilians killed in Saudi raids in Yemen's Taiz</a>  
+1/27/2019 - <a href="http://thenewworldpost.com/politics/2019/01/27/20-dead-as-bombs-target-sunday-mass-in-philippine-cathedral.html">20 dead as bombs target Sunday mass in Phillipine cathedral</a>  
+2/28/2020 - <a href="http://thenewworldpost.com/politics/2020/02/28/bermuda-triangle-is-no-mystery-ocean-scientist-explains.html">Bermuda triangle is no mystery scientist explains</a>  
+3/29/2021 - unknown  
+4/30/2022 - unknown  
