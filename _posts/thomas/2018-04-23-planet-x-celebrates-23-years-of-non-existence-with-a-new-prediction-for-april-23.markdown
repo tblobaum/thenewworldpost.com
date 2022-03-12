@@ -3,7 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Planet X Celebrates 23 Years Of Non-Existence With A New Prediction For April 23"
 date:   2018-04-23 04:44:00 -0600
-categories: USA
+categories: Politics 
+tags: Planet Nine Nibiru Naboo Navel Nebula 
 featured-image: planet-x.jpeg
 featured-image-alt: Planet X
 tags: Planet-X

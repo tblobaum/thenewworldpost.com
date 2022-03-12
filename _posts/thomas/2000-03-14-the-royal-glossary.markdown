@@ -6,6 +6,8 @@ date:   2000-03-14 02:22:22 -0600
 categories: World  
 featured-image: royal-background.jpeg
 featured-image-alt: 
+featured: no 
+dropcap: no  
 ---
 TIP: (bpdtjg) - (hrl) - [aeiouy] - (hrlnm) - [bpdtjg] - (hrl) - [aeiouy] - (hrlnm)
 abalienate

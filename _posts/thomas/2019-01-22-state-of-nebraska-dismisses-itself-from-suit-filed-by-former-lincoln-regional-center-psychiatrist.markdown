@@ -3,7 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "State Of Nebraska Dismisses Itself From Suit Filed By Former Lincoln Regional Center Psychiatrist"
 date:   2019-01-22 04:20:00 -0600
-categories: Nebraska Health
+categories: Politics 
+tags: Navel Nebraska Health Holocaust Resident_Evil 
 featured-image: lincoln-regional-resident-evil.png
 featured-image-alt: Lincoln Regional rhymes with Resident Evil  
 ---

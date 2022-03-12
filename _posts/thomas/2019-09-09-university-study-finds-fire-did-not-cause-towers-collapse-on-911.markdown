@@ -2,10 +2,12 @@
 layout: post
 author: Thomas James Blobaum 
 title:  "University Study Finds Fire Did Not Cause Tower 7 To Collapse On 9/11"
-date:   2019-09-09 04:44:00 -0600
+date: 2019-09-09 04:44:00 -0600
 categories: Politics
+tags: 9/11 Conspiracy WTC7 Truth 
 featured-image: wtc7-building.gif
 featured-image-alt: WTC 7 Building 
+featured: yes 
 ---
 MULTIPLE LOCATIONS– The fall of the 47-story World Trade Center Building 7 (WTC 7) in New York City late in the afternoon of September 11, 2001, was not a result of fires, according to a draft report by researchers at the University of Alaska Fairbanks (UAF), following a four-year computer modeling study funded by Architects & Engineers for 9/11 Truth.
 

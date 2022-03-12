@@ -3,8 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Stratcom murder-suicide aggravated by the Blackshirts"
 date:   2019-11-22 04:20:00 -0600
-categories: Nebraska Crime
-tags: Blackshirts 
+categories: Politics 
+tags: Crime Navel Nebraska Cornhuskers Blackshirts Stratcom
 featured-image: kari-mcmanigal.jpg
 featured-image-alt: Kari McManigal 
 ---

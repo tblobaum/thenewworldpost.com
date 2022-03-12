@@ -6,6 +6,7 @@ date:   2021-02-19 04:44:00 -0600
 categories: World Health
 featured-image: plague.jpg
 featured-image-alt: Bubonic Plague 
+featured: yes 
 ---
 CONGO– A bubonic plague outbreak in the Democratic Republic of Congo has seen several dozen people succumb to the long-feared disease, which caused Europe’s Black Death pandemic in the 14th century.
 

@@ -3,9 +3,11 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Black Death Is Able To Reach More Areas Due To Global Warming, Russia’s Top Doctor Warns"
 date:   2022-01-01 04:44:00 -0600
-categories: World Health 
+categories: World  
+tags: Climate Russia Pandemic Popova Health
 featured-image: anna-popova.png
 featured-image-alt: Anna Popova
+featured: yes 
 ---
 MOSCOW– The bubonic plague is making a comeback due to climate change, warned Russia‘s top doctor today.
 

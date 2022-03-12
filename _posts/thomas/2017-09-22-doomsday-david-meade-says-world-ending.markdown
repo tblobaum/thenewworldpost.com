@@ -1,13 +1,14 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "DOOMSDAY: David Meade Says World Ending Due To Rabbi Being Arrested For Speech Crime in Nebraska Under the Blackshirts Flag"
+title:  "DOOMSDAY: David Meade Says World Ending Due To Tommy Being Taken Down For Speech in Nebraska Instead of the Blackshirts Flag"
 date:   2017-09-22 04:44:00 -0600
-categories: World
-tags: Doomsday
+categories: Politics 
+tags: Navel Nebraska Doomsday 
 featured-image: doomsday-dinosaurs.jpg
 featured-image-alt: Doomsday Dinosaurs 
 dropcap: on 
+featured: yes 
 ---
 There are a lot of reasons Caltech physicist Randall Smith didn’t recently announce that a rogue planet named Nibiru is going to destroy Earth this weekend — not the least being that “Randall Smith” of Caltech doesn’t exist. That’s the same reason — the doesn’t-really-exist reason — that NASA spokeswoman Heather Cartwright didn’t publicly confirm the fictional Smith’s findings.
 

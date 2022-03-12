@@ -3,9 +3,9 @@ layout: default
 title: Archive
 ---
 
-<h1>{{ page.category }}</h1>
-<ul class="post-list posts archives">
-    {% for post in site.posts %}
+<h1 class="archives-header">{{ page.category }} <span>News</span></h1>
+<ul class="post-list posts archives box">
+    {% for post in site.posts offset:0 %}
         {% if post.categories contains page.category or post.category == page.category %}
             {% include postbox.html %}
         {% endif %}    

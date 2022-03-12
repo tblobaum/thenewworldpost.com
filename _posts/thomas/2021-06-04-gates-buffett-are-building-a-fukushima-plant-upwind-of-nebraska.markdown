@@ -3,9 +3,11 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Gates & Buffett Are Building A Fukushima Plant Upwind Of Nebraska"
 date:   2021-06-04 04:22:00 -0600
-categories: Nebraska
+categories: Politics 
+tags: Navel Nebraska Gates Buffett Nuclear 
 featured-image: gates-nuclear.jpeg
 featured-image-alt: Bill Gates and a Nuclear Reactor
+featured: yes
 ---
 WYOMING– Power companies run by billionaire friends Bill Gates and Warren Buffett have chosen Wyoming to launch the first Natrium nuclear reactor project on the site of a retiring coal plant.
 

@@ -3,9 +3,11 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Rogue Planet Could Bring End Of Days This Weekend, Numerologists Say"
 date:   2017-11-17 04:22:00 -0600
-categories: Space
+categories: Science 
+tags: Navel Planet Nibiru Nine Doomsday Numerology 
 featured-image: doomsday.jpg
 featured-image-alt: Doomsday 
+featured: yes 
 ---
 SPACE – Here’s to hoping that you made plans for an epic weekend, because it may be our last.
 

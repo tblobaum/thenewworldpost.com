@@ -3,10 +3,11 @@ layout: post
 author: Thomas James Blobaum 
 title:  "‘OK’ is now a hate symbol, the ADL says"
 date:   2019-09-26 04:20:00 -0600
-categories: World 
-tags: Blackshirts
+categories: Politics  
+tags: Navel Nebraska Cornhuskers Blackshirts 4chan Hate ADL
 featured-image: ok.jpg
 featured-image-alt: Okay!
+featured: yes 
 ---
 LOS ANGELES– The “OK” hand gesture is now a hate symbol, according to a new report by the Anti-Defamation League.
 

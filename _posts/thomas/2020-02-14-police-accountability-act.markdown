@@ -4,7 +4,7 @@ author:
 title:  "Police Accountability Act of 2020 - HR 5777"
 date:   2020-02-14 04:20:01 -0600
 categories: Politics
-tags: Congress 
+tags: Congress Crime 5777 
 featured-image: 
 featured-image-alt: 
 ---

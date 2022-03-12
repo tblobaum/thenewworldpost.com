@@ -3,7 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Twitter Poll On Changing Tommy’s Sirius Song"
 date:   2018-04-23 04:23:00 -0600
-categories: USA Politics
+categories: Politics
+tags: Navel Nebraska Cornhuskers Blackshirts Tommy 
 featured-image: frost.jpeg
 featured-image-alt: Scott Frost
 ---

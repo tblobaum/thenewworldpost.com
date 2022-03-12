@@ -3,11 +3,12 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Lincoln Man Behind Bars for Blackshirts Synagogue Graffiti Says Jewish Man Paid Him"
 date:   2021-02-19 04:20:00 -0600
-categories: USA Politics Nebraska 
-tags: Blackshirts Nazis
+categories: Politics
+tags: Hate Crime Navel Nebraska Cornhuskers Blackshirts Miller Anti-Semitism 
 featured-image: blackshirts-graffiti.jpg
 featured-image-alt: Blackshirts Graffiti on the Synagogue in Lincoln, NE
 dropcap: off
+featured: yes 
 ---
 LINCOLN, NEBRASKA– A 22-year-old Lincoln man convicted of a hate crime for spray-painting swastikas and racial epithets on a Lincoln synagogue, including a word so divisive it isn’t being covered by mainstream media: Blackshirts.
 

@@ -3,10 +3,12 @@ layout: post
 author: Thomas James Blobaum 
 title:  "The Doomsday Prophecy of Dr. Geert Vanden Bossche"
 date:   2021-04-20 04:22:00 -0600
-categories: Space
+categories: Politics 
+tags: Doomsday COVID-19 Health Pandemic 
 featured-image: doomsday-meteor.jpg
 featured-image-alt: Meteor 
 dropcap: on 
+featured: no 
 ---
 A Belgian virus expert has scared the Internet by claiming the COVID-19 vaccines will doom humanity. No need to panic.
 

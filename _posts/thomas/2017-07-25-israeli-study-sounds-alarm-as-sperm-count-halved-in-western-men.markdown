@@ -3,7 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Israeli Study Sounds Alarm As Sperm Count Halved In Western Men"
 date:   2017-07-25 04:20:00 -0600
-categories: World Health
+categories: World
+tags: Health Fertility Crisis Chemicals Herbicides Pesticides
 featured-image: baby-in-womb.jpg
 featured-image-alt: Baby in womb
 ---

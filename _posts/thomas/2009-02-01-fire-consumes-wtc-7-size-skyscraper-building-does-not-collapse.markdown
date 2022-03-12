@@ -3,9 +3,12 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Fire Consumes WTC 7-Size Skyscraper, Building Does Not Collapse"
 date:   2009-02-01 04:20:00 -0600
-categories: USA Politics
+categories: World
+tags: China Beijing WTC7 Fire Arson
 featured-image: windsor.jpg
 featured-image-alt: Windsor Building after fires 
+dropcap: no
+featured: no
 ---
 BEIJING– Giant flames engulf every floor of 44-story building and it remains standing, yet limited fires across just 8 floors of WTC 7 brought down the building within 7 seconds on 9/11. How can NIST’s “new phenomenon” explain this one?
 

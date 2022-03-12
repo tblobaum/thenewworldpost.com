@@ -3,7 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Reasonable To Hypothesize Corona Virus Is Genetically Engineered"
 date:   2021-12-21 22:33:44 -0600
-categories: Health
+categories: World
+tags: Health Pandemic COVID-19 Conspiracy 
 featured-image: wuhan.jpeg
 featured-image-alt: Wuhan
 ---

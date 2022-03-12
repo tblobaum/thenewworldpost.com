@@ -3,7 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Red, White And Blue Crabs: These Tree-Climbing, Bird-Killing Crabs Come In Multiple Colors And No One Knows Why"
 date:   2018-07-04 04:44:00 -0600
-categories: Nature  
+categories: Science
+tags: Independence Red White Blue Crabs  
 featured-image: blue-tree-crab.jpg
 featured-image-alt: Blue Crab
 ---

@@ -7,6 +7,8 @@ categories: World
 tags: Maps 
 featured-image: jerusalem-center.jpeg
 featured-image-alt: Cheerios
+featured: yes
+dropcap: yes
 ---
 
 The Bünting Clover Leaf Map, also known as The World in a Cloverleaf, is a historic mappa mundi drawn by the German Protestant pastor, theologian, and cartographer Heinrich Bünting. The map was published in his book Itinerarium Sacrae Scripturae (Travel Book of Holy Scripture) in 1581.

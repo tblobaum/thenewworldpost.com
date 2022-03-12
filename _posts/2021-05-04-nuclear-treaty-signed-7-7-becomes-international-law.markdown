@@ -8,6 +8,7 @@ tags: UN
 featured-image: ban-nukes.jpg
 featured-image-alt: Ban Nukes 
 dropcap: on 
+featured: yes
 ---
 On January 22, 2021, the Treaty on the Prohibition of Nuclear Weapons (TPNW) became international law for the 122 states who signed the agreement in July 2017. The TPNW, as with most treaties, is summed up in one sentence (article 1a): “Each State Party undertakes never under any circumstances to… Develop, test, produce, manufacture, otherwise acquire, possess or stockpile nuclear weapons or other nuclear explosive devices.” There is no complexity here. This is a treaty to ban nuclear weapons.
 

@@ -34,24 +34,23 @@ layout: default
     </div>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
+  <div class="post-content e-content {% if page.dropcap %}dropcap{% endif %}" itemprop="articleBody">
     {{ content }}
 
-    
-<div class="post-tags">
-  {% if post %}
-    {% assign tags = post.tags %}
-  {% else %}
-    {% assign tags = page.tags %}
-  {% endif %}
-  {% for tag in tags %}
-  <a href="{{site.baseurl}}/tag/{{tag|slugize}}/">{{tag}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
+    <div class="post-tags">
+      {% if post %}
+        {% assign tags = post.tags %}
+      {% else %}
+        {% assign tags = page.tags %}
+      {% endif %}
+      {% for tag in tags %}
+      <a href="{{site.baseurl}}/tag/{{tag|slugize}}/">{{tag}}</a>
+      {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    </div>
 
-<br> 
-<p><small>{% github_edit_link "Suggest a correction." %}</small></p>
+    <br> 
+    <p><small>{% github_edit_link "Suggest a correction." %}</small></p>
     <script src="https://utteranc.es/client.js"
         repo="tblobaum/thenewworldpost.com"
         issue-term="pathname"

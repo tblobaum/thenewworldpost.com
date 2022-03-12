@@ -1,11 +1,14 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "Batygin and Brown: Planet Nine Heading for Pi"
-date:   2016-02-06 04:44:00 -0600
+title: "Batygin and Brown: Planet Nine Heading for Pi"
+date: 2016-02-06 04:44:00 -0600
 categories: World
+tags: Tommy 
 featured-image: planet-nine.png
 featured-image-alt: Planet Nine 
+featured: yes 
+dropcap: yes 
 ---
 In early 2016, California Institute of Technology‘s Batygin and Brown described how the similar orbits of six ETNOs could be explained by Planet Nine and proposed a possible orbit for the planet. This hypothesis could also explain ETNOs with orbits perpendicular to the inner planets and others with extreme inclinations, and had been offered as an explanation of the tilt of the Sun’s axis.
 

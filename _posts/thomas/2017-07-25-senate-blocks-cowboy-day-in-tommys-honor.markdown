@@ -3,9 +3,12 @@ layout: post
 author: Thomas James Blobaum 
 title:  "Senate Blocks Cowboy Day"
 date:   2017-07-25 04:20:00 -0600
-categories: USA Politics
+categories: Politics
+tags: USA Cowboy 38 14 
 featured-image: enzi.jpg
-featured-image-alt: Politician
+featured-image-alt: Politician 
+dropcap: no 
+featured: yes 
 ---
 WASHINGTON D.C.– Washington couldn’t even wrangle the votes to pass a resolution honoring the American cowboy.
 
