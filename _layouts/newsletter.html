@@ -78,7 +78,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                   <center>
                                   <p style="border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;background: #0e0e0e; margin: 0px 0; padding: 25px;"> 
                                     <a href="{{ site.url }}">
-                                      <img src="{{ site.url }}{{ site.logo }}" alt="{{ site.title | escape }}" style="margin-bottom: 0px; width:350px; min-width:350px; max-width: 350px;border:0px; box-shadow: none !important;margin: 0 !important;" width="350" />
+                                      <img src="{{ site.url }}{{ site.logo }}" alt="{{ site.title | escape }}" style="width:350px; min-width:350px; max-width: 350px;border:0px; box-shadow: none !important;" width="350" />
                                     </a>
                                   </p>
                                   </center>
@@ -98,7 +98,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                                     <img class="feat-img" src="{{ site.url }}/assets/images/{{ post.featured-image }}" alt="{{ post.alt | default: '' }}" style="width: 275px; max-width: 275px; float: left;max-width:275px;margin:20px;" width="275" mc:label="image" mc:edit="tiwc200_image00"/>
                                                     {% endif %}
                                                     <span class="post-meta">{{ site.time | date: '%b %-d, %Y' }}</span>
-                                                    <h1 class="h1" style="color: #111; margin:0;padding:0;"><a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
+                                                    <h1 class="h1" style="margin:0;padding:0;"><a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}" style="color: #111 !important;">{{ post.title | escape }}</a></h1>
                                                       <p>{{ post.excerpt | truncate: 1024 }}</p>
                                                     </div>
                                                     </td>
@@ -144,7 +144,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
                                                                 <div mc:edit="tiwc200_content00">
-                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}"><h4 style="color: #111;" class="h4">{{ post.title | escape }}</h4> </a>
+                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}"><h4 style="color: #111 !important;" class="h4">{{ post.title | escape }}</h4> </a>
                                                                 </div>
                                                             </td>
                                                         </tr>
@@ -175,7 +175,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
                                                                 <div mc:edit="tiwc200_content00">
-                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}"><h4 style="color: #111;" class="h4">{{ post.title | escape }}</h4> </a>
+                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}"><h4 style="color: #111 !important;" class="h4">{{ post.title | escape }}</h4> </a>
                                                                 </div>
                                                             </td>
                                                         </tr>
@@ -206,7 +206,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
                                                                 <div mc:edit="tiwc200_content00">
-                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}"><h4 style="color: #111;" class="h4">{{ post.title | escape }}</h4> </a>
+                                                              <a style="color: #111;" class="post-link" href="{{ site.url }}{{ post.url | relative_url }}"><h4 style="color: #111 !important;" class="h4">{{ post.title | escape }}</h4> </a>
                                                                 </div>
                                                             </td>
                                                         </tr>
@@ -234,7 +234,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
                                                                 <div mc:edit="tiwc200_content00">
-                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}"><h4 style="color: #111;" class="h4">{{ post.title | escape }}</h4> </a>
+                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}" style="color: #111;"><h4 style="color: #111 !important;" class="h4">{{ post.title | escape }}</h4> </a>
                                                                 </div>
                                                             </td>
                                                         </tr>
@@ -262,7 +262,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                                               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                                                               <p class="post-meta">{{ post.date | date: date_format }}</p>
                                                                 <div mc:edit="tiwc200_content00">
-                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}"><h4 style="color: #111;" class="h4">{{ post.title | escape }}</h4> </a>
+                                                              <a class="post-link" href="{{ site.url }}{{ post.url | relative_url }}" style="color: #111;"><h4 style="color: #111 !important;" class="h4">{{ post.title | escape }}</h4> </a>
                                                                 </div>
                                                             </td>
                                                         </tr>
