@@ -3,8 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title: "Batygin and Brown: Planet Nine Heading for Pi"
 date: 2016-02-06 04:44:00 -0600
-categories: World
-tags: Tommy 
+categories: Navel
+tags: Tommy Space Pi Orion Batygin Brown
 featured-image: planet-nine.png
 featured-image-alt: Planet Nine 
 featured: yes 

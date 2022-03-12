@@ -37,11 +37,40 @@ layout: default
     </form>
   </div>
 
+  <div class="w75 left">
+    <h1 class="archives-header">Political <span>News</span></h1>
+    <ul class="post-list posts archives box">
+        {% for post in site.posts offset:33 %}
+            {% if post.categories contains "Politics" or post.category == "Politics" %}
+                {% include postbox.html %}
+            {% endif %}    
+        {% endfor %}
+    </ul>
+  </div>
 
   <div class="w75 left">
-    {%- include home-widget-staggered.html -%}
+    <h1 class="archives-header">World <span>News</span></h1>
+    <ul class="post-list posts archives box">
+        {% for post in site.posts offset:33 %}
+            {% if post.categories contains "World" or post.category == "World" %}
+                {% include postbox.html %}
+            {% endif %}    
+        {% endfor %}
+    </ul>
   </div>
-    
+
+  <div class="w75 left">
+    <h1 class="archives-header">Navel <span>News</span></h1>
+    <ul class="post-list posts archives box">
+        {% for post in site.posts offset:33 %}
+            {% if post.categories contains "Navel" or post.category == "Navel" %}
+                {% include postbox.html %}
+            {% endif %}    
+        {% endfor %}
+    </ul>
+  </div>
+
+
 </div> 
 
         
