@@ -3,7 +3,7 @@ layout: post
 author: 
 title:  "Jeremy Grantham warns ‘super bubble’ will soon pop, tanking stocks 50 percent" 
 date:   2022-01-21 04:20:00 -0600 
-categories: USA 
+categories: Politics 
 tags: Grantham DOW Doomsday 
 featured-image: sabbath-year.png 
 featured-image-alt: Doge Coin 
