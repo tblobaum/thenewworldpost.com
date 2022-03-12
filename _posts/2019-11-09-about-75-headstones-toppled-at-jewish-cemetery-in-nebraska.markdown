@@ -3,8 +3,8 @@ layout: post
 author: Thomas James Blobaum 
 title:  "About 75 headstones toppled at Jewish cemetery in Nebraska"
 date:   2019-11-09 04:20:00 -0600
-categories: USA Politics 
-tags: Blackshirts Nazis Nebraska 
+categories: Politics 
+tags: Crime Navel Blackshirts Nazis Nebraska Anti-Semitism Racism 
 featured-image: jewish-cemetary.jpg
 featured-image-alt: Jewish Cemetary in Omaha
 ---

@@ -4,7 +4,7 @@ author: Thomas James Blobaum
 title:  "University Study Finds Fire Did Not Cause Tower 7 To Collapse On 9/11"
 date: 2019-09-09 04:44:00 -0600
 categories: Politics
-tags: 9/11 Conspiracy WTC7 Truth 
+tags: 911 Conspiracy WTC7 Truth 
 featured-image: wtc7-building.gif
 featured-image-alt: WTC 7 Building 
 featured: yes 
