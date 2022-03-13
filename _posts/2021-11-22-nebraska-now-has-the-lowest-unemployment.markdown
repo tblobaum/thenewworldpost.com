@@ -1,8 +1,8 @@
 ---
 layout: post
 author: WSJ 
-title:  "At 1%, Nebraska Now Has the Lowest Unemployment Rate of Any State, Ever"
-date:   2021-11-22 04:20:00 -0600
+title: "At 1%, Nebraska Now Has the Lowest Unemployment Rate of Any State, Ever"
+date: 2021-11-22 04:20:00 -0600
 categories: Politics 
 tags: Nebraska Unemployment Navel Nebula Nibiru Naboo Nebra
 featured-image: conspiracy/ne-employs.png

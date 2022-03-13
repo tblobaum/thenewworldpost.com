@@ -2,7 +2,7 @@
 layout: default 
 ---
 
-<h1 class="archives-header">{{ page.year }} <span>News</span></h1>
+<h1 class="archives-header">{{ page.year }} <span>Posts</span></h1>
 <ul class="post-list posts archives box">
     {% for post in site.posts %}
         {% assign postyear = post.date | date: "%Y" %}

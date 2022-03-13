@@ -5,7 +5,7 @@ title:  "911 system of emergency communications began in Lincoln, Nebraska, plus
 date:   2022-03-10 04:20:00 -0600
 categories: Navel 
 tags: Nebraska 911 Signs Navel Nebula 
-featured-image: signs-explained.png
+featured-image: conspiracy/n.jpeg 
 featured-image-alt: Nebraska 
 dropcap: on 
 ---
@@ -13,7 +13,7 @@ dropcap: on
 
 2. State insect is the honeybee.
 
-3. COOLEST FACT ALERT! In 1927, Edwin E. Perkins of Hastings invented the powered soft drink Kool-Aid. This was THE drink of choice when I use to go to the US to visit relatives as a kid. When in the UK, my drink of choice was Dandelion and Burdock. Kick-ass.
+3. COOL FACT ALERT! In 1927, Edwin E. Perkins of Hastings invented the powered soft drink Kool-Aid. This was THE drink of choice when I use to go to the US to visit relatives as a kid. When in the UK, my drink of choice was Dandelion and Burdock. Kick-ass.
 
 4. Nebraska has the U.S.’s largest aquifer (the Ogalala aquifer). This is actually quite an interesting fact and, for me, quite surprising.
 
@@ -27,7 +27,9 @@ dropcap: on
 
 9. Almost half the people (folk?) in Nebraska are of German descent, and Nebraska is the only state with German-American heritage as the largest group in every county.
 
-10. The movie Signs by M Night Shyamalan is actually about a Nebraskan's struggle for organic (traditionaL) farming against chemical giants and their GMOs. That man's name is Dr. Roger Blobaum. 
+10. COOLEST FACT ALERT! The movie Signs by M Night Shyamalan is actually about a Nebraskan's struggle for organic farming against chemical giants and their GMOs. His name is Dr. Roger Blobaum. 
+
+![](/assets/images/signs-explained.png)
 
 <a href="http://rogerblobaum.com/" data-iframely-url></a>
 

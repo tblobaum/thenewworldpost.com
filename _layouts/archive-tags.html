@@ -3,7 +3,7 @@ layout: default
 title: Archive
 ---
 
-<h1 class="archives-header">{{ page.tag }} <span>News</span></h1>
+<h1 class="archives-header">{{ page.tag }} <span>Posts</span></h1>
 <ul class="post-list posts archives box">
     {% for post in site.posts %}
         {% if post.tags contains page.tag or post.tag == page.tag %}

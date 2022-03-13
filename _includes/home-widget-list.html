@@ -1,6 +1,6 @@
 
 <ul class="post-list">
-  {%- for post in site.posts offset:2 limit:2 -%} 
+  {%- for post in site.posts offset:3 limit:1 -%} 
   <li class="bomb-featured">
     <div class="bomb-img">
       {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
@@ -17,7 +17,7 @@
     </div>
   </li>
   {%- endfor -%}
-  {%- for post in site.posts offset:13 limit:4 -%}
+  {%- for post in site.posts offset:4 limit:1 -%}
   <li class="bomb-featured-small">
     <div class="bomb-img">
       {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}

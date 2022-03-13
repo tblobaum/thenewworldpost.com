@@ -1,0 +1,33 @@
+---
+layout: post
+author: 911.gov 
+title: "The National 911 Program Celebrates 50 Years of 911"
+date: 2018-02-14 04:20:00 -0600
+categories: USA  
+tags: Alabama Nebraska 911 Lincoln 
+featured-image: 50years-911.jpg
+featured-image-alt: 50 Years of 911  
+dropcap: yes 
+featured: no 
+---
+The 911 system of emergency communications used nationwide was developed and tested in Lincoln, Nebraska.
+
+The first call to 911 was placed in Alabama in February of 1968. Thanks to 911, throughout the country, a call to 911 can quickly connect you with the help you need. 
+
+Before that first call, individuals needed to dial local 10-digit phone numbers to reach police, fire or emergency services. In 1966, the National Academy of Sciences published "Accidental Death and Disability: The Neglected Disease of Modern Society,” a landmark report highlighting how accidental death and injury, particularly from motor vehicle crashes, had become an epidemic in the U.S. The report urged a series of steps to reduce these needless deaths and injuries, including exploring the “feasibility of designating a single, nationwide, telephone number to summon an ambulance.”
+
+Two years later, a Senator in Haleyville, Alabama placed the first 911 call. It wasn’t long before other cities followed the trend. Only six days later, the second 911 call was placed in Nome, Alaska. Since then, the system expanded nationwide and is continuously improving to keep pace with advancing technology. 
+
+Today, many states and regions are implementing Next Generation 911, an IP-based system which will allow 911 to easily transfer calls to other call centers, re-route calls in case a PSAP experiences call overload, and eventually receive photos and videos of caller events. 
+
+Since the 1960s, NHTSA has supported public safety efforts to connect communities with emergency services. Since its inception in 2004, the National 911 Program has focused on supporting state efforts to continually improve 911 services by creating resources and disseminating grant funding for 911 technology and operations.
+
+This year, as the country recognizes 50 years of answered calls and lives saved, we celebrate the 911 system and its advancement over the last several decades, while also looking to the future of Next Generation 911 and improved emergency communication across the country. 
+
+Source: 911.gov 
+
+<a href="https://www.911.gov/50-years-of-911.html" data-iframely-url></a>
+
+
+
+

@@ -6,54 +6,55 @@ layout: none
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <style>
-a { text-decoration: none; color: #111; }
-a:hover { color: #444;  }
-body, p, h1, h2, h3, h4, h5, h6 {
-  margin:0;padding:0;
-  font: 400 16px/1.5 "PT Sans", Roboto, "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #111;
-}
-a { font-weight: 900; } 
-p { padding-bottom: 15px; }
-h1 { font-size: 36px; font-weight: 900; } 
-h2 { font-size: 32px; font-weight: 900; }
-h3 { font-size: 28px; font-weight: 900; }
-h4 { font-size: 24px; font-weight: 900; }
-h5 { font-size: 18px; font-weight: 900; }
-h6 { font-size: 14px; font-weight: 900; } 
-.post-meta { font-size: 14px; color: #828282; }
-table, tr, td, img, p { border-radius: 6px; }
-
-/**
-* @tab Body
-* @section button style
-* @tip Set the styling for your email's button. Choose a style that draws attention.
-*/
-.templateButton{
-  -moz-border-radius:6px;
-  -webkit-border-radius:6px;
-  /*@editable*/ background-color:#0e0e0e;
-  /*@editable*/ border:0;
-  border-collapse:separate !important;
-  border-radius:6px;
-  margin:auto;
-}
-
-/**
-* @tab Body
-* @section button style
-* @tip Set the styling for your email's button. Choose a style that draws attention.
-*/
-.templateButton, .templateButton a:link, .templateButton a:visited, /* Yahoo! Mail Override */ .templateButton a .yshortcuts /* Yahoo! Mail Override */{
-  /*@editable*/ color:#FFFFFF;
-  /*@editable*/ font-family:Arial;
-  /*@editable*/ font-size:15px;
-  /*@editable*/ font-weight:bold; 
-  /*@editable*/ line-height:100%;
-  text-align:center;
-  text-decoration:none;
-}
-</style>
+  a { text-decoration: none; color: #111; }
+  a:hover { color: #444;  }
+  body, p, h1, h2, h3, h4, h5, h6 {
+    margin:0;padding:0;
+    font: 400 16px/1.5 "PT Sans", Roboto, "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #111;
+  }
+  a { font-weight: 900; } 
+  p { padding-bottom: 15px; }
+  h1 { font-size: 36px; font-weight: 900; } 
+  h2 { font-size: 32px; font-weight: 900; }
+  h3 { font-size: 28px; font-weight: 900; }
+  h4 { font-size: 24px; font-weight: 900; }
+  h5 { font-size: 18px; font-weight: 900; }
+  h6 { font-size: 14px; font-weight: 900; } 
+  .post-meta { font-size: 14px; color: #828282; }
+  /* table, tr, td, img, p { border-radius: 6px; } */
+  img { border-radius: 6px; } 
+  
+  /**
+  * @tab Body
+  * @section button style
+  * @tip Set the styling for your email's button. Choose a style that draws attention.
+  */
+  .templateButton{
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px;
+    /*@editable*/ background-color:#0e0e0e;
+    /*@editable*/ border:0;
+    border-collapse:separate !important;
+    border-radius:6px;
+    margin:auto;
+  }
+  
+  /**
+  * @tab Body
+  * @section button style
+  * @tip Set the styling for your email's button. Choose a style that draws attention.
+  */
+  .templateButton, .templateButton a:link, .templateButton a:visited, /* Yahoo! Mail Override */ .templateButton a .yshortcuts /* Yahoo! Mail Override */{
+    /*@editable*/ color:#FFFFFF;
+    /*@editable*/ font-family:Arial;
+    /*@editable*/ font-size:15px;
+    /*@editable*/ font-weight:bold; 
+    /*@editable*/ line-height:100%;
+    text-align:center;
+    text-decoration:none;
+  }
+  </style>
 </head>
   <body>
     
@@ -62,14 +63,12 @@ table, tr, td, img, p { border-radius: 6px; }
       <tr>
         <td align="center" style="background-color: #ddd; vertical-align: top;" valign="top">
           <p><em>This newsletter starts with a rehash of a post published on <a href="{{ site.url }}{{ post.url }}" target="_blank" rel="noopener">{{ site.title }}</a> website.</em></p>
-          <table style="width: 95%; margin: 0px; padding: 0px 4px 0px 4px; min-width: 320px; color: #45474A; line-height: 32px;" width="80%">
+          <table style="width: 100%; margin: 0px; padding: 0px 4px 0px 4px; min-width: 320px; color: #45474A; line-height: 32px;" width="100%">
 
             <tr>
               <td align="center" valign="top">
                     <!-- // Begin Template Body \\ -->
                   <table bgcolor="#f5f5f5" border="0" cellpadding="0" cellspacing="0" width="100%" id="templateBody">
-                      
-                    
                     <tr>
                           <td valign="top">
                               <table border="0" cellpadding="0" cellspacing="0" width="100%" style="padding:0px;margin:0px;border:0px;">
@@ -78,7 +77,7 @@ table, tr, td, img, p { border-radius: 6px; }
                                   <center>
                                   <p style="border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;background: #0e0e0e; margin: 0px 0; padding: 25px;"> 
                                     <a href="{{ site.url }}">
-                                      <img src="{{ site.url }}{{ site.logo }}" alt="{{ site.title | escape }}" style="width:350px; min-width:350px; max-width: 350px;border:0px; box-shadow: none !important;" width="350" />
+                                      <img src="{{ site.url }}{{ site.logo }}" alt="{{ site.title | escape }}" style="width:350px; min-width:150px; max-width: 350px;border:0px; box-shadow: none !important;" width="350" />
                                     </a>
                                   </p>
                                   </center>
@@ -109,11 +108,11 @@ table, tr, td, img, p { border-radius: 6px; }
                                     </tr>
                                     <tr>
                                       <td align="center" valign="top" style="padding-top:0;">
-                                          <table border="0" cellpadding="15" width="50%" cellspacing="0" class="templateButton">
+                                          <table border="0" cellpadding="15" width="50%" cellspacing="0" class="templateButton" style="-moz-border-radius:6px;-webkit-border-radius:6px; background-color:#0e0e0e; border:0; border-collapse:separate !important; border-radius:6px; margin:auto; text-align:center;">
                                               <tr>
                                                   <td valign="middle" class="templateButtonContent">
                                                       <div mc:edit="std_content01">
-                                                          <a href="{{ site.url }}{{ post.url | relative_url }}" style="color: white;" target="_blank">Continue reading</a>
+                                                          <a href="{{ site.url }}{{ post.url | relative_url }}" style="color: white; color:#FFFFFF; font-family:Arial; font-size:15px; font-weight:bold; line-height:100%; text-align:center;text-decoration:none;" target="_blank">Continue reading</a>
                                                         </div>
                                                     </td>
                                                 </tr>

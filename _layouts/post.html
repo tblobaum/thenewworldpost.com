@@ -46,11 +46,10 @@ layout: default
       {% for tag in tags %}
       <a href="{{site.baseurl}}/tag/{{tag|slugify}}/">{{tag}}</a>
       {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
+      {% endfor %} 
     </div>
 
     <br> 
-    <p><small>{% github_edit_link "Suggest a correction." %}</small></p>
     <script src="https://utteranc.es/client.js"
         repo="tblobaum/thenewworldpost.com"
         issue-term="pathname"
@@ -58,6 +57,8 @@ layout: default
         crossorigin="anonymous"
         async>
     </script>
+    
+    <small class="right">{% github_edit_link "Suggest a correction" %}</small>
   </div>
 
   {%- if site.disqus.shortname -%}
@@ -102,7 +103,6 @@ layout: default
 </div>
 <br><br>
 <div class="w75" style="margin: auto; clear:both;">
-
   <div class="w50 left">
     <ul class="post-thumb"> 
       {%- for post in site.posts offset:0 limit:4 -%}
@@ -122,10 +122,8 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
-    
   </div>
   <div class="w50 right" style="margin: auto;">
-
     <ul class="post-thumb"> 
       {%- for post in site.posts offset:4 limit:4 -%}
       <li>
@@ -144,8 +142,6 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
-    
-
   </div>
 </div>
 

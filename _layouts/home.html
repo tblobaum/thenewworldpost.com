@@ -21,10 +21,24 @@ layout: default
 </div>
 
 <div class="w100">
-  <div class="w25 right">
+  <div class="w50 right">
+
+    <h1 class="archives-header">World <span>News</span></h1>
+    <ul class="post-list posts archives box">
+        {% for post in site.posts offset:12 %}
+            {% if post.categories contains "World" or post.category == "World" %}
+                {% include postbox.html %}
+            {% endif %}    
+        {% endfor %}
+    </ul>
+
+
+  <div class="w50 left">
+    <h1 class="archives-header">Newsletter <span>Signup</span></h1>
+
     <form class="newsletter" action="https://tinyletter.com/tblobaum" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/tblobaum', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
       <p>
-        <img width="300" src="/assets/images/newsletter.png" alt="Newsletter" />
+        <!-- <img width="300" src="/assets/images/newsletter.png" alt="Newsletter" /> -->
         <label for="tlemail" style="color: #eee;">
          
         </label>
@@ -35,34 +49,11 @@ layout: default
       <input type="hidden" value="1" name="embed"/>
       <input type="submit" value="Subscribe" />
     </form>
-  </div>
-
-  <div class="w75 left">
-    <h1 class="archives-header">Political <span>News</span></h1>
-    <ul class="post-list posts archives box">
-        {% for post in site.posts offset:33 %}
-            {% if post.categories contains "Politics" or post.category == "Politics" %}
-                {% include postbox.html %}
-            {% endif %}    
-        {% endfor %}
-    </ul>
-  </div>
-
-  <div class="w75 left">
-    <h1 class="archives-header">World <span>News</span></h1>
-    <ul class="post-list posts archives box">
-        {% for post in site.posts offset:33 %}
-            {% if post.categories contains "World" or post.category == "World" %}
-                {% include postbox.html %}
-            {% endif %}    
-        {% endfor %}
-    </ul>
-  </div>
-
-  <div class="w75 left">
+    </div>
+    
     <h1 class="archives-header">Navel <span>News</span></h1>
     <ul class="post-list posts archives box">
-        {% for post in site.posts offset:33 %}
+        {% for post in site.posts offset:12 %}
             {% if post.categories contains "Navel" or post.category == "Navel" %}
                 {% include postbox.html %}
             {% endif %}    
@@ -70,6 +61,16 @@ layout: default
     </ul>
   </div>
 
+  <div class="w50 left">
+    <h1 class="archives-header">Political <span>News</span></h1>
+    <ul class="post-list posts archives box">
+        {% for post in site.posts offset:12 %}
+            {% if post.categories contains "Politics" or post.category == "Politics" %}
+                {% include postbox.html %}
+            {% endif %}    
+        {% endfor %}
+    </ul>
+  </div>
 
 </div> 
 
