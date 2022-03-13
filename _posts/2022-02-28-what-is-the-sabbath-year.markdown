@@ -7,7 +7,8 @@ categories: World
 tags: Judaism Jews 
 featured-image: sabbath-year.png
 featured-image-alt: Sabbath Year 
-dropcap: on 
+dropcap: yes
+featured: yes  
 ---
 Cycles of time are central to Jewish life. Just as Shabbat punctuates the week, so too the holidays punctuate the year.
 

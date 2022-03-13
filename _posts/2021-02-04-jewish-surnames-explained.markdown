@@ -2,12 +2,13 @@
 layout: post
 author: Thomas James Blobaum 
 title:  "Jewish Surnames Explained"
-date:   2022-02-04 04:20:00 -0600
+date:   2021-02-04 04:20:00 -0600
 categories: World
 tags: Judaism Jews 
 featured-image: hebrew-names.jpg
 featured-image-alt: Jewish names
-dropcap: off 
+dropcap: yes
+featured: yes  
 ---
 Ashkenazic Jews were among the last Europeans to take family names. Some German-speaking Jews took last names as early as the 17th century, but the overwhelming majority of Jews lived in Eastern Europe and did not take last names until compelled to do so. The process began in the Austro-Hungarian Empire in 1787 and ended in Czarist Russia in 1844.
 

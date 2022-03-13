@@ -5,8 +5,10 @@ title:  "Jeremy Grantham warns ‘super bubble’ will soon pop, tanking stocks 
 date:   2022-01-21 04:20:00 -0600 
 categories: Politics 
 tags: Grantham DOW Doomsday 
-featured-image: sabbath-year.png 
-featured-image-alt: Doge Coin 
+featured-image: bear.png 
+featured-image-alt: 
+dropcap: no
+featured: yes
 --- 
 Markets are in the midst of a “super bubble” that could burst any time — and when it does, stocks will tumble by 50 percent, warns one of Wall Street’s most famed investors, who accurately called other recent financial collapses.  
 
