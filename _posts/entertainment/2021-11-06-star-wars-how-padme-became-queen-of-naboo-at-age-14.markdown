@@ -1,9 +1,10 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "Star Wars: How Padmé Became Queen Of Naboo At Age 14"
-date:   2021-11-06 04:44:00 -0600
-categories: Nebraska Entertainment
+title: "Star Wars: How Padme Became Queen Of Naboo At Age 14"
+date: 2021-11-06 04:44:00 -0600
+categories: Navel 
+tags: Entertainment Nebraska Navel StarWars Padme Naboo 
 featured-image: naboo.jpg
 featured-image-alt: Naboo  
 dropcap: off
