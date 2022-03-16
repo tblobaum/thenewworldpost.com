@@ -1001,6 +1001,50 @@ footer .page-link {
   margin-bottom: 15px;
 }
 
+.page-navigation {
+  list-style-type: none;
+  margin-left: 0px;
+  float: left;
+}
+
+.page-navigation li {
+  background: #0e0e0e;
+  border-radius: 6px;
+  padding: 5px 10px;
+  display: block;
+  margin: 5px 0;
+  width: 100%; 
+}
+
+.page-navigation li a {
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: bolder; 
+  color: #fff; 
+}
+
+.page-navigation li.active a {
+  color: white;
+}
+
+@media screen and (max-width: 1050px) {
+  .page-navigation {
+    float: none;
+    max-width: 600px;
+    margin: auto;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+// 
 
 
 
