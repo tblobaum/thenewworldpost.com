@@ -7,7 +7,8 @@ categories: Politics
 tags: Navel Nebraska Gates Buffett Nuclear 
 featured-image: gates-nuclear.jpeg
 featured-image-alt: Bill Gates and a Nuclear Reactor
-featured: yes
+featured: no
+dropcap: no
 ---
 WYOMING– Power companies run by billionaire friends Bill Gates and Warren Buffett have chosen Wyoming to launch the first Natrium nuclear reactor project on the site of a retiring coal plant.
 

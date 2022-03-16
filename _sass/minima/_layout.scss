@@ -310,7 +310,8 @@ footer a:hover {
   max-width: 560px; 
 
   > li {
-    margin-bottom: $spacing-unit;
+    // margin-bottom: $spacing-unit;
+    margin-bottom: 0px;
     min-height: 150px;
   }
 }
@@ -500,7 +501,7 @@ a:hover {
 }
 
 .bomb-img {
-  max-height: 250px;
+  max-height: 180px;
   overflow: hidden;
   border-radius: 6px;
 }
@@ -988,6 +989,17 @@ footer .page-link {
   color: #fff;
 }
 
+.post-featured .bomb-img {
+  width: 270px;
+  border-radius: 6px; 
+  margin-right: 15px;
+}
+.post-featured .bomb-img {
+  width: 270px;
+  border-radius: 6px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
 
 
 
