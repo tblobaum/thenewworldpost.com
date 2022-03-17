@@ -4,12 +4,11 @@ author: Adam Baum
 title:  "The University of Nebraska Supports Fascists Who Are Sterilizing Billions Of People"
 date:   2022-03-05 00:07:57 -0600
 categories: World  
+tags: Nebraska Navel Naboo Nibiru Nebra Nazis Blackshirts Cornhuskers 
 featured-image:  conspiracy/n.jpeg
 featured-image-alt:  Nebraska Football
 ---
 Ever wonder why Nebraska is known by the majority of America as a "flyover state?" In this post you can read about the main reason why. 
-
->“For those that believe, no explanation is necessary. For those that do not, no explanation will suffice.”
 
 <!-- 
 ## Table of Contents
@@ -22,6 +21,12 @@ Ever wonder why Nebraska is known by the majority of America as a "flyover state
 #### G.) Conclusion
 #### H.) Japanese
 #### I.) Related Conspiracies   -->
+
+![](/assets/images/conspiracy/ne-center.png)  
+
+>“For those that believe, no explanation is necessary. For those that do not, no explanation will suffice.”
+
+![](/assets/images/conspiracy/football-censored.png)  
 
 Nebraska has a very serious social problem. At the flagship University of Nebraska in the state's capitol there is an entrenched two-faced Neo-Nazi Conspiracy with roots in the Civil Rights Era.
 
@@ -244,8 +249,6 @@ Is this a coincidence or is the football institution oozing Nazism? You can be t
 
 ### Point 11: Hollywood Is Following Along  
 
-
-
 #### Everyone knows Star Wars is connected to the Nazis 
 JJ Abrams said the characters of Star Wars are inspired by Nazis.  
 
@@ -253,10 +256,9 @@ JJ Abrams said the characters of Star Wars are inspired by Nazis.
 
 He said The First Order is as if the Nazis regrouped in Argentina and how that would go.  What JJ Abrams meant to say is that its the Nazis regrouped in Nebraska.  Nebraska is Planet Naboo in Star Wars. 
 
-## Planet Naboo 
-#### Nebraska 
+#### Planet Naboo  
 
-Planet Naboo is the home to the main characters.  
+Nebraska is Planet Naboo the home of the main characters.  
 
 ![](/assets/images/starwars/planet-naboo.png)  
 
@@ -264,11 +266,7 @@ Planet Naboo is the home to the main characters.
 
 ![](/assets/images/starwars/starwars.png)  
 
-![](/assets/images/conspiracy/ne-center.png)  
-
-![](/assets/images/conspiracy/football-censored.png)  
-
-## Planet Nibiru  
+#### Planet Nibiru  
 
 Nebraska is also the Doomsday Planet Nibiru in Star Trek, home to the "primitive white people," a movie that JJ Abrams also directed.  
 
@@ -502,13 +500,17 @@ July 25th, 1986
 
 ![](/assets/images/conspiracy/9-11-bali-bomb-american-pie.png)  
 
+<a href="https://thenewworldpost.com/politics/2022/02/22/9-11-sequence.html" data-iframely-url></a>
+
+### They Each Have A Batman With A .22  
+
 ![](/assets/images/conspiracy/batman.png)  
+
+<a href="https://en.wikipedia.org/wiki/Bat-Signal" data-iframely-url></a>
 
 <!-- ![](/assets/images/conspiracy/thomas.png)   -->
 
-![](/assets/images/conspiracy/sirius-red-mole.png)  
-
-![](/assets/images/conspiracy/black-power.png)  
+### Holy Moley  
 
 ![](/assets/images/conspiracy/cowboy-day.png)  
 
