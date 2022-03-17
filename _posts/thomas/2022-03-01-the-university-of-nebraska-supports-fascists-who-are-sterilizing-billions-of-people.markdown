@@ -242,6 +242,41 @@ Is this a coincidence or is the football institution oozing Nazism? You can be t
 ### Point 10: The Blackshirts In Nebraska Make Sense  
 ![](/assets/images/conspiracy/blackshirts-cities.png) 
 
+### Point 11: Hollywood Is Following Along  
+
+
+
+#### Everyone knows Star Wars is connected to the Nazis 
+JJ Abrams said the characters of Star Wars are inspired by Nazis.  
+
+<a href="https://time.com/4010014/j-j-abrams-star-wars-force-awakens-villain-nazi/" data-iframely-url></a>  
+
+He said The First Order is as if the Nazis regrouped in Argentina and how that would go.  What JJ Abrams meant to say is that its the Nazis regrouped in Nebraska.  Nebraska is Planet Naboo in Star Wars. 
+
+## Planet Naboo 
+#### Nebraska 
+
+Planet Naboo is the home to the main characters.  
+
+![](/assets/images/starwars/planet-naboo.png)  
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://en.wikipedia.org/wiki/Naboo" data-iframely-url="//iframely.net/YmJsPdR?card=small"></a></div></div>   
+
+![](/assets/images/starwars/starwars.png)  
+
+![](/assets/images/conspiracy/ne-center.png)  
+
+![](/assets/images/conspiracy/football-censored.png)  
+
+## Planet Nibiru  
+
+Nebraska is also the Doomsday Planet Nibiru in Star Trek, home to the "primitive white people," a movie that JJ Abrams also directed.  
+
+![](/assets/images/starwars/planet-nibiru.png)  
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.space.com/21165-star-trek-nibiru-doomsday-planet.html" data-iframely-url="//iframely.net/cV1NlxD?card=small"></a></div></div>  
+
+
 ## C.) Limited Personal Experience
 I have personal experience with regards to the topic that corroborates the evidence already laid out in this document. 
 
@@ -396,8 +431,6 @@ https://huskers.com/news/2018/1/26/211694410.aspx
 
 ![](/assets/images/conspiracy/nebraska-germany-nazis-unl-blackshirts-waffen-ss-resident-evil-lincoln-regional-corona-racoon-6-million-rotes-kreuz.png)
 
-<a href="https://en.wikipedia.org/wiki/Rosicrucianism" data-iframely-url></a>
-
 ### Lincoln the new Washington 
 
 ![](/assets/images/conspiracy/lincoln-washington.png) 
@@ -442,7 +475,7 @@ Legal status of crimes against humanity in international law:
 
 -->
 
-G.) Conclusion
+## G.) Conclusion
 The recap shows clear and convincing evidence linking the UNL Blackshirts to allies of Adolf Hitler, to Adolf Hitler, to Neo-Nazisn and to fascism. Cornhusker fans look like German Nationals with Nazi tendencies, and you don't need this website to have figured that out. In addition German Nationals look like Cornhusker fans. The German national on the left can easily be mistaken for a Cornhusker fan. One who has looked into the depth of the connections, as they are made here or in other documents, can find clear and convincing evidence of a seditious conspiracy and a conspiracy against rights. This is a very serious issue that should be investigated by more state, federal and international authorities. 
 
 
@@ -456,6 +489,9 @@ At least a number of Imperial Japanese have joined their German allies as the Bl
 
 
 ## H.) Suddenly, an individual appears   
+
+![](/assets/images/conspiracy/blobaum-bb.png)  
+
 ### NAME:   
 Thomas J Blobaum  
 *** Pronounced as in the words Blowjob and Bombshell. ***
@@ -470,7 +506,13 @@ July 25th, 1986
 
 <!-- ![](/assets/images/conspiracy/thomas.png)   -->
 
-![](/assets/images/conspiracy/blobaum-bb2.png)  
+![](/assets/images/conspiracy/sirius-red-mole.png)  
 
-![](/assets/images/conspiracy/cowboy-day.png){: .gray} 
+![](/assets/images/conspiracy/black-power.png)  
+
+![](/assets/images/conspiracy/cowboy-day.png)  
+
+## I.) Mashup 
+
+![](/assets/images/conspiracy/mashup.png)  
 
