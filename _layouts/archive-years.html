@@ -15,19 +15,7 @@ layout: default
 </div>
 
 <div class="w50 left">
-    <h1 class="archives-header">Newsletter <span>Signup</span></h1>
-
-    <form class="newsletter" action="https://tinyletter.com/tblobaum" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/tblobaum', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-      <p>
-        <!-- <img width="300" src="/assets/images/newsletter.png" alt="Newsletter" /> -->
-        <label for="tlemail" style="color: #eee;">
-         
-        </label>
-      </p>
-      <p>
-        <input type="text" name="email" id="tlemail" placeholder="adam@baum.com" />
-      </p>
-      <input type="hidden" value="1" name="embed"/>
-      <button class="btn btn-primary w50" type="submit" value="Subscribe">Subscribe</button>
-    </form>
+  <div class="w50 right">
+    {%- include newsletter-subscribe.html -%}
+  </div>
 </div>

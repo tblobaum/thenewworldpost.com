@@ -1,0 +1,77 @@
+
+{%- if site.posts.size > 0 -%}
+<!-- <h2 class="post-list-heading">{{ page.list_title | default: "Articles" }}</h2> -->
+ 
+{% assign min = 5 %}
+{% assign max = 30 %}
+{% assign diff = max | minus: min %}
+{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+
+<div class="w75" style="clear:both;margin:auto;height:150px;">
+  <ul class="post-list w100"> 
+  {%- for post in site.posts offset:randomNumber limit:1 -%}
+  <li class="bomb-featured-small bomb-article-foot w50 left">
+    <div class="bomb-img">
+      {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
+      {%- assign date_format = site.minima.date_format | default: "%-m/%-d/%Y" -%}
+    </div>
+    <div class="bomb-text">
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+    </div>
+  </li>
+  {%- endfor -%}
+  </ul>
+</div>
+<br><br>
+<div class="w75" style="margin: auto; clear:both;">
+  <div class="w50 left">
+    <ul class="post-thumb"> 
+      {%- for post in site.posts offset:0 limit:4 -%}
+      <li>
+        <div class="bomb-img">
+          {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
+          {%- assign date_format = site.minima.date_format | default: "%-m/%-d/%Y" -%}
+        </div>
+        <div class="bomb-text">
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>  
+        </div>
+      </li>
+      {%- endfor -%}
+    </ul>
+  </div>
+  <div class="w50 right" style="margin: auto;">
+    <ul class="post-thumb"> 
+      {%- for post in site.posts offset:4 limit:4 -%}
+      <li>
+        <div class="bomb-img">
+          {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        </div>
+        <div class="bomb-text">
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>  
+        </div>
+      </li>
+      {%- endfor -%}
+    </ul>
+  </div>
+</div>
+
+{%- endif -%}
