@@ -45,7 +45,9 @@ There is a fertility crisis brewing in the world. In a matter of only 10 to 20 y
 
 More specifically, the weapon of the Blackshirts is GMO Corn, and all GMO foods. These foods have trace amounts of the herbicide glyphosate on them. Some of the herbicide can be washed off, however, it is similar to a kool-aid stain on a carpet. Glyphosate is a cousin to Sarin Nerve Gas and VX nerve gas and even trace amounts of it damage the cells in the body which happens when they replicate. What ends up happening is the glyphosate targets the male reproductive organs more than anywhere else because that’s where the highest number of cellular divisions takes place. The Nebraska Blackshirts are exterminating the commoners of the West with chemical castration. Switching everyone to organic overnight isnt possible even if the President of the United States of America wants to sign an executive order. What will happen at some point is a big rush to organic food stores. And that's why Jeff Bezos bought Whole Foods for $14 billion in 2017. 
 
-If that wasn't enough the football team also has the same color scheme as Nazi Germany. And here's more: Nebraska is one of the most ethnically German states in America. 
+<a href="https://www.cnbc.com/2020/02/10/gmos-grantham-warns-only-the-rich-will-be-able-to-have-kids-due-to-chemical-toxicity.html" data-iframely-url></a>
+
+The football team has the same color scheme as Nazi Germany. And here's more: Nebraska is one of the most ethnically German states in America. 
 
 The school has a fake story they label as the "official history" that they share with the community that explains the "history" of the blackshirts. The "official history" is a load of bullsh*t. You can find the real story if you keep reading. 
 
@@ -237,6 +239,9 @@ Is this a coincidence or is the football institution oozing Nazism? You can be t
 
 88 means Heil Hitler (8=H) so 8 an be either Heil or Hitler. This phone number can then be decoded probably as “HEIL BIG RED.” 
 
+### Point 10: The Blackshirts In Nebraska Make Sense  
+![](/assets/images/conspiracy/blackshirts-cities.png) 
+
 ## C.) Limited Personal Experience
 I have personal experience with regards to the topic that corroborates the evidence already laid out in this document. 
 
@@ -290,53 +295,7 @@ But the truth is that if you want this conspiracy to be real in truth, then it i
 
 It is right to see the truth that this conspiracy is real or to remain indifferent. It is not right to attack people who believe this conspiracy. The equivocation that can be done, and how the conspiracy can seemingly turn on a dime, is all the more evidence of how menacing, dangerous and real this conspiracy is. 
 
-So, lets take a look at the evidence brought forth here in brief to bring it all together. The UNL Blackshirts/Cornhuskers have: 
-
-1. Same name as Hitler’s SS and allies: Blackshirts
-
-2. Similar flag to Hitler’s SS and allies: Menacing, centered white skull on black background
-
-3. Same color scheme as the Nazis: Red, White and Black with a touch of Gold
-
-4. Similar location as Germany: Center of the continent
-
-5. Similar demographics to Germany: Nebraska is mostly the German ethnic group
-
-6. Similar political climate: Nebraska is right-wing
-
-7. Similar symbolism: Swastika or big N on forehead
-
-8. Similarly formed during turbulent times: UNL Blackshirts were formed during the turbulent 1960s in response to the Civil Rights Act being signed.
-
-9. Additionally: White supremacist hand signs have been used by the mascot.
-
-10. Additionally: The skull and crossbones is often associated to conspiratorial behavior.
-
-11. Additionally: Conversations where individuals call in question the innocence of the UNL Blackshirts can be found around the internet. 
-
-12. Additionally: It is common knowledge that Cornhuskers fans are often racists. 
-
-13. Additionally: It is common knowledge that the Cornhuskers are associated to White Power.
-
->"The logic of words should yield to the logic of realities." -Louis D. Brandeis
-
-## F.) Relevant Laws
-Seditious conspiracy (18 U.S.C. § 2384) is a crime under United States law. It has been used against Neo-Nazis. Sports hooligans are known for causing civil unrest and taking part in territorialism and geo-politics in Europe. Therefore, considering that Nazis are from Europe, the UNL Blackshirts and sports fans could probably be said to be seditious, intent on causing territorial and geo-political unrest, and so this law could probably be used against the UNL Blackshirts. It is stated as follows:
-
->If two or more persons in any State or Territory, or in any place subject to the jurisdiction of the United States, conspire to overthrow, put down, or to destroy by force the Government of the United States, or to levy war against them, or to oppose by force the authority thereof, or by force to prevent, hinder, or delay the execution of any law of the United States, or by force to seize, take, or possess any property of the United States contrary to the authority thereof, they shall each be fined or imprisoned not more than 20 years, or both.[3]
-
-Conspiracy against rights is a federal offense in the United States of America under 18 U.S.C. § 241. It has also been used against Neo-Nazis. It is stated as follows:
-
->If two or more persons conspire to injure, oppress, threaten, or intimidate any person [...] in the free exercise or enjoyment of any right or privilege secured to him by the Constitution or laws of the United States, or because of his having so exercised the same;...
-
->They shall be fined under this title or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, they shall be fined under this title or imprisoned for any term of years or for life, or both, or may be sentenced to death.[4]
-
-Legal status of crimes against humanity in international law:
-
->Unlike genocide and war crimes, which have been widely recognized and prohibited in international criminal law since the establishment of the Nuremberg principles, there has never been a comprehensive convention on crimes against humanity, even though such crimes are continuously perpetrated worldwide in numerous conflicts and crises. There are eleven international texts defining crimes against humanity, but they all differ slightly as to their definition of that crime and its legal elements.[5]
-
-## G.) Conclusion
-The recap shows clear and convincing evidence linking the UNL Blackshirts to allies of Adolf Hitler, to Adolf Hitler, to Neo-Nazisn and to fascism. Cornhusker fans look like German Nationals with Nazi tendencies, and you don't need this website to have figured that out. In addition German Nationals look like Cornhusker fans. The German national on the left can easily be mistaken for a Cornhusker fan. One who has looked into the depth of the connections, as they are made here or in other documents, can find clear and convincing evidence of a seditious conspiracy and a conspiracy against rights. This is a very serious issue that should be investigated by nire Civil Rights activists and state, federal and international authority. 
+Lets take a look at a little more evidence to bring the world together for you, then we'll get to the recap. The UNL Blackshirts/Cornhuskers have: 
 
 ![](/assets/images/conspiracy/german-national.jpg)
 
@@ -391,16 +350,37 @@ Gee, I wonder why the local news reporters didn't think of that.
 
 https://huskers.com/news/2018/1/26/211694410.aspx
 
-## H.) Japanese
 
-### Imperial Japanese 
-At least a number of Imperial Japanese have joined their German allies as the Blackshirts in Nebraska. Hiro 88 is an upscale Japanese restaurant that only exists in Nebraska. It has locations in Omaha and Lincoln. Hiro as in Hirohito, the emperor of Japan during WW2.88 as in Heil Hitler or Hiro Hito, with H being the 8th letter of the alphabet. HH can also mean His Highness. 
+### Finally, the Recap
 
-![](/assets/images/conspiracy/hiro-88.jpeg)
+1. Same name as Hitler’s SS and allies: Blackshirts
 
-https://www.adl.org/education/references/hate-symbols/88
+2. Similar flag to Hitler’s SS and allies: Menacing, centered white skull on black background
 
-Locations: https://hiro88.com/hours-contact/
+3. Same color scheme as the Nazis: Red, White and Black with a touch of Gold
+
+4. Similar location as Germany: Center of the continent
+
+5. Similar demographics to Germany: Nebraska is mostly the German ethnic group
+
+6. Similar political climate: Nebraska is right-wing
+
+7. Similar symbolism: Swastika or big N on forehead
+
+8. Similarly formed during turbulent times: UNL Blackshirts were formed during the turbulent 1960s in response to the Civil Rights Act being signed.
+
+9. Additionally: White supremacist hand signs have been used by the mascot.
+
+10. Additionally: The skull and crossbones is often associated to conspiratorial behavior.
+
+11. Additionally: Conversations where individuals call in question the innocence of the UNL Blackshirts can be found around the internet. 
+
+12. Additionally: It is common knowledge that Cornhuskers fans are often racists. 
+
+13. Additionally: It is common knowledge that the Cornhuskers are associated to White Power.
+
+>"The logic of words should yield to the logic of realities." -Louis D. Brandeis
+
 
 ## I.) Related Conspiracies 
 
@@ -409,8 +389,6 @@ Locations: https://hiro88.com/hours-contact/
 ![](/assets/images/conspiracy/genocide.png)
 
 <a href="https://www.gmo.com/americas/research-library/chemical-toxicity-and-the-baby-bust/" data-iframely-url></a>
-
-<a href="https://www.cnbc.com/2020/02/10/gmos-grantham-warns-only-the-rich-will-be-able-to-have-kids-due-to-chemical-toxicity.html" data-iframely-url></a>
 
 <a href="https://en.wikipedia.org/wiki/Population_decline" data-iframely-url></a>
 
@@ -445,4 +423,54 @@ Locations: https://hiro88.com/hours-contact/
 <a href="https://canada.constructconnect.com/dcn/news/others/2020/05/world-trade-center-7-building-did-not-collapse-due-to-fire-report" data-iframely-url></a>
 
 <a href="http://www.banderasnews.com/0902/edat-mandarinoriental.htm" data-iframely-url></a>
+
+<!-- 
+## F.) Relevant Laws
+Seditious conspiracy (18 U.S.C. § 2384) is a crime under United States law. It has been used against Neo-Nazis. Sports hooligans are known for causing civil unrest and taking part in territorialism and geo-politics in Europe. Therefore, considering that Nazis are from Europe, the UNL Blackshirts and sports fans could probably be said to be seditious, intent on causing territorial and geo-political unrest, and so this law could probably be used against the UNL Blackshirts. It is stated as follows:
+
+>If two or more persons in any State or Territory, or in any place subject to the jurisdiction of the United States, conspire to overthrow, put down, or to destroy by force the Government of the United States, or to levy war against them, or to oppose by force the authority thereof, or by force to prevent, hinder, or delay the execution of any law of the United States, or by force to seize, take, or possess any property of the United States contrary to the authority thereof, they shall each be fined or imprisoned not more than 20 years, or both.[3]
+
+Conspiracy against rights is a federal offense in the United States of America under 18 U.S.C. § 241. It has also been used against Neo-Nazis. It is stated as follows:
+
+>If two or more persons conspire to injure, oppress, threaten, or intimidate any person [...] in the free exercise or enjoyment of any right or privilege secured to him by the Constitution or laws of the United States, or because of his having so exercised the same;...
+
+>They shall be fined under this title or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, they shall be fined under this title or imprisoned for any term of years or for life, or both, or may be sentenced to death.[4]
+
+Legal status of crimes against humanity in international law:
+
+>Unlike genocide and war crimes, which have been widely recognized and prohibited in international criminal law since the establishment of the Nuremberg principles, there has never been a comprehensive convention on crimes against humanity, even though such crimes are continuously perpetrated worldwide in numerous conflicts and crises. There are eleven international texts defining crimes against humanity, but they all differ slightly as to their definition of that crime and its legal elements.[5] 
+
+-->
+
+G.) Conclusion
+The recap shows clear and convincing evidence linking the UNL Blackshirts to allies of Adolf Hitler, to Adolf Hitler, to Neo-Nazisn and to fascism. Cornhusker fans look like German Nationals with Nazi tendencies, and you don't need this website to have figured that out. In addition German Nationals look like Cornhusker fans. The German national on the left can easily be mistaken for a Cornhusker fan. One who has looked into the depth of the connections, as they are made here or in other documents, can find clear and convincing evidence of a seditious conspiracy and a conspiracy against rights. This is a very serious issue that should be investigated by more state, federal and international authorities. 
+
+
+
+## H.) Oh shit, it's the Imperial Japanese
+
+### Imperial Japanese 
+At least a number of Imperial Japanese have joined their German allies as the Blackshirts in Nebraska. Hiro 88 is an upscale Japanese restaurant that only exists in Nebraska. It has locations in Omaha and Lincoln. Hiro as in Hirohito, the emperor of Japan during WW2.88 as in Heil Hitler or Hiro Hito, with H being the 8th letter of the alphabet. HH can also mean His Highness. 
+
+![](/assets/images/conspiracy/hiro-88.jpeg)
+
+
+## H.) Suddenly, an individual appears   
+### NAME:   
+Thomas J Blobaum  
+*** Pronounced as in the words Blowjob and Bombshell. ***
+### Birthday:   
+July 25th, 1986    
+7/25 is 14 days to 8/8   
+7/25/1986 is 14 years 14 months 14 days to 9/11/2001  
+
+![](/assets/images/conspiracy/9-11-bali-bomb-american-pie.png)  
+
+![](/assets/images/conspiracy/batman.png)  
+
+<!-- ![](/assets/images/conspiracy/thomas.png)   -->
+
+![](/assets/images/conspiracy/blobaum-bb2.png)  
+
+![](/assets/images/conspiracy/cowboy-day.png){: .gray} 
 

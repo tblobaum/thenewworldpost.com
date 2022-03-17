@@ -354,5 +354,11 @@ table {
 
   img.color, .color img {
     filter: grayscale(0);
+  }
 
+  img.grey, 
+  img.gray, 
+  .grey img, 
+  .gray img {
+    filter: grayscale(100);
   }
