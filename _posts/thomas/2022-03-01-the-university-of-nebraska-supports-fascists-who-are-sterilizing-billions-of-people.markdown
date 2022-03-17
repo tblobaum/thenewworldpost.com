@@ -10,6 +10,7 @@ featured-image-alt:  Nebraska Football
 Ever wonder why Nebraska is known by the majority of America as a "flyover state?" In this post you can read about the main reason why. 
 
 >“For those that believe, no explanation is necessary. For those that do not, no explanation will suffice.”
+
 <!-- 
 ## Table of Contents
 #### A.) Flags
@@ -109,11 +110,11 @@ The Waffen SS, Nebraska Blackshirts, and Italian Blackshirts flags are very simi
 The University of Nebraska flag shares a few qualities with the flag of Nazi Germany. They both:
 
 <div class="w100">
-    <div class="w50">
-        ![](/assets/images/conspiracy/nazi-flag.png)
+    <div class="w50 left"> 
+        <img src="/assets/images/conspiracy/nazi-flag.png" /> 
     </div>
-    <div class="w50">
-        ![](/assets/images/conspiracy/ne-flag.jpg)
+    <div class="w50 right">
+        <img src="/assets/images/conspiracy/ne-flag.jpg" /> 
     </div>
 </div>
 
@@ -175,30 +176,30 @@ Another flag features the word “national” as in “National Socialism.”
 ## B.) Corroborating Evidence
 There is corroborating evidence that connects Nebraska to Right-Wing extremism, fascism, and Nazi Germany. 
 
-Point 1: Nebraska & Nazi Germany are both Right-Wing states
+### Point 1: Nebraska & Nazi Germany are both Right-Wing states
 Nebraska, like Nazi Germany, is one of the most right-wing states on its continent/in its region. 
 
-Point 2: Nebraska & Nazi Germany are both ethnic German states
+### Point 2: Nebraska & Nazi Germany are both ethnic German states
 German was almost 100% German after Hitler had his way with the place. Nebraska is the most German-American state in the United States. It is the only state with the German-American ethnic group as the largest ethnic group in every county. It follows that since the Germans were the Nazis, then the most German-American state would have the highest (or a high) percentage of Neo-Nazis. It just so happens that not only does the most German-American state have a high percentage of Neo-Nazis, but it even has a state-funded Neo-Nazi college sports team. 
 
 <a href="https://en.wikipedia.org/wiki/German_Nebraskan" data-iframely-url></a>
 
 ![](/assets/images/conspiracy/ne-center.png)
 
-Point 3: Nebraska & Nazi Germany are both Geo-Central states
+### Point 3: Nebraska & Nazi Germany are both Geo-Central states
 Germany and Nebraska are both in the exact center of their respective continents. This is evidence that shows how Nebraska is similar to Germany. 
 
 ![](/assets/images/conspiracy/ne-blackshirts.jpg)
 
-Point 4: Nebraska & Nazi Germany have the same color scheme
+### Point 4: Nebraska & Nazi Germany have the same color scheme
 The Blackshirts have the same red, white and black color scheme as the Nazis. It cannot go unsaid that this is because of the Blackshirts. Without the Blackshirts the red and white color scheme of UNL is innocent. The Blackshirts add black to the red and white (while simultaneously bringing in the skull and the Blackshirts name). The color scheme of Nebraska football is red, white, and black with a touch of gold. This is the same color scheme as Nazi Germany. 
 
-Point 5: Nebraska Blackshirts & the Nazi Party were both founded during politically turbulent times
+### Point 5: Nebraska Blackshirts & the Nazi Party were both founded during politically turbulent times
 The Nazis were founded in the turbulent 20s and 30s. Hitler seized control of the country and was deeply anti-Semitic. The Blackshirts of Nebraska were also founded during politically turbulent times. The Blackshirts were founded in Nebraska 1964 or 1963 depending on who you ask, and many fans know this, but what most don’t know is the rest of the story. The blackshirts were formed when America was on the verge of a Civil War. This was within a year of the Civil Rights Act being signed. The same era where President Kennedy was assassinated in Texas. These events coinciding with one another is not a coincidence. Rather than being done by the left as the Civil Rights Act was, the establishment of the Nebraska Blackshirts was done by the far right-wing. The “official” story as to why the Cornhuskers defense is called the Blackshirts is a lie. The truth is that the far-right promoted neo-nazism and fascism in Nebraska because of the qualities of the population and geography, and they put the Blackshirts here in response to what the left was doing in the country. 
 
 ![](/assets/images/conspiracy/ne-blackshirts-definition.png)
 
-Point 6: A Single Google Search Yields Results for Both
+### Point 6: A Single Google Search Yields Results for Both
 Simply google the word Blackshirts and take a look around. You’ll see fascists in Italy with a black flag with a white skull on it, and fascists in England (many doing the sieg heil) who share the page with images and information about the Cornhuskers defense. 
 
 According to google’s dictionary, a Blackshirt is a member of the Italian Blackshirts or the Waffen SS. 
@@ -223,7 +224,7 @@ The "swastika carved on the center of the forehead" from WW2 can be seen on Univ
 
 ![](/assets/images/conspiracy/nazi-forehead.jpg)
 
-Point 9: Heil Big Red
+### Point 9: Heil Big Red
 There exists an ever-present aura of Neo-Nazism with regards to Football at UNL. Here is a quote from their website: 
 
 "The spring game has been set for Saturday, April 18 at Memorial Stadium."
@@ -273,7 +274,7 @@ How the Blackshirts flags (all three of them) look like the basic pirate flag is
 ![](/assets/images/conspiracy/pirate-flag.jpeg)
 
 ## E.) Recap
-Before I conclude this document I want to quickly recap the points being made. There is a large number of connections that we can make between the University of Nebraska Blackshirts and Nazi Germany. Several of them, even the strong ones, appear to be coincidences or happenstance to the untrained investigator. Others, like the use of the skull combined with the use of the term Blackshirts, are clearly not coincidences, and they shed light on the apparently more coincidental evidence. 
+Before I conclude this document I want to quickly recap the points being made. There is a large number of connections that we can make between the University of Nebraska Blackshirts and Nazi Germany. Several of them, even the strong ones, appear to be coincidences or happenstance to the untrained reader. Others, like the use of the skull combined with the use of the term Blackshirts, are clearly not coincidences, and they shed light on the more coincidental evidence. 
 
 A greater understanding is reached when we acknowledge that the desires of many millions of Germans are satisfied by this conspiracy being real. 
 
@@ -281,41 +282,41 @@ If you want it to be true it is true.
 
 If you want it to be just a conspiracy theory then its just a conspiracy theory. 
 
-If you want to call me crazy for bringing it up then you can get away with that, too. 
+If you want to call me crazy for bringing it up then you can get away with that, too, at least at the time of this writing.  
 
 And if you just want to say I'm wrong you can get away with that, too. 
 
-But the truth is that if you want this conspiracy to be real and to be true, and you want it to be a real fascist nazi germany conspiracy, then it is a real fascist nazi germany conspiracy. And for that reason, all of the people who speak on the matter and claim that it is only a theory, which is the common and popular thing to do, or people who say that this document only describes a theory and the theory is wrong, or people who simply say that I'm wrong or crazy for talking about it, only those people who say these things are the people who are truly wrong. 
+But the truth is that if you want this conspiracy to be real in truth, then it is a real fascist nazi germany conspiracy. And for that reason, all of the people who have spoken on this claiming that it is only a theory, which is probably the common and popular thing to do, and the theory is right or wrong, or people who simply say that I'm wrong or crazy for talking about it, only these people who say these things are the people who are truly wrong. 
 
-The truth is that this conspiracy is real. The equivocation that can be done, and how the conspiracy can seemingly turn on a dime, is all the more evidence of how dangerous and real this conspiracy is. 
+It is right to see the truth that this conspiracy is real or to remain indifferent. It is not right to attack people who believe this conspiracy. The equivocation that can be done, and how the conspiracy can seemingly turn on a dime, is all the more evidence of how menacing, dangerous and real this conspiracy is. 
 
 So, lets take a look at the evidence brought forth here in brief to bring it all together. The UNL Blackshirts/Cornhuskers have: 
 
-Same name as Hitler’s SS and allies: Blackshirts
+1. Same name as Hitler’s SS and allies: Blackshirts
 
-Similar flag to Hitler’s SS and allies: Menacing, centered white skull on black background
+2. Similar flag to Hitler’s SS and allies: Menacing, centered white skull on black background
 
-Same color scheme as the Nazis: Red, White and Black with a touch of Gold
+3. Same color scheme as the Nazis: Red, White and Black with a touch of Gold
 
-Similar location as Germany: Center of the continent
+4. Similar location as Germany: Center of the continent
 
-Similar demographics to Germany: Nebraska is mostly the German ethnic group
+5. Similar demographics to Germany: Nebraska is mostly the German ethnic group
 
-Similar political climate: Nebraska is right-wing
+6. Similar political climate: Nebraska is right-wing
 
-Similar symbolism: Swastika or big N on forehead
+7. Similar symbolism: Swastika or big N on forehead
 
-Similarly formed during turbulent times: UNL Blackshirts were formed during the turbulent 1960s in response to the Civil Rights Act being signed.
+8. Similarly formed during turbulent times: UNL Blackshirts were formed during the turbulent 1960s in response to the Civil Rights Act being signed.
 
-Additionally: White supremacist hand signs have been used by the mascot.
+9. Additionally: White supremacist hand signs have been used by the mascot.
 
-Additionally: The skull and crossbones is often associated to conspiratorial behavior.
+10. Additionally: The skull and crossbones is often associated to conspiratorial behavior.
 
-Additionally: Conversations where individuals call in question the innocence of the UNL Blackshirts can be found around the internet. 
+11. Additionally: Conversations where individuals call in question the innocence of the UNL Blackshirts can be found around the internet. 
 
-Additionally: It is common knowledge that Cornhuskers fans are often racists. 
+12. Additionally: It is common knowledge that Cornhuskers fans are often racists. 
 
-Additionally: It is common knowledge that the Cornhuskers are associated to White Power.
+13. Additionally: It is common knowledge that the Cornhuskers are associated to White Power.
 
 >"The logic of words should yield to the logic of realities." -Louis D. Brandeis
 
