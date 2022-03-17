@@ -4,13 +4,13 @@ author: Adam Baum
 title:  "The University of Nebraska Supports Fascists Who Are Sterilizing Billions Of People"
 date:   2022-03-05 00:07:57 -0600
 categories: World  
-featured-image:  conspiracy/ne-center.png
+featured-image:  conspiracy/n.jpeg
 featured-image-alt:  Nebraska Football
 ---
-Ever wonder why Nebraska is known by the majority of America as a "flyover state?" On this webpage you can read about what is probably one of the main reasons why. 
+Ever wonder why Nebraska is known by the majority of America as a "flyover state?" In this post you can read about the main reason why. 
 
 >“For those that believe, no explanation is necessary. For those that do not, no explanation will suffice.”
-
+<!-- 
 ## Table of Contents
 #### A.) Flags
 #### B.) Corroborating Evidence
@@ -20,7 +20,7 @@ Ever wonder why Nebraska is known by the majority of America as a "flyover state
 #### F.) Relevant Laws
 #### G.) Conclusion
 #### H.) Japanese
-#### I.) Related Conspiracies  
+#### I.) Related Conspiracies   -->
 
 Nebraska has a very serious social problem. At the flagship University of Nebraska in the state's capitol there is an entrenched two-faced Neo-Nazi Conspiracy with roots in the Civil Rights Era.
 
@@ -32,7 +32,19 @@ The truth is that the blackshirts at the university are a fascist group. The sho
 
 If the shared name and the year isnt enough just look at the flag and compare it to the flags of the fascist blackshirts of history. The school's flag is black and uses a skull and cross bones just like the fascists of history. The flag has the same basic qualities as the fascist groups. I go into the details below. 
 
-If that wasn't enough (which it is for anyone who has both a heart for Jewish people and a mind for strategy) the football team also has the same color scheme as Nazi Germany. And here's more: Nebraska is one of the most ethnically German states in America. 
+Let me be clear: the Blackshirts at the Univeristy of Nebraska are the Blackshirts of history and their weapon is corn which is also their final solution for the class and race problem. 
+
+![](/assets/images/conspiracy/defcon3.png)
+
+If the school isn't going to throw out the Blackshirts then they should at least consider making an update to their uniforms to let people know to stay away from the "corn."
+
+![](/assets/images/conspiracy/no-gmo-blackshirts.png)
+
+There is a fertility crisis brewing in the world. In a matter of only 10 to 20 years the majority of young healthy american couples will need fertility treatment to have a child. Jeremy Grantham believes only the rich will be able to procreate because they'll be the only ones who can afford the expensive fertility treatment. This fertility crisis will change everything and truly the future belongs to those souls who eat organic. The University of Nebraska is connected to this crisis. The Blackshirts at UNL are the Blackshirts of history and their weapon is corn. 
+
+More specifically, the weapon of the Blackshirts is GMO Corn, and all GMO foods. These foods have trace amounts of the herbicide glyphosate on them. Some of the herbicide can be washed off, however, it is similar to a kool-aid stain on a carpet. Glyphosate is a cousin to Sarin Nerve Gas and VX nerve gas and even trace amounts of it damage the cells in the body which happens when they replicate. What ends up happening is the glyphosate targets the male reproductive organs more than anywhere else because that’s where the highest number of cellular divisions takes place. The Nebraska Blackshirts are exterminating the commoners of the West with chemical castration. Switching everyone to organic overnight isnt possible even if the President of the United States of America wants to sign an executive order. What will happen at some point is a big rush to organic food stores. And that's why Jeff Bezos bought Whole Foods for $14 billion in 2017. 
+
+If that wasn't enough the football team also has the same color scheme as Nazi Germany. And here's more: Nebraska is one of the most ethnically German states in America. 
 
 The school has a fake story they label as the "official history" that they share with the community that explains the "history" of the blackshirts. The "official history" is a load of bullsh*t. You can find the real story if you keep reading. 
 
@@ -54,7 +66,11 @@ For the purposes of this document a conspiracy is stated as follows:
 
 >A conspiracy, also known as a plot, is a secret plan or agreement between persons (called conspirers or conspirators) for an unlawful or harmful purpose, such as murder or treason, especially with political motivation, while keeping their agreement secret from the public or from other people affected by it. In a political sense, conspiracy refers to a group of people united in the goal of usurping, altering or overthrowing an established political power. Depending on the circumstances, a conspiracy may also be a crime, or a civil wrong. The term generally implies wrongdoing or illegality on the part of the conspirators, as people would not need to conspire to engage in activities that were lawful and ethical, or to which no one would object. [2]
 
-It is worth mentioning that it is unclear what reasoning ability, knowledge or background is required to fully understand the points being made in this document. However evidence points that both the dumb and the smart have the best chance at fully grasping the information shared here, while average people are more often times left confused. In some cases a highly educated person is left confused while one without a high school diploma understands everything accurately. One can argue that, given the content, the confused are often white supremacists, who are not telling the truth, but that is not the case with everyone. 
+It is worth mentioning that it is unclear what reasoning ability, knowledge or background is required to fully understand the points being made in this document. One can argue that, given the content, the "confused" are often white supremacists, who are not telling the truth, but that is not the case with everyone. In any case there is a level of education requiredto understand it at all. 
+
+The top article on Google when you search for "Nebraska Blackshirts" or "Blackshirts" is the following one which calls out the Blackshirts as likely to be the Blackshirts of history: 
+
+<a href="https://thenewworldpost.com/nebraska/2022/01/01/its-probably-time-for-nebraska-to-retire-the-blackshirts-nickname.html" data-iframely-url></a>
 
 ## A.) Flags
 More than a few flags link the UNL Blackshirts to fascism.
@@ -92,9 +108,14 @@ The Waffen SS, Nebraska Blackshirts, and Italian Blackshirts flags are very simi
 ### The Flag of the Nazi Party & the Flag of UNL
 The University of Nebraska flag shares a few qualities with the flag of Nazi Germany. They both:
 
-![](/assets/images/conspiracy/nazi-flag.png)
-
-![](/assets/images/conspiracy/ne-flag.jpg)
+<div class="w100">
+    <div class="w50">
+        ![](/assets/images/conspiracy/nazi-flag.png)
+    </div>
+    <div class="w50">
+        ![](/assets/images/conspiracy/ne-flag.jpg)
+    </div>
+</div>
 
 1. Have a red background
 2. Have white in the center
@@ -147,6 +168,8 @@ There are other flags and merchandise by the Cornhuskers that have a political, 
 ###  Anarchist / Alt-Right Flag
 This flag uses the Anarchist design. A poster in a thread on reddit responds to those behind the flag saying, “don't think we don't know what your up to, vast underground conspiracy known as the Alt-Right.” [6] The poster also mocks UNL, stating that the use of the skull and cross bones in the same instance as the use of the term Blackshirts implies that the use of the word blackshirts is not coincidental. This is the same conclusion that any non-biased group individual will reach after reading this web page. 
 
+<a href="https://en.wikipedia.org/wiki/Anarchist_symbolism" data-iframely-url></a>
+
 Another flag features the word “national” as in “National Socialism.”
 
 ## B.) Corroborating Evidence
@@ -157,6 +180,8 @@ Nebraska, like Nazi Germany, is one of the most right-wing states on its contine
 
 Point 2: Nebraska & Nazi Germany are both ethnic German states
 German was almost 100% German after Hitler had his way with the place. Nebraska is the most German-American state in the United States. It is the only state with the German-American ethnic group as the largest ethnic group in every county. It follows that since the Germans were the Nazis, then the most German-American state would have the highest (or a high) percentage of Neo-Nazis. It just so happens that not only does the most German-American state have a high percentage of Neo-Nazis, but it even has a state-funded Neo-Nazi college sports team. 
+
+<a href="https://en.wikipedia.org/wiki/German_Nebraskan" data-iframely-url></a>
 
 ![](/assets/images/conspiracy/ne-center.png)
 
@@ -189,6 +214,8 @@ A hand sign adopted by members of 4chan, which then spread all around the world,
 ![](/assets/images/conspiracy/ne-wp.jpg)
 ![](/assets/images/conspiracy/ne-herbie.jpg)
 
+<a href="https://thenewworldpost.com/usa/2022/01/29/university-of-nebraska-updates-herbie-husker-mascot-to-change-hand-gesture-associated-with-white-supremacy.html" data-iframely-url></a>
+
 ### Point 8: The Swastika Carved in the Forehead
 The "swastika carved on the center of the forehead" from WW2 can be seen on University of Nebraska Blackshirts imagery.
 
@@ -212,7 +239,7 @@ Is this a coincidence or is the football institution oozing Nazism? You can be t
 ## C.) Limited Personal Experience
 I have personal experience with regards to the topic that corroborates the evidence already laid out in this document. 
 
-### Point 1: Childhood
+<!-- ### Point 1: Childhood
 "Liking the Cornhuskers means you like Hitler," was something I learned at an early age from my neighbors. 
 
 ### Point 2: High School
@@ -228,7 +255,7 @@ I have a former colleague who moved to the area (Council Bluffs, because accordi
 A friend of a former Neo-Nazi has told me that he knows of and individual with tattoos on his arms including a swastika, a Waffen SS symbol, the Cornhuskers and the Blackshirts all mixed together. 
 
 ### Point 6: Real Life Interviews
-I have conducted dozens of real life interviews on the topic. The respondents understood better than internet respondents but were more likely to shut down the conversation due to awkwardness rather than to express feelings of approval or disapproval. 
+I have conducted dozens of real life interviews on the topic. The respondents understood better than internet respondents but were more likely to shut down the conversation due to awkwardness rather than to express feelings of approval or disapproval.  -->
 
 ## D.) Psychological War
 Various techniques are used by this conspiracy, and are aimed at influencing the target audience's value system, belief system, emotions, motives, reasoning, and behavior. The methods used by the UNL Blackshirts are concealing in nature to who they are, while reinforcing attitudes and behaviors favorable to their objectives. Their methods destroy the morale of enemies through tactics that depress psychological states, while such tactics are uplifting to the co-conspirators hiding in plain sight.
@@ -380,10 +407,41 @@ Locations: https://hiro88.com/hours-contact/
 
 ![](/assets/images/conspiracy/genocide.png)
 
+<a href="https://www.gmo.com/americas/research-library/chemical-toxicity-and-the-baby-bust/" data-iframely-url></a>
+
+<a href="https://www.cnbc.com/2020/02/10/gmos-grantham-warns-only-the-rich-will-be-able-to-have-kids-due-to-chemical-toxicity.html" data-iframely-url></a>
+
+<a href="https://en.wikipedia.org/wiki/Population_decline" data-iframely-url></a>
+
 ### Corona Virus 
 
 ![](/assets/images/conspiracy/nebraska-germany-nazis-unl-blackshirts-waffen-ss-resident-evil-lincoln-regional-corona-racoon-6-million-rotes-kreuz.png)
 
+<a href="https://en.wikipedia.org/wiki/Rosicrucianism" data-iframely-url></a>
+
 ### Lincoln the new Washington 
 
-![](/assets/images/conspiracy/lincoln-washington.png)
+![](/assets/images/conspiracy/lincoln-washington.png) 
+
+<a href="https://www.cbsnews.com/news/americans-rather-meet-lincoln-than-washington-opinion-poll/" data-iframely-url></a>
+
+### Peru and Austria 
+
+![](/assets/images/conspiracy/peru-austria-nebraska.png)
+
+<a href="https://www.sciencenews.org/article/elongated-heads-were-mark-elite-status-ancient-peruvian-society" data-iframely-url></a>
+
+### Corona was intentionally released from the Nebraska Blackshirts location in China 
+
+![](/assets/images/conspiracy/israel-china-usa-virus-blackshirts-jew.png)
+
+<a href="https://www.dailymail.co.uk/news/article-10313053/Covid-19-UK-Wuhan-lab-leak-likely-origin-Covid-MPs-told.html" data-iframely-url></a>
+
+### Twin Towers 
+
+![](/assets/images/conspiracy/911-center-2.png)
+
+<a href="https://canada.constructconnect.com/dcn/news/others/2020/05/world-trade-center-7-building-did-not-collapse-due-to-fire-report" data-iframely-url></a>
+
+<a href="http://www.banderasnews.com/0902/edat-mandarinoriental.htm" data-iframely-url></a>
+
