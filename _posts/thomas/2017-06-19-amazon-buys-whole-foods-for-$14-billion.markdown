@@ -7,7 +7,7 @@ categories: Politics
 tags: Business Health Organic GMO 14 Amazon Bezos
 featured-image: whole-foods.png
 featured-image-alt: Whole Foods 
-featured: yes 
+featured: no 
 dropcap: yes 
 ---
 A power move for Amazon into the groceries and brick-and-mortar retail industries: It just announced it’s buying high-end grocery chain Whole Foods Market for almost $14 billion in an all-cash deal — Amazon’s biggest acquisition by far.

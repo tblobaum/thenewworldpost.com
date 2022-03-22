@@ -1,12 +1,13 @@
 ---
 layout: post
-author: Thomas James Blobaum 
-title:  "31 People Die After BUBONIC PLAGUE Outbreak In The Congo"
-date:   2021-02-19 04:44:00 -0600
+author: Russian State Media 
+title: "31 People Die After BUBONIC PLAGUE Outbreak In The Congo"
+date: 2021-02-19 04:44:00 -0600
 categories: World Health
-featured-image: plague.jpg
+featured-image: congo-mass-graves.jpg
 featured-image-alt: Bubonic Plague 
 featured: yes 
+dropcap: no 
 ---
 CONGO– A bubonic plague outbreak in the Democratic Republic of Congo has seen several dozen people succumb to the long-feared disease, which caused Europe’s Black Death pandemic in the 14th century.
 

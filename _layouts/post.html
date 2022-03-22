@@ -56,7 +56,6 @@ layout: default
         {%- include newsletter-subscribe.html -%}
       </div>
     </div>
-
     <br> 
     <br> 
     <br> 
@@ -67,7 +66,7 @@ layout: default
     <br> 
     <br> 
     <br> 
-    <h1 class="archives-header">Leave A <span>Comment</span></h1>
+    <h1 class="archives-header">Comments <span>Via GitHub</span></h1>
     <script src="https://utteranc.es/client.js"
         repo="tblobaum/thenewworldpost.com"
         issue-term="pathname"
@@ -96,7 +95,7 @@ layout: default
 {% endif %}
 {% for tag in tags %}
 {% if forloop.first %}
-<div class="w75 right">
+<div class="w75 right post-container-box">
   <h1 class="archives-header">{{tag}} <span>Posts</span></h1>
   <ul class="left post-list posts archives box">
       {% for post in site.posts %}
@@ -108,7 +107,7 @@ layout: default
 </div>
 {% endif %}
 {% if forloop.last %}
-<div class="w75 right">
+<div class="w75 right post-container-box">
   <h1 class="archives-header">{{tag}} <span>Posts</span></h1>
   <ul class="left post-list posts archives box">
       {% for post in site.posts %}

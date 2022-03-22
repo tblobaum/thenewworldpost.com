@@ -312,6 +312,12 @@ table {
   }
 }
 
+.thinner { font-weight: 200; }
+.thin { font-weight: 400; }
+.medium { font-weight: 500; }
+.bold { font-weight: 600; }
+.bolder { font-weight: 900; }
+.reset { margin: 0; padding: 0; list-style-type: none; text-decoration: none; text-align: left; }
 .clear { clear:both; }
 .w25 { width: 25%; max-width: 25%; min-width: 25%; }
 .w50 { width: 50%; max-width: 50%; min-width: 50%; }
@@ -362,3 +368,7 @@ table {
   .gray img {
     filter: grayscale(100);
   }
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
+  margin-bottom: 10px;
+}

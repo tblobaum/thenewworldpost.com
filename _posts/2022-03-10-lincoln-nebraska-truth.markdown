@@ -1,11 +1,11 @@
 ---
 layout: post
-author: Thomas James Blobaum 
-title:  "911 system of emergency communications began in Lincoln, Nebraska, plus other cool facts"
-date:   2022-03-10 04:20:00 -0600
+author: Adam Baum 
+title: "911 system of emergency communications began in Lincoln plus other cool facts"
+date: 2022-03-10 04:20:00 -0600
 categories: Navel 
 tags: Nebraska 911 Signs Navel Nebula 
-featured-image: conspiracy/n.jpeg 
+featured-image: usa-fans.jpg 
 featured-image-alt: Nebraska 
 dropcap: on 
 ---

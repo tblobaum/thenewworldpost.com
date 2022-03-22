@@ -1,0 +1,86 @@
+
+<script>
+    jQuery(document).ready(function () {
+        jQuery('.leo').on('click', function (ev) {
+            ev.preventDefault()
+            // jQuery('.zodiac-list').toggle()
+            // jQuery('.zodiac-results').toggle()
+        })
+        jQuery('.close').on('click', function (ev) {
+            ev.preventDefault() 
+            // jQuery('.zodiac-results').toggle()
+            // jQuery('.zodiac-list').toggle()
+        })
+
+
+        jQuery('.leo').on('click', function (ev) {
+            ev.preventDefault()
+        })
+    })
+
+
+jQuery(document).ready(function ($) {
+	$(".zodiac-list a").on('click', function (ev) {
+		ev.preventDefault();
+		var sign = $(this).attr('data-sign'); 
+        console.log('Sign: ', sign)
+		$.ajax({
+			type:'POST',
+			url:'https://aztro.sameerkumar.website?sign='+sign+'&day=today',
+			success: function (data) {
+                console.log('Horoscope:', data)
+				$('#astrology-results .sign').html(sign);
+				$('#astrology-results .date_range').html("<h2>Dates:</h2><p>" + data.date_range + "</p>"); 
+				$('#astrology-results .description').html("<p>" + data.description + "</p>"); 
+				$('#astrology-results .mood').html("<h2>Mood:</h2><p>" + data.mood + "</p>"); 
+				$('#astrology-results .compatibility').html("<h2>Compatibility:</h2><p>" + data.compatibility + "</p>"); 
+			}
+		});
+	});
+});
+
+</script>
+
+
+<h1 class="archives-header alt-arch-header">Astrology <span>Signs</span></h1>
+<ul class="zodiac-results reset w50 right">
+    <!-- <li class="right"><small>[<a class="close bolder" href="#">X</a>]</small></li> -->
+    <li></li>
+    <li>
+		<div id="astrology-results"> 
+			<div class=""> 
+				<h2 class="sign">Choose Your Horoscope</h2> 
+				<div class="description">
+                    <p>The Zodiac holds ultimate and universal wisdom of the seasons, the light and the dark.</p>
+					<p>Like all of us fascinated by the possibility of knowing our fate, Kings and Queens have used astrologers over the centuries. The court astrologer would be consulted on all kinds of questions – from the best time to be crowned, to when to go into battles to which direction to escape imprisonment and whom to trust and even marry.</p> 
+					<p>Before the Enlightenment there was such belief in the power of astrology that it was actually a criminal act to cast the birth chart of a Royal as it was considered inside information on their personality and therefore top secret. Some even gave false birthdays to confuse their enemies.</p>
+				</div>
+				<ul class="astro-result-list reset">
+					<li class="date_range"></li> 
+					<li class="mood"></li> 
+					<li class="compatibility"></li> 
+				</ul>
+			</div>
+		</div>
+
+    </li>
+</ul>
+<ul class="zodiac-list w50 left">
+    <li><a href="#" data-sign="leo"><img title="Leo" class="zodiac-sign" src="{{ site.url }}/assets/images/zodiac/best/bw-leo.png" /></a></li>
+    <li><a href="#" data-sign="virgo"><img title="Virgo" class="zodiac-sign" src="{{ site.url }}/assets/images/zodiac/best/bw-virgo.png" /></a></li>
+    <li><a href="#" data-sign="libra"><img title="Libra" class="zodiac-sign" src="{{ site.url }}/assets/images/zodiac/best/bw-libra.png" /></a></li>
+    <li><a href="#" data-sign="scorpio"><img title="Scorpio" class="zodiac-sign" src="{{ site.url }}/assets/images/zodiac/best/bw-scorpio.png" /></a></li>
+    <li><a href="#" data-sign="sagittarius"><img title="Sagittarius" class="zodiac-sign" src="{{ site.url }}/assets/images/zodiac/best/bw-sagitarius.png" /></a></li>
+    <li><a href="#" data-sign="capricorn"><img title="Capricorn" class="zodiac-sign" src="{{ site.url }}/assets/images/zodiac/best/bw-capricorn.png" /></a></li>
+    <li><a href="#" data-sign="aquarius"><img title="Aquarius" class="zodiac-sign" src="{{ site.url }}/assets/images/zodiac/best/bw-aquarius.png" /></a></li>
+    <li><a href="#" data-sign="pisces"><img title="Pisces" class="zodiac-sign" src="{{ site.url }}/assets/images/zodiac/best/bw-pisces.png" /></a></li>
+    <li><a href="#" data-sign="aries"><img title="Aries" class="zodiac-sign" src="{{ site.url }}/assets/images/zodiac/best/bw-aries.png" /></a></li>
+    <li><a href="#" data-sign="taurus"><img title="Taurus" class="zodiac-sign" src="{{ site.url }}/assets/images/zodiac/best/bw-taurus.png" /></a></li>
+    <li><a href="#" data-sign="gemini"><img title="Gemini" class="zodiac-sign" src="{{ site.url }}/assets/images/zodiac/best/bw-gemini.png" /></a></li>
+    <li><a href="#" data-sign="cancer"><img title="Cancer" class="zodiac-sign" src="{{ site.url }}/assets/images/zodiac/best/bw-cancer.png" /></a></li>
+</ul>
+<!-- 
+<p>
+    Part of the Zodiac holds some kind of ultimate universal light/dark wisdom. I can explain the wisdom of the ancients to astronomers with the concepts of redshift and blueshift. Redshift and blueshift actually happens in steps and this is not well understood. When stars are moving away from us they are redshifted. When a star is moving towards us its light is blueshifted. Due to the rotation of the Earth you could say that our star the Sun is slightly blueshifted in the morning and slightly redshifted in the evening. This doesnt mean the sun will appear more blue or red during this time. The amount of blueshift and redshift is slightly less than a single "step" required to be able too observe redshift/blueshift. Its possible, though, that the rotation of the Earth does leave us with a single step of blueshift and redshift. Either way, we can pretend there is blueshift in the morning and redshift in the evening in order to understand the Zodiac. 
+    There are 4 zodiac signs which provide insight. 1. Capricorn. 2. Aquarius. 7. Cancer. 8. Leo. Capricorn and Leo are the strongest zodiac signs. Jesus is a Capricorn. Leo is known as the leader. This is because Capricorn experiences the least redshift when his DNA is combined for the first time. And Leo experiences the least redshift during the first 9 months of his existence. Aquarius experiences the most redshift during the first 9 months of his existence. Cancer experiences the most redshift when his DNA is combined for the first time. Capricorn and Leo are the least likely to have genetic defects. Again, Leo is known as the leader. Aquarius and Cancer are the most likely to have genetic defects.Aquarius is born to fetch the water. Cancer's name tells it all. Its all about the sun. The days lengthen from the winter solstice to the summer solstice. During this time there is more blueshift and less redshift. The days shorten from the summer solstice to the winter solstice. During this time there is less blueshift and more redshift. The evening of the fall equinox is the moment of greatest redshift. The morning of the spring equinox is the moment of greatest blueshift. Life on Earth is nothing in truth but the accumulation of billions of years of blueshift. Blueshift is the only way known to science whereby a massless particle can spontaneously gain mass. Blueshift ushers in life, complexity, and organization. Redshift does the unspeakable. Crime is lowest on the morning of the spring equinox. You are least likely to be the victim of a predator during this time. You could say Leo and Capricorn are in the favor of the Sun. And Aquarius and Cancer are in disfavor. See, there's ancient physics behind the Zodiac signs. There's also an ancient system of oppression (poor Aquarius). Finally, there is Gemini. Known as the twin. Gemini babies were conceived during the moment of greatest redshift in the Fall. They experience so much redshift (also known as chaos, death, and nothingness) when the DNA is combined for the first time that the little ball of cells often divides into two different and slightly more consistent balls of cells, which grow into twins. That's why Gemini is the twin. The ancients were wiser than you might think.
+</p> -->

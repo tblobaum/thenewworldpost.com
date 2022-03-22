@@ -221,8 +221,10 @@ footer a:hover {
   color:#888;
 }
 
+
+.site-footer button,
 .site-footer p {
-  padding-left: 5px;
+  margin-left: 0px;
 }
 
 
@@ -295,6 +297,7 @@ footer a:hover {
  */
 .page-content {
   padding: $spacing-unit 0;
+  padding: 10px 0; 
   flex: 1;
 }
 
@@ -533,7 +536,9 @@ li.post-thumb {
 .bomb-featured,
 .bomb-featured .bomb-img, 
   .bomb-featured .bomb-img img {
-  min-width: 460px; 
+  // min-width: 460px; 
+  min-width: 530px;
+  padding-right: 0px !important;
 
 }
 
@@ -597,7 +602,7 @@ margin-left: 95px;
   position: relative; 
   min-width: 80px;
   margin-right: 15px;
-  margin: 15px;
+  // margin: 15px;
   }
 
   .post-list .bomb-img {
@@ -714,7 +719,7 @@ border-radius: 6px;
 
 
 .post-list .bomb-img img { 
-padding-right: 0px;
+padding-right: 60px;
 border-radius: 6px;
 }
 
@@ -780,12 +785,29 @@ padding-top: 25px;
   // padding-left: 210px;
 }
 
+.newsletter-header {
+  padding: 0 25px;
+  padding-left: 25px !important;
+}
+
+.site-footer .newsletter-header {
+  padding-left: 0px;
+}
+.site-footer .archives-header {
+  padding: 10px 5px;
+  padding-left: 0px !important;
+}
+
+.site-footer .newsletter { 
+  padding: 5px;
+}
+
 .newsletter {
   background: #0e0e0e;
-  padding: 15px;
+  padding: 25px;
   text-align: left;
   border-radius: 6px; 
-  margin-bottom: 25px;
+  // margin-bottom: 25px;
 }
 
 .newsletter input[type=text] { 
@@ -869,8 +891,8 @@ padding-top: 25px;
     max-width: 275px;
 }
 
-.post-title { 
-  margin-bottom: 20px;
+.post-title {
+  margin: 30px 0;
 }
 
 .bomb-staggered .bomb-text { 
@@ -935,32 +957,39 @@ footer .page-link {
 }
 
 .archives.post-list li {
-  margin-left: 0; 
-  margin-top: 5px;
+  margin-left: 0;
+  margin-top: 0px;
   margin-bottom: 5px;
-  background: linear-gradient(315deg, #eee, transparent);
   border-radius: 6px;
+  margin-bottom: 0px;
+  margin-left: 4px;
 }
 
 .archives-header span {
   opacity: 0.25;
 }
 
+.site-footer .archives-header {
+  padding: 10px 5px; 
+}
+
 .archives-header {
-    text-transform: uppercase;
-    padding: 10px;
-    font-size: 24px;
-    background: #0e0e0e;
-    max-width: 600px;
-    margin: 0;
-    margin-bottom: 10px;
-    color: white;
-    display: block;
-    font-weight: 900;
-    border-radius: 6px;
-    position: relative;
-    top: 0px;
-    clear: both;
+  text-transform: uppercase;
+  padding: 10px;
+  font-size: 24px;
+  background: #0e0e0e;
+  max-width: 600px;
+  margin: 0;
+  margin-bottom: 10px;
+  color: white;
+  display: block;
+  font-weight: 900;
+  border-radius: 6px;
+  position: relative;
+  top: 0px;
+  clear: both;
+  margin-left: 4px;
+  margin-right: 4px;
 }
 
 .box {
@@ -986,7 +1015,9 @@ footer .page-link {
 
 .archives .post-featured:not(:first-child) { 
   margin-top: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 5px; 
+  margin: 5px;
+  margin-right: 15px; 
 }
 
 .github-link a {
@@ -1003,10 +1034,10 @@ footer .page-link {
 }
 
 .post-featured .bomb-img {
-  width: 250px;
+  width: 275px;
   border-radius: 6px; 
-  float: right;
-  margin: 15px;
+  float: left;
+  // margin: 15px;
 }
 
 .page-navigation {
@@ -1077,7 +1108,41 @@ footer .page-link {
 }
 
 
+.alt-arch-header {
+  background: #bababa;
+  margin-bottom: 10px;
+  color: #0e0e0e;
+}
 
+.zodiac-sign {
+  width: 125px; 
+  float: left; 
+}
+
+.zodiac-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: 20px; 
+}
+
+.zodiac-list li {
+  margin: 0;
+  padding: 0;
+}
+
+.sign {
+  font-size: 22px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.post-container-box {
+  position: relative;
+  left: -15px;
+}
 
 
 
