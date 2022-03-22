@@ -27,7 +27,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thenewworldpost.com" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-217839357-1 
 twitter_username: the_real_nwp
-github_username:  #tblobaum
+github_username:  tblobaum
+instagram_username: blobaum 
+rss: feed.xml
 author: Thomas Blobaum
 logo: /assets/images/logo-erbaum-dark.png
 fixed: false
@@ -48,14 +50,17 @@ og_image: /assets/images/opengraph.png
 #     tag: '/tag/:name/'
 #     category: '/category/:name/'
 
-plugins:
+plugins: 
   - jekyll-feed
   # - jekyll-archives
   - jekyll-seo-tag
   # - jekyll-news-sitemap
   - jekyll-sitemap
-  - "jekyll-github-metadata"
-  
+  - jekyll-github-metadata
+  # - jekyll-spaceship
+  - jekyll-octicons
+  - jekyll-timeago
+
 # Archives
 collections:
   archives:

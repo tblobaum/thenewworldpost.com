@@ -9,12 +9,15 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%-m/%-d/%Y"  -%}  
         {{ page.date | date: date_format }}  
-        &nbsp;•&nbsp;&nbsp; 
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}  
-        {{ page.date | date: date_format }}  
+        &nbsp;&nbsp;{% octicon zap height:16 class:"" aria-label:hi %} &nbsp;
+        {{ page.date | timeago }}
+        &nbsp;&nbsp; 
+        <!-- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}   -->
+        <!-- {{ page.date | date: date_format }}   -->
       </time>
       {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+        {% octicon person height:16 class:"" aria-label:hi %} &nbsp; 
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
       <span class="post-categories">
         {% if post %}
@@ -37,7 +40,8 @@ layout: default
   <div class="post-content e-content {% if page.dropcap %}dropcap{% endif %}" itemprop="articleBody">
     {{ content }}
 
-    <div class="post-tags">
+    <div class="post-tags">    
+      {% octicon feed-tag height:24 class:"right left" aria-label:hi %}
       {% if post %}
         {% assign tags = post.tags %}
       {% else %}
@@ -51,22 +55,10 @@ layout: default
 
     <br> 
 
-    <div class="w100 right">
-      <div class="w100">
-        {%- include newsletter-subscribe.html -%}
-      </div>
-    </div>
-    <br> 
-    <br> 
-    <br> 
-    <br> 
-    <br> 
-    <br> 
-    <br> 
-    <br> 
-    <br> 
-    <br> 
-    <h1 class="archives-header">Comments <span>Via GitHub</span></h1>
+    <h1 class="archives-header">
+      Comment <span><small>with GitHub</small></span>
+      <div class="right">{% octicon comment height:24 class:"right left" aria-label:hi %}</div>
+    </h1>
     <script src="https://utteranc.es/client.js"
         repo="tblobaum/thenewworldpost.com"
         issue-term="pathname"
@@ -75,8 +67,20 @@ layout: default
         async>
     </script>
     
-    <small class="right">{% github_edit_link "Suggest a correction" %}</small>
+    <!-- <small class="right">{% github_edit_link "Suggest a correction" %}</small> -->
+    
+    <form action="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}{{ site.github.source.path }}/{{ page.path }}">
+      <button class="btn btn-secondary right" type="submit" style="line-height:16px;">{% octicon git-pull-request height:16 class:"right left" aria-label:hi %} &nbsp; Suggest a correction</button>
+    </form>
     <br> <br> <br> 
+    
+    <div class="w100 ">
+      <div class="w100">
+        {%- include newsletter-subscribe.html -%}
+      </div>
+    </div> 
+
+    <br> <br>
   </div>
 
   {%- if site.disqus.shortname -%}
@@ -87,7 +91,42 @@ layout: default
 
 </article>
 
- 
+<div class="w75 right post-container-box">
+  <h1 class="archives-header">
+    Latest <span>Posts</span>
+    {% octicon flame height:24 class:"right" aria-label:hi %}
+  </h1>
+  <ul class="left post-list posts archives box">
+      {% for post in site.posts offset:0 limit:4 %} 
+        {% include postbox.html %} 
+      {% endfor %} 
+  </ul> 
+</div>
+
+{% if post %}
+{% assign categories = post.categories %}
+{% else %}
+{% assign categories = page.categories %}
+{% endif %}
+{% for category in categories %}
+{% if forloop.last %}
+<div class="w75 right post-container-box">
+  <h1 class="archives-header">
+    {{category}}
+ <span>Posts</span>
+    {% octicon globe height:24 class:"right" aria-label:hi %}
+  </h1>
+  <ul class="left post-list posts archives box">
+      {% for post in site.posts offset:0 limit:99 %} 
+        {% if post.categories contains category or post.category == category %}
+          {% include postbox.html %}
+        {% endif %}   
+      {% endfor %} 
+  </ul> 
+</div>
+{% endif %}
+{% endfor %}
+
 {% if post %}
 {% assign tags = post.tags %}
 {% else %}
@@ -96,9 +135,12 @@ layout: default
 {% for tag in tags %}
 {% if forloop.first %}
 <div class="w75 right post-container-box">
-  <h1 class="archives-header">{{tag}} <span>Posts</span></h1>
+  <h1 class="archives-header">
+    {{tag}} <span>Posts</span>
+    {% octicon tag height:24 class:"right" aria-label:hi %}
+  </h1>
   <ul class="left post-list posts archives box">
-      {% for post in site.posts %}
+      {% for post in site.posts limit: 4 %}
           {% if post.tags contains tag or post.tag == tag %}
               {% include postbox.html %}
           {% endif %} 
@@ -106,17 +148,7 @@ layout: default
   </ul> 
 </div>
 {% endif %}
-{% if forloop.last %}
-<div class="w75 right post-container-box">
-  <h1 class="archives-header">{{tag}} <span>Posts</span></h1>
-  <ul class="left post-list posts archives box">
-      {% for post in site.posts %}
-          {% if post.tags contains tag or post.tag == tag %}
-              {% include postbox.html %}
-          {% endif %} 
-      {% endfor %} 
-  </ul> 
-</div>
-{% endif %}
+{% if forloop.last %} {% endif %}
 {% endfor %} 
+
 

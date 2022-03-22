@@ -30,7 +30,12 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # gem "bombpress", "~> 0.1.2"
  
+# gem "nokogiri", ">= 1.6.0"
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 # gem 'jekyll-news-sitemap'
 gem "jekyll-github-metadata"
+# gem 'jekyll-spaceship' 
+gem 'jekyll-octicons'
+gem 'jekyll-timeago'
+

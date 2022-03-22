@@ -297,7 +297,7 @@ footer a:hover {
  */
 .page-content {
   padding: $spacing-unit 0;
-  padding: 10px 0; 
+  padding: 20px 0; 
   flex: 1;
 }
 
@@ -388,7 +388,7 @@ footer a:hover {
 }
 
 .post-list.archives li {
-  margin-right: 1px;
+  margin-right: -25px;
 }
 
 .post-list li {
@@ -758,6 +758,10 @@ padding-top: 25px;
   float: left;
 }
 
+.post-tags {
+  margin-top: 50px;
+}
+
 .post-categories a, 
 .post-tags a {
   background: #0e0e0e;
@@ -786,8 +790,8 @@ padding-top: 25px;
 }
 
 .newsletter-header {
-  padding: 0 25px;
-  padding-left: 25px !important;
+  // padding: 0 25px;
+  // padding-left: 25px !important;
 }
 
 .site-footer .newsletter-header {
@@ -804,7 +808,7 @@ padding-top: 25px;
 
 .newsletter {
   background: #0e0e0e;
-  padding: 25px;
+  padding: 15px;
   text-align: left;
   border-radius: 6px; 
   // margin-bottom: 25px;
@@ -892,7 +896,7 @@ padding-top: 25px;
 }
 
 .post-title {
-  margin: 30px 0;
+  margin: 30px 0px 15px 0;
 }
 
 .bomb-staggered .bomb-text { 
@@ -905,6 +909,7 @@ padding-top: 25px;
 
 .post-thumb .post-link { 
   min-height: 50px;
+  padding-right: 40px;
 }
 
 .bomb-featured-small .bomb-img img {
@@ -975,7 +980,7 @@ footer .page-link {
 
 .archives-header {
   text-transform: uppercase;
-  padding: 10px;
+  padding: 15px;
   font-size: 24px;
   background: #0e0e0e;
   max-width: 600px;
@@ -990,6 +995,7 @@ footer .page-link {
   clear: both;
   margin-left: 4px;
   margin-right: 4px;
+  width:100%; 
 }
 
 .box {
@@ -1146,9 +1152,101 @@ footer .page-link {
 
 
 
+.octicon {
+  display: inline-block;
+  vertical-align: text-top;
+  fill: currentColor;
+  overflow: visible;
+}
 
+.octicon-feed-tag {
+  margin-right: 16px;
+  margin-top: 8px;
+}
 
 // 
+
+
+
+
+.page-content .post-list { 
+  max-width: 600px;
+}
+
+.page-content .box li {
+  flex: 600px; 
+}
+
+.page-content .post-thumb { 
+  max-width: 295px;
+}
+
+.post-featured .bomb-text {
+  height: 200px;
+  overflow: hidden;
+}
+
+.site-footer svg { 
+  color: #fff;
+}
+
+.site-footer .btn .octicon { 
+  color: #fff; 
+}
+
+.site-footer { 
+  padding-top: 30px; 
+}
+
+.newsletter-header {
+  padding: 0;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+button.btn svg.icon-white {
+  color: white;
+}
+
+
+.bomb-thumbs .post-featured {
+  min-height: 350px;
+}
+
+.bomb-thumbs .post-featured .bomb-text {
+  height: 375px;
+  overflow: visible; 
+}
+
+.post-thumb .bomb-text {
+  flex-grow: 4;
+  top: -6px;
+  position: relative;
+}
+
+.post-featured .bomb-text { 
+  max-width: 300px;
+}
+
+.footer-col-1 { 
+  float: right;
+  text-align: right !important;
+}
+
+.page-content .box li {
+  flex: 600px;
+}
+
+.page-content .post-thumb {
+  max-width: 100%;
+}
+
+
+
+
+
+
+
 
 
 
