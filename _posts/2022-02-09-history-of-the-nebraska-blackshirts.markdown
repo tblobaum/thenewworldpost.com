@@ -5,7 +5,7 @@ title:  "History of the Nebraska Blackshirts"
 date:   2022-02-09 04:44:00 -0600
 categories: Nebraska 
 tags: Blackshirts 
-featured-image: blackshirts.jpg
+featured-image: blackshirts-50th.jpg
 featured-image-alt: Nebraska Blackshirts 
 ---
 Among Nebraska’s best-known traditions is that of the Blackshirts, the nickname for the Huskers’ defensive unit. The nickname, originally two words (Black Shirts), dates to Bob Devaney’s third season as coach and is derived from the black, pullover, contrast jerseys worn by defensive players in practice.
