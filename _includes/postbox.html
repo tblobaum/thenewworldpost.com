@@ -1,17 +1,18 @@
 {% if post.featured %} 
-    <li class="post-featured">
+    <li class="post-featured" style="position:relative;">
         <div class="bomb-img">
             {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
             {%- assign date_format = site.minima.date_format | default: "%-m/%-d/%Y" -%}
         </div>
         <div class="bomb-text">
+            <div class="hide-text"></div>
             <span class="post-meta">{{ post.date | date: date_format }}</span>
             <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title | escape }}
             </a>
             </h3>
-            <p>{{ post.excerpt | truncate: 140 | strip_html }} </p>
+            <p style="z-index: -5;">{{ post.excerpt | truncate: 140 | strip_html }} </p>
         </div>
     </li>
 {% else %} 

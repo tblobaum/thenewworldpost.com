@@ -5,7 +5,7 @@ title:  "The University of Nebraska Supports Fascists Who Are Sterilizing Billio
 date:   2022-03-05 00:07:57 -0600
 categories: World  
 tags: Nebraska Navel Naboo Nibiru Nebra Nazis Blackshirts Cornhuskers 
-featured-image:  conspiracy/n.jpeg
+featured-image:  ne-herbie.jpg
 featured-image-alt:  Nebraska Football
 ---
 Ever wonder why Nebraska is known by the majority of America as a "flyover state?" In this post you can read about the main reason why. 
@@ -356,7 +356,7 @@ Evidence of the conspiracy can be found in the local news in Lincoln, but it jus
 
 ![](/assets/images/conspiracy/temple.jpg)
 
-![](/assets/images/blackshirts-graffiti.jpg)
+![](/assets/images/hate/blackshirts-graffiti.jpg)
 
 From jewishjournal.com:
 
@@ -486,7 +486,7 @@ At least a number of Imperial Japanese have joined their German allies as the Bl
 ![](/assets/images/conspiracy/hiro-88.jpeg)
 
 
-## H.) Suddenly, an individual appears   
+<!-- ## H.) Suddenly, an individual appears   
 
 ![](/assets/images/conspiracy/blobaum-bb.png)  
 
@@ -508,11 +508,13 @@ July 25th, 1986
 
 <a href="https://en.wikipedia.org/wiki/Bat-Signal" data-iframely-url></a>
 
+ -->
+
 <!-- ![](/assets/images/conspiracy/thomas.png)   -->
 
-### Holy Moley  
+<!-- ### Holy Moley   -->
 
-![](/assets/images/conspiracy/cowboy-day.png)  
+<!-- ![](/assets/images/conspiracy/cowboy-day.png)    -->
 
 ## I.) Mashup 
 

@@ -23,39 +23,57 @@ layout: default
 <div class="w100">
   <div class="w50 right">
 
+    <h1 class="archives-header">World <span>News</span></h1>
+    <ul class="post-list posts archives box">
+      <!-- Of the first 12 posts in site.posts how many are of the category world -->
+      {% assign world_posts_count = 0 %}
+      {% for post in site.posts offset:0 limit:12 %}
+      {% if post.categories contains "World" or post.category == "World" %}
+      {% assign world_posts_count = world_posts_count | plus:1 %}
+      {% endif %}
+      {% endfor %}
+      
+        {% assign posts = site.posts | where: 'categories', 'World' %}
+        {% for post in posts offset:world_posts_count limit: 6 %}
+          {% include postbox.html %}
+        {% endfor %}
+    </ul>
 
     <div class="w100 right">
       {%- include zodiac.html -%}
     </div>
 
-    <h1 class="archives-header">World <span>News</span></h1>
-    <ul class="post-list posts archives box">
-        {% for post in site.posts offset:11 %}
-            {% if post.categories contains "World" or post.category == "World" %}
-                {% include postbox.html %}
-            {% endif %}    
-        {% endfor %}
-    </ul>
-    
-    <h1 class="archives-header">Navel <span>News</span></h1>
-    <ul class="post-list posts archives box">
-        {% for post in site.posts offset:11 %}
-            {% if post.categories contains "Navel" or post.category == "Navel" %}
-                {% include postbox.html %}
-            {% endif %}    
-        {% endfor %}
-    </ul>
   </div>
 
-  <div class="w50 left">
+  <div class="w50 left" style="width: 49%;max-width: 49%;min-width: 49%;margin-right: 10px;">
     <h1 class="archives-header">Political <span>News</span></h1>
     <ul class="post-list posts archives box">
-        {% for post in site.posts offset:11 %}
-            {% if post.categories contains "Politics" or post.category == "Politics" %}
+
+      {% assign politics_posts_count = 0 %}
+      {% for post in site.posts offset:0 limit:12 %}
+      {% if post.categories contains "Politics" or post.category == "Politics" %}
+      {% assign politics_posts_count = politics_posts_count | plus:1 %}
+      {% endif %}
+      {% endfor %}
+
+      {% assign posts = site.posts | where: 'categories', 'Politics' %}
+        {% for post in posts offset:politics_posts_count limit: 6 %}
+          {% include postbox.html %}
+        {% endfor %}
+    </ul>
+
+
+    <h1 class="archives-header">Blackshirts <span>News</span></h1>
+    <ul class="post-list posts archives box">
+
+      {% assign posts = site.posts | where: 'tags', 'Blackshirts' %}
+        {% for post in posts offset:0 limit: 10 %} 
+            {% if post.tags contains "Blackshirts" or post.tag == "Blackshirts" %}
                 {% include postbox.html %}
             {% endif %}    
         {% endfor %}
     </ul>
+
   </div>
 
 </div> 
