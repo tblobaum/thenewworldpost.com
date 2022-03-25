@@ -516,7 +516,7 @@ July 25th, 1986
 
 <!-- ![](/assets/images/conspiracy/cowboy-day.png)    -->
 
-## I.) Mashup 
+<!-- ## I.) Mashup 
 
-![](/assets/images/conspiracy/mashup.png)  
+![](/assets/images/conspiracy/mashup.png)   -->
 
