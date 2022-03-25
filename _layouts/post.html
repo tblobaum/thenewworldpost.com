@@ -40,8 +40,7 @@ layout: default
   <div class="post-content e-content {% if page.dropcap %}dropcap{% endif %}" itemprop="articleBody">
     {{ content }}
 
-    <div class="post-tags">    
-      {% octicon feed-tag height:24 class:"right left" aria-label:hi %}
+    <div class="post-tags">
       {% if post %}
         {% assign tags = post.tags %}
       {% else %}
