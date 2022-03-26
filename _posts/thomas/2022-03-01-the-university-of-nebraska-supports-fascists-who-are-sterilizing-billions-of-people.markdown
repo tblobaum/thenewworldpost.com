@@ -1,6 +1,7 @@
 ---
 layout: post
-author: Adam Baum
+author: Thomas Blobaum
+username: tblobaum
 title:  "The University of Nebraska Supports Fascists Who Are Sterilizing Billions Of People"
 date:   2022-03-05 00:07:57 -0600
 categories: World  

@@ -30,7 +30,7 @@ twitter_username: the_real_nwp
 github_username:  tblobaum
 instagram_username: blobaum 
 rss: feed.xml
-author: Thomas Blobaum
+author: tblobaum
 logo: /assets/images/logo-erbaum-dark.png
 fixed: false
 og_image: /assets/images/opengraph.png
@@ -56,10 +56,13 @@ plugins:
   - jekyll-seo-tag
   # - jekyll-news-sitemap
   - jekyll-sitemap
-  - jekyll-github-metadata
+  # - jekyll-github-metadata
   # - jekyll-spaceship
   - jekyll-octicons
-  - jekyll-timeago
+  # - jekyll-timeago
+  - jekyll-mentions
+  - jekyll-gist 
+  # - jekyll-avatar 
 
 # Archives
 collections:

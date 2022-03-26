@@ -11,6 +11,8 @@ layout: default
     {{ content }}
   </div>
   
-  <p><small>This site is open source. {% github_edit_link "Improve this page" %}</small></p>
+  <form action="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}{{ site.github.source.path }}/{{ page.path }}">
+    <button class="btn btn-secondary right" type="submit" style="line-height:16px;">{% octicon tools height:16 class:"right left" aria-label:hi %} &nbsp; Suggest a correction</button>
+  </form>
 
 </article>

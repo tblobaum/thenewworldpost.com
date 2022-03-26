@@ -1,6 +1,7 @@
 ---
 layout: post
-author: Sam Altman 
+author: Thomas Blobaum
+username: tblobaum
 title: Sam Altman's Doomsday Prophecy For College Education 
 date: 2022-03-20 04:20:00 -0600
 categories: USA 

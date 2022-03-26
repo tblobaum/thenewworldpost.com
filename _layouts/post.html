@@ -6,19 +6,22 @@ layout: default
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
+      {%- if page.username -%} 
+        <img class="avatar avatar-small" src="https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=40" alt="{{ page.username }}" srcset="https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=40 1x, https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=80 2x, https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=120 3x, https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=160 4x" width="40" height="40" />
+        <!-- {% octicon person height:16 class:"" aria-label:hi %} &nbsp;  -->
+      {%- endif -%}
+      {%- if page.author -%} 
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name"><a href="https://github.com/{{ page.username }}">{{ page.author }}</a></span></span>
+      {%- endif -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%-m/%-d/%Y"  -%}  
-        {{ page.date | date: date_format }}  
         &nbsp;&nbsp;{% octicon clock height:16 class:"" aria-label:hi %} &nbsp;
-        {{ page.date | timeago }}
+        {{ page.date | date: date_format }}  
+        <!-- {{ page.date | timeago }} -->
         &nbsp;&nbsp; 
         <!-- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}   -->
         <!-- {{ page.date | date: date_format }}   -->
-      </time>
-      {%- if page.author -%}
-        {% octicon person height:16 class:"" aria-label:hi %} &nbsp; 
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}
+      </time> 
       <span class="post-categories">
         {% if post %}
           {% assign categories = post.categories %}
@@ -66,8 +69,6 @@ layout: default
         crossorigin="anonymous"
         async>
     </script>
-    
-    <!-- <small class="right">{% github_edit_link "Suggest a correction" %}</small> -->
     
     <form action="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}{{ site.github.source.path }}/{{ page.path }}">
       <button class="btn btn-secondary right" type="submit" style="line-height:16px;">{% octicon tools height:16 class:"right left" aria-label:hi %} &nbsp; Suggest a correction</button>
