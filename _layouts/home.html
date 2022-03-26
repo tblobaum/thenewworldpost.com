@@ -23,6 +23,10 @@ layout: default
 <div class="w100">
   <div class="w50 right">
 
+    <div class="w100 right">
+      {%- include zodiac.html -%}
+    </div>
+
     <h1 class="archives-header">World <span>News</span></h1>
     <ul class="post-list posts archives box">
       <!-- Of the first 12 posts in site.posts how many are of the category world -->
@@ -39,9 +43,29 @@ layout: default
         {% endfor %}
     </ul>
 
-    <div class="w100 right">
-      {%- include zodiac.html -%}
-    </div>
+    <h1 class="archives-header">Science <span>News</span></h1>
+    <ul class="post-list posts archives box">
+      {% assign posts = site.posts | where: 'categories', 'Science' %}
+      {% for post in posts offset:0 limit: 99 %} 
+        {% include postbox.html %}
+      {% endfor %}
+    </ul>
+
+    <h1 class="archives-header">Entertainment <span>News</span></h1> 
+    <ul class="post-list posts archives box"> 
+      {% assign posts = site.posts | where: 'categories', 'Entertainment' %} 
+      {% for post in posts offset:0 limit: 99 %} 
+        {% include postbox.html %} 
+      {% endfor %} 
+    </ul> 
+
+    <h1 class="archives-header">USA <span>News</span></h1> 
+    <ul class="post-list posts archives box"> 
+      {% assign posts = site.posts | where: 'categories', 'USA' %} 
+      {% for post in posts offset:0 limit: 99 %} 
+        {% include postbox.html %} 
+      {% endfor %} 
+    </ul> 
 
   </div>
 
@@ -57,9 +81,9 @@ layout: default
       {% endfor %}
 
       {% assign posts = site.posts | where: 'categories', 'Politics' %}
-        {% for post in posts offset:politics_posts_count limit: 99 %}
-          {% include postbox.html %}
-        {% endfor %}
+      {% for post in posts offset:politics_posts_count limit: 99 %}
+        {% include postbox.html %}
+      {% endfor %}
     </ul>
 
 

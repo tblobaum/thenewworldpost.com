@@ -1,8 +1,9 @@
 ---
 layout: post
-author: Thomas James Blobaum 
-title:  "Nixon Infamously Told Farmers To Switch To GMO Or Get Lost"
-date:   2022-02-18 04:44:00 -0600
+author: Thomas Blobaum 
+username: tblobaum 
+title: "Nixon Infamously Told Farmers To Switch To GMO Or Get Lost"
+date: 2022-02-18 04:44:00 -0600
 categories: USA 
 tags: GMO Organic Nixon  
 featured-image: irrigation.jpg

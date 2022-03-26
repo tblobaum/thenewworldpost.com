@@ -1,9 +1,11 @@
 ---
 layout: post
-author: Thomas James Blobaum 
-title:  "FBI warned of white supremacists in law enforcement"
-date:   2022-02-22 04:44:00 -0600
-categories: Politics  
+author: Thomas Blobaum 
+username: tblobaum 
+title: "FBI warned of white supremacists in law enforcement"
+date: 2021-02-22 04:44:00 -0600
+categories: Politics 
+tags: Supremacy 
 featured-image:  fbi.jpg 
 featured-image-alt:  FBI 
 ---

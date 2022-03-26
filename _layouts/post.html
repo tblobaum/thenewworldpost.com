@@ -4,6 +4,20 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    
+    <p class="post-meta">
+      <span class="post-categories">
+        {% if post %}
+          {% assign categories = post.categories %}
+        {% else %}
+          {% assign categories = page.categories %}
+        {% endif %}
+        {% for category in categories %}
+        <a href="{{site.baseurl}}/category/{{category|slugify}}">{{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
+      </span>
+    </p>
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       {%- if page.username -%} 
@@ -13,7 +27,7 @@ layout: default
       {%- endif -%}
       {%- if page.author -%} 
         <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name"><a href="https://github.com/{{ page.username }}">{{ page.author }}</a></span></span>
-      {%- endif -%}
+      {%- endif -%} 
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%-m/%-d/%Y"  -%}  
         &nbsp;&nbsp;{% octicon clock height:16 class:"" aria-label:hi %} &nbsp;
@@ -22,19 +36,7 @@ layout: default
         &nbsp;&nbsp; 
         <!-- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}   -->
         <!-- {{ page.date | date: date_format }}   -->
-      </time> 
-      <span class="post-categories">
-        {% if post %}
-          {% assign categories = post.categories %}
-        {% else %}
-          {% assign categories = page.categories %}
-        {% endif %}
-        {% for category in categories %}
-        <a href="{{site.baseurl}}/category/{{category|slugify}}/">{{category}}</a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-        {% endfor %}
-      </span>
-
+      </time>   
     </p>
     <div class="feat-img-box color">
       {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}

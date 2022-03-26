@@ -1,8 +1,9 @@
 ---
-layout: post
-author: Thomas James Blobaum 
-title:  "Do The Jews Control The World?"
-date:   2022-02-28 04:20:00 -0600
+layout: post 
+author: Thomas Blobaum 
+username: tblobaum 
+title: "Do The Jews Control The World?"
+date: 2022-02-21 04:20:00 -0600
 categories: World
 tags: Judaism Jews 
 featured-image: american-jewry.jpg

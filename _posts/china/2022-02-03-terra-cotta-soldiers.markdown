@@ -1,8 +1,9 @@
 ---
 layout: post 
-author: tom 
-title:  "The Terra Cotta Soldiers in Xi'an, the heart of China"
-date:   2022-03-03 04:20:01 -0600
+author: Thomas Blobaum
+username: tblobaum  
+title: "The Terra Cotta Soldiers in Xi'an, the heart of China"
+date: 2022-02-03 04:20:01 -0600
 categories: World
 tags: China 
 featured-image: terra-cotta.jpg

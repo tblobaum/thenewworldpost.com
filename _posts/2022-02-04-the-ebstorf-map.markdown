@@ -1,13 +1,14 @@
 ---
 layout: post 
-author: 
-title:  "Zion is the Navel of the World"
-date:   2022-03-04 04:20:01 -0600
+author: Thomas Blobaum
+username: tblobaum 
+title: "Zion is the Navel of the World"
+date: 2022-02-04 04:20:01 -0600
 categories: World
 tags: Navel 
 featured-image: jerusalem-center.jpg
 featured-image-alt: Cheerios
-featured: yes
+featured: no
 dropcap: yes
 ---
 

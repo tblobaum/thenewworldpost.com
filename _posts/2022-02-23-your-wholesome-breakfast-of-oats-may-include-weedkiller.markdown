@@ -1,8 +1,9 @@
 ---
 layout: post 
-author: tom 
+author: Thomas Blobaum
+username: tblobaum 
 title:  "Your wholesome breakfast of oats may include weedkiller"
-date:   2022-03-03 04:20:01 -0600
+date:   2022-02-23 04:20:01 -0600
 categories: World
 tags: US 
 featured-image: cheerios.jpg

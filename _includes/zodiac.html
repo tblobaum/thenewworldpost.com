@@ -18,42 +18,38 @@
         })
     })
 
-
 jQuery(document).ready(function ($) {
 	$(".zodiac-list a").on('click', function (ev) {
 		ev.preventDefault();
-		var sign = $(this).attr('data-sign'); 
+		var sign = $(this).attr('data-sign') 
         console.log('Sign: ', sign)
 		$.ajax({
 			type:'POST',
 			url:'https://aztro.sameerkumar.website?sign='+sign+'&day=today',
 			success: function (data) {
                 console.log('Horoscope:', data)
-				$('#astrology-results .sign').html(sign);
-				$('#astrology-results .date_range').html("<h2>Dates:</h2><p>" + data.date_range + "</p>"); 
-				$('#astrology-results .description').html("<p>" + data.description + "</p>"); 
-				$('#astrology-results .mood').html("<h2>Mood:</h2><p>" + data.mood + "</p>"); 
-				$('#astrology-results .compatibility').html("<h2>Compatibility:</h2><p>" + data.compatibility + "</p>"); 
-			}
-		});
-	});
-});
-
+				$('#astrology-results .sign').html(sign) 
+				$('#astrology-results .date_range').html("<strong>Dates:</strong> <small>" + data.date_range + "</small>") 
+				$('#astrology-results .description').html("<p><small>" + data.description + "</small></p>") 
+				$('#astrology-results .mood').html("<strong>Mood:</strong> <small>" + data.mood + "</small>") 
+				$('#astrology-results .compatibility').html("<strong>Compatibility:</strong> <small>" + data.compatibility + "</small>") 
+			} 
+		}) 
+	}) 
+}) 
 </script>
 
 
-<h1 class="archives-header alt-arch-header">Astrology <span>Signs</span></h1>
+<h1 class="archives-header">Astrology <span>Signs</span></h1>
 <ul class="zodiac-results reset w50 right">
     <!-- <li class="right"><small>[<a class="close bolder" href="#">X</a>]</small></li> -->
     <li></li>
     <li>
 		<div id="astrology-results"> 
 			<div class=""> 
-				<h2 class="sign">Choose Your Horoscope</h2> 
+				<h2 class="sign"></h2> 
 				<div class="description">
-                    <p><small>The Zodiac holds within its signs a universal wisdom of the seasons, the light and the dark.</small></p>
-					<p><small>Like all of us fascinated by the possibility of knowing our fate, Kings and Queens have used astrologers over the centuries. The court astrologer would be consulted on all kinds of questions – from the best time to be crowned, to when to go into battles to which direction to escape imprisonment and whom to trust and even marry.</small> </p>
-					<p><small>Before the Enlightenment there was such belief in the power of astrology that it was actually a criminal act to cast the birth chart of a Royal as it was considered inside information on their personality and therefore top secret. Some even gave false birthdays to confuse their enemies.</small></p>
+                    <p><small>The Zodiac holds within its signs a universal wisdom of the seasons, the light and the dark. Like all of us fascinated by the possibility of knowing our fate, Kings and Queens have used astrologers over the centuries. Astrologers were consulted on all kinds of questions – from the best time to be crowned, to when to go into battles to which direction to escape imprisonment and whom to trust and even marry.</small> </p>
 				</div>
 				<ul class="astro-result-list reset">
 					<li class="date_range"></li> 
