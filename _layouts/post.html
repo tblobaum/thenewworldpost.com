@@ -8,7 +8,8 @@ layout: default
     <p class="post-meta">
       {%- if page.username -%} 
         <img class="avatar avatar-small" src="https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=40" alt="{{ page.username }}" srcset="https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=40 1x, https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=80 2x, https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=120 3x, https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=160 4x" width="40" height="40" />
-        <!-- {% octicon person height:16 class:"" aria-label:hi %} &nbsp;  -->
+      {%- else -%}
+        {% octicon person height:16 class:"" aria-label:hi %} &nbsp; 
       {%- endif -%}
       {%- if page.author -%} 
         <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name"><a href="https://github.com/{{ page.username }}">{{ page.author }}</a></span></span>
