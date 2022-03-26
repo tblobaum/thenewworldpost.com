@@ -27,14 +27,14 @@ layout: default
     <ul class="post-list posts archives box">
       <!-- Of the first 12 posts in site.posts how many are of the category world -->
       {% assign world_posts_count = 0 %}
-      {% for post in site.posts offset:0 limit:12 %}
+      {% for post in site.posts offset:0 limit:13 %}
       {% if post.categories contains "World" or post.category == "World" %}
       {% assign world_posts_count = world_posts_count | plus:1 %}
       {% endif %}
       {% endfor %}
       
         {% assign posts = site.posts | where: 'categories', 'World' %}
-        {% for post in posts offset:world_posts_count limit: 6 %}
+        {% for post in posts offset:world_posts_count limit: 99 %}
           {% include postbox.html %}
         {% endfor %}
     </ul>
@@ -50,14 +50,14 @@ layout: default
     <ul class="post-list posts archives box">
 
       {% assign politics_posts_count = 0 %}
-      {% for post in site.posts offset:0 limit:12 %}
+      {% for post in site.posts offset:0 limit:13 %}
       {% if post.categories contains "Politics" or post.category == "Politics" %}
       {% assign politics_posts_count = politics_posts_count | plus:1 %}
       {% endif %}
       {% endfor %}
 
       {% assign posts = site.posts | where: 'categories', 'Politics' %}
-        {% for post in posts offset:politics_posts_count limit: 6 %}
+        {% for post in posts offset:politics_posts_count limit: 99 %}
           {% include postbox.html %}
         {% endfor %}
     </ul>
@@ -67,7 +67,7 @@ layout: default
     <ul class="post-list posts archives box">
 
       {% assign posts = site.posts | where: 'tags', 'Blackshirts' %}
-        {% for post in posts offset:0 limit: 10 %} 
+        {% for post in posts offset:0 limit: 99 %} 
             {% if post.tags contains "Blackshirts" or post.tag == "Blackshirts" %}
                 {% include postbox.html %}
             {% endif %}    

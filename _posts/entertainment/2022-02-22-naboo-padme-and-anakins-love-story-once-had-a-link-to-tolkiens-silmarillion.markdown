@@ -4,7 +4,7 @@ author: Thomas James Blobaum
 title:  "Padme and Anakin’s Love Story Once Had a Link To Tolkien’s Silmarillion"
 date:   2022-02-22 04:20:00 -0600
 categories: Nebraska Entertainment
-featured-image: planet-naboo.png
+featured-image: planet-naboo.jpg 
 featured-image-alt: Planet Naboo 
 ---
 NABOO– Padmé and Anakin’s love story in Star Wars: Episode II – Attack of the Clones once had a small nod to another couple from Tolkien’s Silmarillion.

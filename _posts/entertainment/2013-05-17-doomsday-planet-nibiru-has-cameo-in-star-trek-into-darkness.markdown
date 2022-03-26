@@ -4,7 +4,7 @@ author: Thomas James Blobaum
 title:  "'Doomsday Planet' Nibiru Has Cameo in 'Star Trek Into Darkness'"
 date:   2013-05-17 04:44:00 -0600
 categories: USA
-featured-image: planet-nibiru.png
+featured-image: planet-nibiru.jpg
 featured-image-alt: Planet Nibiru
 tags: Nibiru StarTrek
 ---

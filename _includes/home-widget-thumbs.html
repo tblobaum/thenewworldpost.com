@@ -1,6 +1,6 @@
 
 <ul class="bomb-thumbs"> 
-  {%- for post in site.posts offset:6 limit:6 -%}
+  {%- for post in site.posts offset:6 limit:7 -%}
   <li class="post-thumb">
     <div class="bomb-img">
       {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
