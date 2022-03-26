@@ -5,7 +5,7 @@ title: "Batygin and Brown: Planet Nine Heading for Pi"
 date: 2016-02-06 04:44:00 -0600
 categories: Navel
 tags: Tommy Space Pi Orion Batygin Brown
-featured-image: planet-nine.png
+featured-image: planet-nine.jpg
 featured-image-alt: Planet Nine 
 featured: yes 
 dropcap: yes 

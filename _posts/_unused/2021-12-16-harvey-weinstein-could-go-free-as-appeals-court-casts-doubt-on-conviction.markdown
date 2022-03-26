@@ -5,7 +5,7 @@ title:  "Harvey Weinstein Could Go Free, as Appeals Court Casts Doubt on Convict
 date:   2021-12-16 04:20:00 -0600
 categories: Entertainment 
 tags: Hollywood
-featured-image: weinstein.jpeg
+featured-image: weinstein.jpg
 featured-image-alt: Harvey Weinstein
 ---
 Harvey Weinstein is serving a 23-year sentence on rape and sexual assault charges, which make him ineligible for parole until after his 87th birthday. He’s also facing additional charges in Los Angeles that carry a maximum sentence of 140 years.

@@ -5,7 +5,7 @@ title:  "Amazon Buys Whole Foods For $14 Billion"
 date:   2017-06-19 04:44:00 -0600
 categories: Politics 
 tags: Business Health Organic GMO 14 Amazon Bezos
-featured-image: whole-foods.png
+featured-image: whole-foods.jpg
 featured-image-alt: Whole Foods 
 featured: no 
 dropcap: yes 

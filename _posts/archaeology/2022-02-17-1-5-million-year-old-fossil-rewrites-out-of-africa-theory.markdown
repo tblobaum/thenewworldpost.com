@@ -4,7 +4,7 @@ author: Thomas James Blobaum
 title:  "1.5 million-year-old fossil rewrites 'Out of Africa' theory"
 date:   2022-02-17 22:33:44 -0600
 categories: Science
-featured-image: israel-neanderthals.jpeg
+featured-image: israel-neanderthals.jpg
 featured-image-alt: Israel Neanderthals 
 ---
 A 1.5 million-year-old vertebra from an extinct human species unearthed in Israel suggests that ancient humans may have migrated from Africa in multiple waves, a new study finds.

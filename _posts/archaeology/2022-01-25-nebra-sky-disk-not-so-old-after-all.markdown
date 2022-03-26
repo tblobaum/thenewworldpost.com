@@ -29,7 +29,6 @@ With different stories from the looters and one even changing his story little c
 
 The image shows stars, a crescent moon and a sun or full moon. Scientists can’t even agree on that as state archaeologist Harald Meller believes it is the sun while other astronomers believe it is a full moon as the disk represents the night sky.
 
-
 Rupert Gebhard, Director of the Archäologische Staatssammlung München and Professor of Pre and Protohistory at Munich University and Rüdiger Krause, Professor of Pre and Protohistory at Frankfurt A. M. University have recently done a more modern analysis of the disk using methods not available in 1999.
 
 It is their determination that the Nebra Sky  disk is about one thousand years earlier than previously thought and puts it into the time frame of the Iron Age rather than the Bronze Age according to their research paper at dguf.de.

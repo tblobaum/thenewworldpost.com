@@ -5,7 +5,7 @@ title: Sam Altman's Doomsday Prophecy For College Education
 date: 2022-03-20 04:20:00 -0600
 categories: USA 
 tags: College University Doomsday 
-featured-image: sam-altman.jpeg
+featured-image: sam-altman.jpg
 featured-image-alt: Sam Altman 
 ---
 

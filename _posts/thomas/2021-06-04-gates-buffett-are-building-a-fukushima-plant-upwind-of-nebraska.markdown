@@ -5,7 +5,7 @@ title:  "Gates & Buffett Are Building A Fukushima Plant Upwind Of Nebraska"
 date:   2021-06-04 04:22:00 -0600
 categories: Politics 
 tags: Navel Nebraska Gates Buffett Nuclear 
-featured-image: gates-nuclear.jpeg
+featured-image: gates-nuclear.jpg
 featured-image-alt: Bill Gates and a Nuclear Reactor
 featured: no
 dropcap: no

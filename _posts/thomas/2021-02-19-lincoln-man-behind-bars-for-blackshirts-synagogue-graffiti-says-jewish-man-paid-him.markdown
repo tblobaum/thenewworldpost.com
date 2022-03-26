@@ -40,5 +40,5 @@ At sentencing, Jacobsen said that whether Miller wants to blame himself or someb
 
 “Nobody in this community should not feel safe when they go to a house of worship,” the judge said.
 
-![](/assets/images/hate/noah-miller-arrested-on-the-news.png) 
+![](/assets/images/hate/noah-miller-arrested-on-the-news.jpg) 
 

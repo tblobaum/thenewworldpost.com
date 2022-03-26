@@ -4,7 +4,7 @@ author: Thomas James Blobaum
 title:  "Did Modern Humans and Neanderthals Really Meet in Israel's South?"
 date:   2022-02-17 22:33:44 -0600
 categories: Science
-featured-image: neanderthal.jpeg
+featured-image: neanderthal.jpg
 featured-image-alt: Neanderthal 
 ---
 We know modern humans and Neanderthals met, because we have some of their genes. Now archaeologists have found sites not far from one another, which were used at about the same time. 

@@ -5,7 +5,7 @@ title:  "Antikythera Mechanism Designed by Archimedes, Say Experts"
 date:   2022-02-11 22:33:44 -0600
 categories: Science
 tags: Archaeology Antikythera Greece Archimedes
-featured-image: antikythera.png
+featured-image: antikythera.jpg 
 featured-image-alt: AntiKythera Mechanism 
 ---
 The Antikythera Mechanism, humanity’s first computer, which was found by sponge divers in 1901, was designed by the great mathematician Archimedes, says a team of British and Greek researchers.

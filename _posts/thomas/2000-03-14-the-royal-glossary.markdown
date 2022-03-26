@@ -4,7 +4,7 @@ author: Thomas James Blobaum
 title:  "The Royal Glossary"
 date:   2000-03-14 02:22:22 -0600
 categories: World  
-featured-image: royal-background.jpeg
+featured-image: royal-background.jpg
 featured-image-alt: 
 featured: no 
 dropcap: no  

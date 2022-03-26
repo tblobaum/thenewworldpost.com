@@ -5,7 +5,7 @@ title:  "Black Death Is Able To Reach More Areas Due To Global Warming, Russiaâ€
 date:   2022-01-01 04:44:00 -0600
 categories: World  
 tags: Climate Russia Pandemic Popova Health
-featured-image: anna-popova.png
+featured-image: anna-popova.jpg
 featured-image-alt: Anna Popova
 featured: yes 
 ---

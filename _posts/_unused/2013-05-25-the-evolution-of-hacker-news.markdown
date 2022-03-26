@@ -4,7 +4,7 @@ author: Thomas James Blobaum
 title:  "The Evolution Of Hacker News"
 date:   2013-05-25 04:20:00 -0600
 categories: Tech 
-featured-image: hn-dirt.png
+featured-image: hn-dirt.jpg
 featured-image-alt: Hacker News 
 ---
 CALIFORNIA – The idea of a VC having its own news aggregator was a bit outlandish in 2007. But Y Combinator was in an unusual position in those days anyway. Startup incubators had been a highly visible part of the dot-com crash, and Silicon Valley was still skeptical of the concept nearly a decade later. So YC set out to be something different — a community of hackers building companies on their own terms.

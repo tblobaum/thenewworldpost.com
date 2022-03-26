@@ -5,7 +5,7 @@ title:  "Harvey Weinstein Limo Driver Testifies Early in Producer’s California
 date:   2022-02-23 04:20:00 -0600
 categories: Entertainment 
 tags: Hollywood
-featured-image: weinstein-prison.jpeg
+featured-image: weinstein-prison.jpg
 featured-image-alt: Harvey Weinstein
 ---
 Chauffeur Freddy Baroth drove Weinstein around Los Angeles on the night of an alleged attack in 2013. 

@@ -5,7 +5,7 @@ title: "Russian forces invade Ukraine after Putin orders attack"
 date: '2022-02-24'
 categories: World
 tags: Putin Russia Ukraine
-featured-image: ukrainian-russian-conflict.png
+featured-image: ukrainian-russian-conflict.jpg
 featured-image-alt: Ukraine-Russia War
 ---
 KYIV/MARIUPOL, Ukraine, – Ukrainian forces battled Russian invaders on three sides on Thursday after Moscow unleashed the biggest attack on a European state since World War Two, prompting tens of thousands of people to flee their homes.

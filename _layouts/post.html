@@ -41,6 +41,7 @@ layout: default
     {{ content }}
 
     <div class="post-tags">
+      {% octicon tag height:24 class:"right left" aria-label:hi %}
       {% if post %}
         {% assign tags = post.tags %}
       {% else %}

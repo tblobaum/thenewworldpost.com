@@ -5,7 +5,7 @@ title:  "The Terra Cotta Soldiers in Xi'an, the heart of China"
 date:   2022-03-03 04:20:01 -0600
 categories: World
 tags: China 
-featured-image: terra-cotta.jpeg
+featured-image: terra-cotta.jpg
 featured-image-alt: Terra Cotta Army  
 ---
 In March 1974, a group of peasants digging a well in drought-parched Shaanxi province in northwest China unearthed fragments of a clay figure—the first evidence of what would turn out to be one of the greatest archaeological discoveries of modern times. Near the unexcavated tomb of Qin Shi Huangdi—who had proclaimed himself first emperor of China in 221 B.C.—lay an extraordinary underground treasure: an entire army of life-size terra cotta soldiers and horses, interred for more than 2,000 years.

@@ -5,7 +5,7 @@ title:  "Reasonable To Hypothesize Corona Virus Is Genetically Engineered"
 date:   2021-12-21 22:33:44 -0600
 categories: World
 tags: Health Pandemic COVID-19 Conspiracy 
-featured-image: wuhan.jpeg
+featured-image: wuhan.jpg
 featured-image-alt: Wuhan
 ---
 WUHAN– There is a possibility that the COVID-19 virus was “most likely” leaked from a lab in China, British MPs were informed on Thursday.   

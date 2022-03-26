@@ -5,7 +5,7 @@ title: Chernobyl power plant captured by Russian forces -Ukrainian official
 date: '2022-02-27'
 categories: World
 tags: ''
-featured-image: chernobyl.jpeg
+featured-image: chernobyl.jpg
 featured-image-alt: Chernobyl
 ---
 The Chernobyl nuclear power plant has been captured by Russian forces, an adviser to the Ukrainian presidential office, Mykhailo Podolyak, said on Thursday.

@@ -5,7 +5,7 @@ title:  "State Of Nebraska Dismisses Itself From Suit Filed By Former Lincoln Re
 date:   2019-01-22 04:20:00 -0600
 categories: Politics 
 tags: Navel Nebraska Health Holocaust Resident_Evil 
-featured-image: lincoln-regional-resident-evil.png
+featured-image: lincoln-regional-resident-evil.jpg
 featured-image-alt: Lincoln Regional rhymes with Resident Evil  
 ---
 LINCOLN, NEBRASKA— A federal judge has tossed out claims filed by a former Lincoln Regional Center psychiatrist against the state and a former hospital administrator.

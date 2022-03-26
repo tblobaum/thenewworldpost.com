@@ -5,7 +5,7 @@ title:  "Nixon: I Am Not an Anti-Semite"
 date:   2022-02-17 04:44:00 -0600
 categories: USA
 tags: Anti-Semitism Nixon  
-featured-image: nixon.jpeg
+featured-image: nixon-3.jpg
 featured-image-alt: Richard Nixon
 ---
 The National Archives’ latest release of Nixon White House tapes is, as usual, a bracing antidote to historical revisionism. Whenever the academic world is tempted to adopt a more favorable view of Nixon’s character, new Nixon tapes always seem to appear that squelch the impulse.

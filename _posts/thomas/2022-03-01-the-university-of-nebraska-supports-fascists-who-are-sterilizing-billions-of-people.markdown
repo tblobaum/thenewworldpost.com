@@ -22,11 +22,11 @@ Ever wonder why Nebraska is known by the majority of America as a "flyover state
 #### H.) Japanese
 #### I.) Related Conspiracies   -->
 
-![](/assets/images/conspiracy/ne-center.png)  
+![](/assets/images/conspiracy/ne-center.jpg)  
 
 >“For those that believe, no explanation is necessary. For those that do not, no explanation will suffice.”
 
-![](/assets/images/conspiracy/football-censored.png)  
+![](/assets/images/conspiracy/football-censored.jpg)  
 
 Nebraska has a very serious social problem. At the flagship University of Nebraska in the state's capitol there is an entrenched two-faced Neo-Nazi Conspiracy with roots in the Civil Rights Era.
 
@@ -40,11 +40,11 @@ If the shared name and the year isnt enough just look at the flag and compare it
 
 Let me be clear: the Blackshirts at the Univeristy of Nebraska are the Blackshirts of history and their weapon is corn which is also their final solution for the class and race problem. 
 
-![](/assets/images/conspiracy/defcon3.png)
+![](/assets/images/conspiracy/defcon3.jpg)
 
 If the school isn't going to throw out the Blackshirts then they should at least consider making an update to their uniforms to let people know to stay away from the "corn."
 
-![](/assets/images/conspiracy/no-gmo-blackshirts.png)
+![](/assets/images/conspiracy/no-gmo-blackshirts.jpg)
 
 There is a fertility crisis brewing in the world. In a matter of only 10 to 20 years the majority of young healthy american couples will need fertility treatment to have a child. Jeremy Grantham believes only the rich will be able to procreate because they'll be the only ones who can afford the expensive fertility treatment. This fertility crisis will change everything and truly the future belongs to those souls who eat organic. The University of Nebraska is connected to this crisis. The Blackshirts at UNL are the Blackshirts of history and their weapon is corn. 
 
@@ -95,7 +95,7 @@ The Voluntary Militia for National Security, commonly called the Blackshirts, wa
 
 The Blackshirts were established in 1919 and consisted of many disgruntled former soldiers. It was given the task of leading fights against their bitter enemies – the Socialists.
 
-![](/assets/images/conspiracy/nazi-waffen-ss.png)
+![](/assets/images/conspiracy/nazi-waffen-ss.jpg)
 
 ### Waffen SS (Blackshirts)
 The Waffen-SS was the military branch of the Nazi Party's SS organisation.
@@ -118,7 +118,7 @@ The University of Nebraska flag shares a few qualities with the flag of Nazi Ger
 
 <div class="w100">
     <div class="w50 left"> 
-        <img src="/assets/images/conspiracy/nazi-flag.png" /> 
+        <img src="/assets/images/conspiracy/nazi-flag.jpg" /> 
     </div>
     <div class="w50 right">
         <img src="/assets/images/conspiracy/ne-flag.jpg" /> 
@@ -131,24 +131,24 @@ The University of Nebraska flag shares a few qualities with the flag of Nazi Ger
 
 The flag of Nazi Party and the flag of UNL sharing qualities is a coincidence, but still, it is important to note that the UNL Flag is used by hardcore fans as a standin for the flag of the Nazi Party. Additionally, the shared qualities probably have something to do with keeping the conspiracy going, as well as the start of it. 
 
-![](/assets/images/conspiracy/german-flag-striped.png)
+![](/assets/images/conspiracy/german-flag-striped.jpg)
 
 ### 1933-1935 Nazi Party
 This flag of the Nazi Party from the early 1930s shows UNL's color scheme off. If only that was the only connection UNL would easily be off the hook. But its not the only connection to Nazism. There is a vast number of connections that we can make. This is probably the most basic one. 
 
-![](/assets/images/conspiracy/german-standard.png)
+![](/assets/images/conspiracy/german-standard.jpg)
 
 ### Standard of Adolf Hitler
 The standard of Adolf Hitler has a color scheme that is red, black and white with a touch of gold. This is the same color scheme as the Cornhuskers. 
 
-![](/assets/images/conspiracy/german-flag.png)
+![](/assets/images/conspiracy/german-flag.jpg)
 
 ### Germany
 The colors of modern Germany are red, black and gold. These colors are essentially the same as the standard of Adolf Hitler and Cornhuskers, just without the color white. And yes, I do find it is suspicious that the modern German flag carries the same colors as the standard of Adolf Hitler. 
 
 ![](/assets/images/conspiracy/native-american-flag.jpg)
 
-![](/assets/images/conspiracy/berlin-belgium.png)
+![](/assets/images/conspiracy/berlin-belgium.jpg)
 
 ### Native Americans
 Native Americans, who have long carried the swastika, have flags similar to the German flag. The Native American flags have the full colors of the standard of Adolf Hitler, which are the same as the Cornhuskers: red, black, gold and white. 
@@ -160,7 +160,7 @@ Every year the Cornhuskers play the Iowa Hawkeyes around Thanksgiving in a game 
 
 Additionally, the flag of the Iowa Hawkeyes is similar to the flag of the first Reich (just search for the flag of the Holy Roman Empire) and this is known by the hardcore fans. The Heroes game is thus the first Reich versus the third Reich. 
 
-![](/assets/images/conspiracy/heroes-game.png)
+![](/assets/images/conspiracy/heroes-game.jpg)
 
 One might say that "war hawks" are the ones responsible for the conspiracy that engulfs these two states. A war hawk, or simply hawk, is a term used in politics for someone who favors war or continuing to escalate an existing conflict as opposed to other solutions. War hawks are the opposite of doves. Nebraska clearly has the character of a passive aggressive war hawk. By going along with the conspiracy Iowa does too.
 
@@ -191,7 +191,7 @@ German was almost 100% German after Hitler had his way with the place. Nebraska 
 
 <a href="https://en.wikipedia.org/wiki/German_Nebraskan" data-iframely-url></a>
 
-![](/assets/images/conspiracy/ne-center.png)
+![](/assets/images/conspiracy/ne-center.jpg)
 
 ### Point 3: Nebraska & Nazi Germany are both Geo-Central states
 Germany and Nebraska are both in the exact center of their respective continents. This is evidence that shows how Nebraska is similar to Germany. 
@@ -204,7 +204,7 @@ The Blackshirts have the same red, white and black color scheme as the Nazis. It
 ### Point 5: Nebraska Blackshirts & the Nazi Party were both founded during politically turbulent times
 The Nazis were founded in the turbulent 20s and 30s. Hitler seized control of the country and was deeply anti-Semitic. The Blackshirts of Nebraska were also founded during politically turbulent times. The Blackshirts were founded in Nebraska 1964 or 1963 depending on who you ask, and many fans know this, but what most don’t know is the rest of the story. The blackshirts were formed when America was on the verge of a Civil War. This was within a year of the Civil Rights Act being signed. The same era where President Kennedy was assassinated in Texas. These events coinciding with one another is not a coincidence. Rather than being done by the left as the Civil Rights Act was, the establishment of the Nebraska Blackshirts was done by the far right-wing. The “official” story as to why the Cornhuskers defense is called the Blackshirts is a lie. The truth is that the far-right promoted neo-nazism and fascism in Nebraska because of the qualities of the population and geography, and they put the Blackshirts here in response to what the left was doing in the country. 
 
-![](/assets/images/conspiracy/ne-blackshirts-definition.png)
+![](/assets/images/conspiracy/ne-blackshirts-definition.jpg)
 
 ### Point 6: A Single Google Search Yields Results for Both
 Simply google the word Blackshirts and take a look around. You’ll see fascists in Italy with a black flag with a white skull on it, and fascists in England (many doing the sieg heil) who share the page with images and information about the Cornhuskers defense. 
@@ -245,7 +245,7 @@ Is this a coincidence or is the football institution oozing Nazism? You can be t
 88 means Heil Hitler (8=H) so 8 an be either Heil or Hitler. This phone number can then be decoded probably as “HEIL BIG RED.” 
 
 ### Point 10: The Blackshirts In Nebraska Make Sense  
-![](/assets/images/conspiracy/blackshirts-cities.png) 
+![](/assets/images/conspiracy/blackshirts-cities.jpg) 
 
 ### Point 11: Hollywood Is Following Along  
 
@@ -260,17 +260,17 @@ He said The First Order is as if the Nazis regrouped in Argentina and how that w
 
 Nebraska is Planet Naboo the home of the main characters.  
 
-![](/assets/images/starwars/planet-naboo.png)  
+![](/assets/images/starwars/planet-naboo.jpg)  
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://en.wikipedia.org/wiki/Naboo" data-iframely-url="//iframely.net/YmJsPdR?card=small"></a></div></div>   
 
-![](/assets/images/starwars/starwars.png)  
+![](/assets/images/starwars/starwars.jpg)  
 
 #### Planet Nibiru  
 
 Nebraska is also the Doomsday Planet Nibiru in Star Trek, home to the "primitive white people," a movie that JJ Abrams also directed.  
 
-![](/assets/images/starwars/planet-nibiru.png)  
+![](/assets/images/starwars/planet-nibiru.jpg)  
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.space.com/21165-star-trek-nibiru-doomsday-planet.html" data-iframely-url="//iframely.net/cV1NlxD?card=small"></a></div></div>  
 
@@ -309,7 +309,7 @@ The large amount of evidence in this document clearly shows how real the Neo-Naz
 ### Pirate Flag Confusion
 How the Blackshirts flags (all three of them) look like the basic pirate flag is often used to muddle a discussion. Don’t be confused. 
 
-![](/assets/images/conspiracy/pirate-flag.jpeg)
+![](/assets/images/conspiracy/pirate-flag.jpg)
 
 ## E.) Recap
 Before I conclude this document I want to quickly recap the points being made. There is a large number of connections that we can make between the University of Nebraska Blackshirts and Nazi Germany. Several of them, even the strong ones, appear to be coincidences or happenstance to the untrained reader. Others, like the use of the skull combined with the use of the term Blackshirts, are clearly not coincidences, and they shed light on the more coincidental evidence. 
@@ -340,11 +340,11 @@ I'm sure the Neo-nazi fans of Iron Sky and other space nazi enthusiasts love thi
 ### Facebook Group: Cornhusker Memes
 There is a popular Nebraska facebook group called Cornhusker memes with nearly 100,000 followers. Memes about Nebraska are posted by the group. The group's banner image is a popular Nazi meme that has been altered to be a Cornhusker meme. Link 
 
-![](/assets/images/conspiracy/nazi-moon.jpeg)
+![](/assets/images/conspiracy/nazi-moon.jpg)
 
-![](/assets/images/conspiracy/ne-memes.png)
+![](/assets/images/conspiracy/ne-memes.jpg)
 
-![](/assets/images/conspiracy/ne-memes-2.png)
+![](/assets/images/conspiracy/ne-memes-2.jpg)
 
 ### Warren Buffett
 Warren Buffett is a well known fan of the Cornhuskers. Do you think he can hold the world in his hands as the wealthiest man in the world, but he’s oblivious of the facts shared in his document? I doubt it. Think twice about this man. 
@@ -419,7 +419,7 @@ https://huskers.com/news/2018/1/26/211694410.aspx
 
 ### Depopulation 
 
-![](/assets/images/conspiracy/genocide.png)
+![](/assets/images/conspiracy/genocide.jpg)
 
 <a href="https://www.gmo.com/americas/research-library/chemical-toxicity-and-the-baby-bust/" data-iframely-url></a>
 
@@ -427,29 +427,29 @@ https://huskers.com/news/2018/1/26/211694410.aspx
 
 ### Corona Virus 
 
-![](/assets/images/conspiracy/nebraska-germany-nazis-unl-blackshirts-waffen-ss-resident-evil-lincoln-regional-corona-racoon-6-million-rotes-kreuz.png)
+![](/assets/images/conspiracy/nebraska-germany-nazis-unl-blackshirts-waffen-ss-resident-evil-lincoln-regional-corona-racoon-6-million-rotes-kreuz.jpg)
 
 ### Lincoln the new Washington 
 
-![](/assets/images/conspiracy/lincoln-washington.png) 
+![](/assets/images/conspiracy/lincoln-washington.jpg) 
 
 <a href="https://www.cbsnews.com/news/americans-rather-meet-lincoln-than-washington-opinion-poll/" data-iframely-url></a>
 
 ### Peru and Austria 
 
-![](/assets/images/conspiracy/peru-austria-nebraska.png)
+![](/assets/images/conspiracy/peru-austria-nebraska.jpg)
 
 <a href="https://www.sciencenews.org/article/elongated-heads-were-mark-elite-status-ancient-peruvian-society" data-iframely-url></a>
 
 ### Corona was intentionally released from the Nebraska Blackshirts location in China 
 
-![](/assets/images/conspiracy/israel-china-usa-virus-blackshirts-jew.png)
+![](/assets/images/conspiracy/israel-china-usa-virus-blackshirts-jew.jpg)
 
 <a href="https://www.dailymail.co.uk/news/article-10313053/Covid-19-UK-Wuhan-lab-leak-likely-origin-Covid-MPs-told.html" data-iframely-url></a>
 
 ### Twin Towers 
 
-![](/assets/images/conspiracy/911-center-2.png)
+![](/assets/images/conspiracy/911-center-2.jpg)
 
 <a href="https://canada.constructconnect.com/dcn/news/others/2020/05/world-trade-center-7-building-did-not-collapse-due-to-fire-report" data-iframely-url></a>
 
@@ -483,12 +483,12 @@ The recap shows clear and convincing evidence linking the UNL Blackshirts to all
 ### Imperial Japanese 
 At least a number of Imperial Japanese have joined their German allies as the Blackshirts in Nebraska. Hiro 88 is an upscale Japanese restaurant that only exists in Nebraska. It has locations in Omaha and Lincoln. Hiro as in Hirohito, the emperor of Japan during WW2.88 as in Heil Hitler or Hiro Hito, with H being the 8th letter of the alphabet. HH can also mean His Highness. 
 
-![](/assets/images/conspiracy/hiro-88.jpeg)
+![](/assets/images/conspiracy/hiro-88.jpg)
 
 
 <!-- ## H.) Suddenly, an individual appears   
 
-![](/assets/images/conspiracy/blobaum-bb.png)  
+![](/assets/images/conspiracy/blobaum-bb.jpg)  
 
 ### NAME:   
 Thomas J Blobaum  
@@ -498,25 +498,25 @@ July 25th, 1986
 7/25 is 14 days to 8/8   
 7/25/1986 is 14 years 14 months 14 days to 9/11/2001  
 
-![](/assets/images/conspiracy/9-11-bali-bomb-american-pie.png)  
+![](/assets/images/conspiracy/9-11-bali-bomb-american-pie.jpg)  
 
 <a href="https://thenewworldpost.com/politics/2022/02/22/9-11-sequence.html" data-iframely-url></a>
 
 ### They Each Have A Batman With A .22  
 
-![](/assets/images/conspiracy/batman.png)  
+![](/assets/images/conspiracy/batman.jpg)  
 
 <a href="https://en.wikipedia.org/wiki/Bat-Signal" data-iframely-url></a>
 
  -->
 
-<!-- ![](/assets/images/conspiracy/thomas.png)   -->
+<!-- ![](/assets/images/conspiracy/thomas.jpg)   -->
 
 <!-- ### Holy Moley   -->
 
-<!-- ![](/assets/images/conspiracy/cowboy-day.png)    -->
+<!-- ![](/assets/images/conspiracy/cowboy-day.jpg)    -->
 
 <!-- ## I.) Mashup 
 
-![](/assets/images/conspiracy/mashup.png)   -->
+![](/assets/images/conspiracy/mashup.jpg)   -->
 

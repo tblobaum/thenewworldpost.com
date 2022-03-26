@@ -5,7 +5,7 @@ title:  "New Nebraska Blackshirts Design Proposed"
 date:   2022-03-15 04:22:00 -0600
 categories: Politics 
 tags: Doomsday Fertility Infertility Crisis Health Nebraska Navel 
-featured-image: conspiracy/no-gmo-blackshirts.png
+featured-image: conspiracy/no-gmo-blackshirts.jpg
 featured-image-alt: New No GMO Blackshirts Design 
 dropcap: yes 
 featured: yes 
@@ -27,5 +27,5 @@ More specifically, the weapon of the Blackshirts is GMO Corn, and all GMO foods.
 
 <a href="http://thenewworldpost.com/health/usa/2022/02/21/sperm-counts-of-western-men-plummeting-analysis-finds.html" data-iframely-url></a>
 
-![](/assets/images/conspiracy/vader-corn.jpeg)
+![](/assets/images/conspiracy/vader-corn.jpg)
 
