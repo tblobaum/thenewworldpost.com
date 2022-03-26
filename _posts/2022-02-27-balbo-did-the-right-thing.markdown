@@ -5,7 +5,7 @@ title:  "Blackshirts' Italo Balbo did the right thing"
 date:   2021-08-22 1:11:11 -0600
 categories: World
 tags: Balbo Blackshirts 
-featured-image: savoia-marchetti.jpeg
+featured-image: savoia-marchetti.jpg
 featured-image-alt: 
 ---
 It seems like Italo Balbo just became residual shrapnel from the barrage of bullets the rest of the country is firing over what to do with the approximate 1,500 Confederate place names and other symbols in public spaces.

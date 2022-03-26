@@ -4,7 +4,7 @@ author: Thomas James Blobaum
 title: "World’s Tallest Bridge Opens"
 date: 2004-12-14 04:44:00 -0600
 categories: Politics
-featured-image: millau-viaduct.jpeg
+featured-image: millau-viaduct.jpg
 featured-image-alt: Millau Viaduct 
 ---
 FRANCE– The Millau Viaduct, designed by the English architect Lord Norman Foster, crosses the cloud-covered valley of the river Tarn in Millau.

@@ -5,7 +5,7 @@ title:  "Re-envisioning the US National Security Strategy in the Face of Runaway
 date:   2022-02-22 1:11:11 -0600
 categories: US Politics
 tags: Nixon
-featured-image: national-security.jpeg
+featured-image: national-security.jpg
 featured-image-alt: National Security Community 
 ---
 The biggest challenge to global stability and security cannot be addressed by major weapons systems. Deterrence strategies will not prevent it. More and more lethal warfighters can do nothing to overcome it. That challenge? Runaway population growth. Runaway population growth will continue to destabilize and undermine the security of key regions, and the global system, regardless of our investment in these traditional approaches to national security. It is time to think differently, and to reorient our national security enterprise to address this challenge before it destroys our planet and our species.

@@ -4,7 +4,7 @@ author:
 title: "Bali Bombing Plot"
 date: 2002-10-12 04:44:00 -0600
 categories: Politics
-featured-image: hindustan.jpeg
+featured-image: hindustan.jpg
 featured-image-alt: Hindustan Times 
 ---
 BALI– Two bombs ripped through the Kuta area of the Indonesian tourist island of Bali on 12 October 2002, leaving 202 people dead. Among those killed at Paddy’s Irish Bar and the nearby Sari Club were people from 21 countries, including 88 Australians, 38 Indonesians and 28 Britons. BBC News looks at the background to the bombings 10 years on.

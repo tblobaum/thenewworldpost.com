@@ -4,7 +4,7 @@ author:
 title: "Saddam Hussein Captured"
 date: 2003-11-13 04:44:00 -0600
 categories: Politics
-featured-image: saddam.jpeg
+featured-image: saddam.jpg
 featured-image-alt: Saddam Hussein
 ---
 BAGHDAD– The sequel to 9/11 following the Bali bomb on 10/12/2. After spending nine months on the run, former Iraqi dictator Saddam Hussein is captured on December 13, 2003. Saddam’s downfall began on March 20, 2003, when the United States led an invasion force into Iraq to topple his government, which had controlled the country for more than 20 years.

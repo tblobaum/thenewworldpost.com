@@ -4,7 +4,7 @@ author: Radio Free Europe / Radio Liberty
 title:  "U.S. House To Vote On Iraq Resolution"
 date:   2007-02-16 04:44:00 -0600
 categories: Politics
-featured-image: us-house.jpeg
+featured-image: us-house.jpg
 featured-image-alt: U.S. House
 ---
 U.S. Congressman John Murtha (file photo) (epa) February 16, 2007 (RFE/RL) -- The U.S. House of Representatives is expected to vote later today on a nonbinding resolution to oppose President George W. Bush's troop surge for Iraq.

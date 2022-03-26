@@ -5,7 +5,7 @@ title:  "20 dead as bombs target Sunday Mass in Philippine cathedral"
 date: 2019-01-27 04:44:00 -0600
 categories: Politics
 tags: Politics
-featured-image: jolo.jpeg
+featured-image: jolo.jpg
 featured-image-alt: Jolo
 ---
 Two bombs minutes apart have torn through a Roman Catholic cathedral on a southern Philippine island where Muslim militants are active, killing at least 20 people and wounding 81 others during a Sunday Mass

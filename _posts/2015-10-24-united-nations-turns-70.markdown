@@ -5,7 +5,7 @@ title:  "Over 200 landmarks to light up blue on UN’s 70th anniversary coincidi
 date: 2015-10-24 04:44:00 -0600
 categories: Politics
 tags: Politics
-featured-image: famous-landmark-in-australia.jpeg
+featured-image: famous-landmark-in-australia.jpg
 featured-image-alt: Sydney Opera House 
 ---
 UN Secretary-General Ban Ki-moon expressed hope that "by turning the world UN blue for a day, we can light a way to a better tomorrow."

@@ -5,7 +5,7 @@ title:  "RusAir Tupolev Tu-134 passenger jet crashes on anniversary of 9/11"
 date: 2011-06-20 04:44:00 -0600
 categories: Politics
 tags: Politics
-featured-image: rusair.jpeg
+featured-image: rusair.jpg
 featured-image-alt: RusAir
 ---
 The Russian Interstate Aviation Committee (IAC) published the final report of their investigation into the fatal accident involving a Tupolev 134 jetliner at Petrozavodsk, Russia, blaming poor decision making in below-minima weather conditions.

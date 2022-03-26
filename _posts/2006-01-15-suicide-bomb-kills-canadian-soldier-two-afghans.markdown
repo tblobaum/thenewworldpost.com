@@ -4,7 +4,7 @@ author:
 title:  "Suicide Bomb attack on Canadian Soldiers is sequel to 9/11"
 date: 2006-01-15 04:44:00 -0600
 categories: Politics
-featured-image: kandahar.jpeg
+featured-image: kandahar.jpg
 featured-image-alt: Suicide Bomb
 ---
 A Canadian soldier and two Afghan civilians were killed today when a suspected suicide bomber rammed a car into a convoy of Canadian troops in central Kandahar.

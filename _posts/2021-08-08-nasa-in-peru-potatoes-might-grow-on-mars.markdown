@@ -5,7 +5,7 @@ title:  "NASA in Peru: Potatoes might grow on Mars"
 date:   2021-08-08 1:11:11 -0600
 categories: World
 tags: 
-featured-image: mars-base.jpeg
+featured-image: mars-base.jpg
 featured-image-alt: Mars Base 
 ---
 Lima (Peru) The International Potato Center (CIP) launched a series of experiments to discover if potatoes can grow under Mars atmospheric conditions and thereby prove they are also able to grow in extreme climates on Earth.

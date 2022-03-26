@@ -5,7 +5,7 @@ title:  "Corn Wars"
 date:   2015-08-08 04:20:00 -0600
 categories: World 
 tags: 
-featured-image: corn-wars.jpeg
+featured-image: corn-wars.jpg
 featured-image-alt: Corn Wars 
 ---
 The farm-by-farm fight between China and the United States to dominate the global food supply. 

@@ -122,4 +122,4 @@ In a more casual setting, say sitting around watching a game with friends, Riley
 
 “I’m not sure anybody ever believes me. It’s just, you know, that’s too weird.”
 
-![](/assets/images/conspiracy/football.png)
+![](/assets/images/conspiracy/football.jpg)

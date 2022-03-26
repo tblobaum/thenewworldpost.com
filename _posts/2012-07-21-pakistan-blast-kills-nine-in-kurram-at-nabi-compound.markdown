@@ -5,7 +5,7 @@ title:  "Pakistan blast 'kills nine' in Kurram at Nabi compound"
 date: 2012-07-21 04:44:00 -0600
 categories: Politics
 tags: Politics
-featured-image: pakistan.gif
+featured-image: pakistan.jpg
 featured-image-alt: Pakistan
 ---
 A suicide bomb attack has killed at least nine people in north-western Pakistan, officials say.

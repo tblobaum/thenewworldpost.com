@@ -5,7 +5,7 @@ title:  "How to Change Your Accent to Sound As Posh As the Queen"
 date:   2022-02-14 04:44:00 -0600
 categories: USA Britain 
 tags: RP American
-featured-image: general-american-accent.png
+featured-image: general-american-accent.jpg
 featured-image-alt: General American
 ---
 You can make people believe you’re as posh as the Queen just by altering your accent. 

@@ -5,7 +5,7 @@ title:  "US, Arab allies launch first wave of strikes in Syria on 2014 sequel to
 date: 2014-09-23 04:44:00 -0600
 categories: Politics
 tags: Politics
-featured-image: tomahawk.jpeg
+featured-image: tomahawk.jpg
 featured-image-alt: Tomahawk
 ---
 The United States, joined by several Arab allies, launched an intense campaign of airstrikes, bombings and cruise-missile attacks against Islamic State targets in Syria Monday night – marking the first U.S. military intervention in Syria since the start of that country’s civil war.
@@ -30,7 +30,8 @@ Because the United States had stayed out of the Syria conflict for so long, the 
 
 Pentagon Press Secretary Rear Adm. John Kirby released a statement Monday night saying, "I can confirm that U.S. military and partner nation forces are undertaking military action against ISIL terrorists in Syria using a mix of fighter, bomber and Tomahawk Land Attack Missiles.
 
-"Given that these operations are ongoing, we are not in a position to provide additional details at this time. The decision to conduct theses strikes was made earlier today by the U.S. Central Command commander under authorization granted him by the commander in chief. "
+"Given that these operations are ongoing, we are not in a position to provide additional details at this time. The decision to conduct theses strikes was made earlier today by the U.S. Central Command commander under authorization granted him by the commander in chief."
+
 Source: Fox News
 
 See also: 

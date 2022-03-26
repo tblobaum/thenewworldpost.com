@@ -5,7 +5,7 @@ title:  "Scores killed in Iran train collision"
 date: 2016-11-25 04:44:00 -0600
 categories: Politics
 tags: Politics
-featured-image: train-collision.png
+featured-image: train-collision.jpg
 featured-image-alt: Train
 ---
 Semnan–Damghan train collision: Two passenger trains collide in Iran's Semnan Province resulting in at least 44 deaths and 100 people injured. (Reuters) (New York Times) (AP via Daily Mail)

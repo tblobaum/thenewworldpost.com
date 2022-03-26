@@ -5,7 +5,7 @@ title:  "It’s Probably Time For Nebraska To Retire The “Blackshirts” Nickn
 date:   2022-01-01 04:44:00 -0600
 categories: Nebraska 
 tags: Blackshirts Politics
-featured-image: blackshirts.jpeg
+featured-image: blackshirts.jpg
 featured-image-alt: Blackshirts 
 ---
 LINCOLN, NEBRASKA– One fateful day in the fall of 1964, Huskers assistant coach Mike Corgan walked into a discount athletic supply store in Lincoln and walked out with a set of black pullover jerseys. Head Coach Bob Devaney had recently made the decision to enter the 20th century by playing different squads on offense and defense, and needed some way to distinguish his defensive players from the offensive starters during practices. But not everyone on defense got a black jersey – only those who earned the right to be on the starting squad. The legend of the "black shirts" (as they were originally known) was born.

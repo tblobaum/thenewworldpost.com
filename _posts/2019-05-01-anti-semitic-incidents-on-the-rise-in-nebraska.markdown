@@ -4,7 +4,7 @@ author: Thomas James Blobaum
 title:  "Anti-Semitic Incidents on the Rise in Nebraska"
 date:   2019-05-01 04:20:00 -0600
 categories: US
-featured-image: cemetary-swastika.jpeg
+featured-image: cemetary-swastika.jpg
 featured-image-alt: Nebraska is in the center of the continent 
 dropcap: off 
 ---

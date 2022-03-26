@@ -4,7 +4,7 @@ author: Thomas James Blobaum
 title:  "FBI warned of white supremacists in law enforcement"
 date:   2022-02-22 04:44:00 -0600
 categories: Politics  
-featured-image:  fbi.jpeg 
+featured-image:  fbi.jpg 
 featured-image-alt:  FBI 
 ---
 Increased attention toward the killing of black men and women by police throughout the past year has ignited national conversations on racism and law enforcement. From Freddie Gray in April 2015 to Deborah Danner — an “emotionally disturbed” woman fatally shot this week by an NYPD officer — protests around the country have forced many Americans to reassess how police engage with communities of color.

@@ -5,7 +5,7 @@ title:  "First Case of 'Swine flu' pandemic 2009 to 2010 on the next sequel to 9
 date: 2009-04-18 04:44:00 -0600
 categories: Politics
 tags: Politics
-featured-image: swine-flu.jpeg
+featured-image: swine-flu.jpg
 featured-image-alt: Swine Flu 
 ---
 The virus was first identified in Mexico in April 2009. It became known as swine flu because it's similar to flu viruses that affect pigs.

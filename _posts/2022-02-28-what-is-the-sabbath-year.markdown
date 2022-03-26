@@ -5,7 +5,7 @@ title:  "What Is The Sabbath Year?"
 date:   2022-02-02 04:20:00 -0600
 categories: World
 tags: Judaism Jews 
-featured-image: sabbath-year.png
+featured-image: sabbath-year.jpg
 featured-image-alt: Sabbath Year 
 dropcap: yes
 featured: yes  

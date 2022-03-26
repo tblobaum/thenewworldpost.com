@@ -5,7 +5,7 @@ title:  "Sperm Counts of Western Men Plummeting, Analysis Finds"
 date:   2022-02-21 04:44:00 -0600
 categories: Health USA 
 tags: Fertility USA Nixon  
-featured-image: sperm.jpeg
+featured-image: sperm.jpg
 featured-image-alt: Sperm
 ---
 Sperm counts of men in North America, Europe, Australia and New Zealand are plunging, according to a new analysis published Tuesday.

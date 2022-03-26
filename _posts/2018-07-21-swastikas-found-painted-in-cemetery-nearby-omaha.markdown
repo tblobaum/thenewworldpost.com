@@ -5,7 +5,7 @@ title:  "Swastikas Found Painted in Cemetery Nearby Omaha"
 date:   2018-07-21 04:20:00 -0600
 categories: USA  
 tags: Blackshirts Nazis Nebraska 
-featured-image: blume-swastika.png
+featured-image: blume-swastika.jpg
 featured-image-alt: Swastika
 ---
 Neighbors who found two swastikas painted inside the Garner Township Cemetery Sunday morning were shocked to see the racist graffiti, but not surprised someone vandalized the cemetery.

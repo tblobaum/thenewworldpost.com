@@ -4,7 +4,7 @@ author: France 24
 title: "Dozens killed in Karbala shrine attack is another 9/11 sequel"
 date:  2008-03-17 04:44:00 -0600
 categories: Politics
-featured-image: hussain.jpeg
+featured-image: hussain.jpg
 featured-image-alt: Imam Hussein shrine karbala
 ---
 A female suicide bomber killed at least 36 people and wounded dozens in an attack in the holy Shiite city of Karbala in southern Iraq, police said on Monday. Said Rafi reports from Baghdad.

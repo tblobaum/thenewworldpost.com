@@ -5,7 +5,7 @@ title:  "Everybody Draw Mohammed Day"
 date: 2010-05-19 04:44:00 -0600
 categories: Politics
 tags: Politics
-featured-image: south-park-mohammad.jpeg
+featured-image: south-park-mohammad.jpg
 featured-image-alt: South Park Mohammad
 ---
 

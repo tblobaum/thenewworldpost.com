@@ -5,7 +5,7 @@ title:  "‘Civilians killed’ in Saudi raids in Yemen’s Taiz"
 date: 2017-12-26 04:44:00 -0600
 categories: Politics
 tags: Politics
-featured-image: taiz.png
+featured-image: taiz.jpg
 featured-image-alt: Taiz
 ---
 At least 20 people killed and dozens more wounded in raids on market in southwest Taiz province, sources say.

@@ -4,7 +4,7 @@ author: Thomas James Blobaum
 title:  "Jeremy Grantham Warns Only The Rich Will Procreate As Chemicals Leave The Poor Sterile"
 date:   2020-02-25 04:20:00 -0600
 categories: USA Politics
-featured-image: jeremy-grantham.jpeg
+featured-image: jeremy-grantham.jpg
 featured-image-alt: Jeremy Grantham 
 ---
 USA– High-profile investor Jeremy Grantham warned in a letter that falling birth rates in the developed world could accelerate in coming years due to increasing chemical toxicity, allowing only wealthy people to have children.

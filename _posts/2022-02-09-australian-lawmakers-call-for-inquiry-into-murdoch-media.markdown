@@ -4,7 +4,7 @@ author: Thomas James Blobaum
 title:  "Australian lawmakers call for inquiry into Murdoch media"
 date:   2021-09-12 04:44:00 -0600
 categories: Australia World Murdoch
-featured-image: murdoch.jpeg
+featured-image: murdoch.jpg
 featured-image-alt: Rupert Murdoch 
 ---
 Sydney– Australian lawmakers Thursday backed calls for a full judicial inquiry into media ownership, at the end of their own year-long investigation sparked by a record-breaking petition demanding a probe into Rupert Murdoch's dominance of the sector.

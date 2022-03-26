@@ -5,7 +5,7 @@ title: "'Nazi Political Applications' Handed Out in Indiana on 8/8"
 date: 2020-08-08 04:20:00 -0600
 categories: Politics 
 tags: Indiana Nazi Swastika 
-featured-image: nazi-indiana.jpeg
+featured-image: nazi-indiana.jpg
 featured-image-alt: Indiana Nazis  
 dropcap: no 
 featured: yes
@@ -66,7 +66,7 @@ Many condemned the men in the picture, saying they were "traitors" and noting th
 
 Another person wrote: "What's with all the love for being on the losing side? My great-grandfather crewed in a Lancaster bomber fighting for the cause of justice and freedom and this is what people do with his service? Shame on them."
 
-And another added: "Both of my grandfathers gave up the best years of their youth to rid the world of these a**holes. They are spinning (in) their graves. What. The. Actual. F**k."
+And another added: "Both of my grandfathers gave up the best years of their youth to rid the world of these a$^holes. They are spinning (in) their graves. What. The. Actual. F%*k."
 
 One commenter noted that the men in the picture had been emboldened by President Donald Trump's rhetoric. "Trump gave this the green light. He welcomes it. We have so far to go," they wrote.
 

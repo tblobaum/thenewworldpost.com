@@ -5,7 +5,7 @@ title:  "777 New COVID-19 Cases In Nebraska"
 date:   2021-12-18 04:20:00 -0600
 categories: Nebraska
 tags: Blackshirts 
-featured-image: nebraska-virus.png
+featured-image: nebraska-virus.jpg
 featured-image-alt: Nebraska Coronavirus 
 dropcap: off 
 ---

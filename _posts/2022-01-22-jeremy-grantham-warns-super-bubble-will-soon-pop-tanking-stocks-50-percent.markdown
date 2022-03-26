@@ -5,7 +5,7 @@ title:  "Jeremy Grantham warns ‘super bubble’ will soon pop, tanking stocks 
 date:   2022-01-21 04:20:00 -0600 
 categories: Politics 
 tags: Grantham DOW Doomsday 
-featured-image: bear.png 
+featured-image: bear.jpg 
 featured-image-alt: 
 dropcap: no
 featured: yes

@@ -5,7 +5,7 @@ title:  "Israeli space chief says aliens may well exist, but they haven’t met 
 date:   2021-08-08 1:11:11 -0600
 categories: World
 tags: 
-featured-image: ngc-4866.png
+featured-image: ngc-4866.jpg
 featured-image-alt: NGC 4866
 ---
 NGC 4866, a lenticular galaxy, is shown in this NASA handout provided on July 19, 2013. Situated about 80 million light-years from earth, this image was captured by the Advanced Camera for Surveys, an instrument on the NASA/ESA Hubble Space Telescope. 

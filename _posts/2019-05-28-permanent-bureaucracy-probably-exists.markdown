@@ -4,7 +4,7 @@ author: Thomas James Blobaum
 title:  "‘Permanent Bureaucracy’ Probably Exists"
 date:   2019-05-28 04:20:00 -0600
 categories: Politics 
-featured-image: fox-news-screenshot.png
+featured-image: fox-news-screenshot.jpg
 featured-image-alt: Fox 
 dropcap: on
 ---
@@ -29,7 +29,5 @@ Carlson said he believed Americans could discover details about the origins of S
 “We wouldn’t have to take anyone’s word for what happened,” Carlson claimed.
 
 This article first appeared on Fox News.
-
-This article first appeared on Unknown. 
 
 <a href="http://thenewworldpost.com/" data-iframely-url></a>

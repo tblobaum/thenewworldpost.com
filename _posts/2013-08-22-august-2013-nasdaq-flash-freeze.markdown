@@ -5,7 +5,7 @@ title:  "August 2013 NASDAQ flash freeze is another sequel to 9/11"
 date: 2013-08-22 04:44:00 -0600
 categories: Politics
 tags: Politics
-featured-image: nasdaq.jpeg
+featured-image: nasdaq.jpg
 featured-image-alt: NASDAQ
 ---
 For three hours on August 22, 2013, trading was halted on the Nasdaq Stock Market. 
