@@ -1,12 +1,13 @@
 ---
 layout: post
 author: Thomas James Blobaum 
-title:  "'Doomsday Planet' Nibiru Has Cameo in 'Star Trek Into Darkness'"
-date:   2013-05-17 04:44:00 -0600
+title: "Doomsday Planet Nibiru Has Cameo in Star Trek Into Darkness"
+date: 2013-05-17 04:44:00 -0600
 categories: USA
 featured-image: planet-nibiru.jpg
 featured-image-alt: Planet Nibiru
-tags: Nibiru StarTrek
+tags: Nibiru "Star Trek"
+source: https://www.space.com/21165-star-trek-nibiru-doomsday-planet.html 
 ---
 The new "Star Trek" film warped into on Thursday (May 16) and space enthusiasts may find something familiar in the opening scenes of the fictional universe: a made-up planet named Nibiru.
 
@@ -39,7 +40,3 @@ Chambliss used his own real-world experiences to inspire the look and feel of Ni
 "Everyone wanted the island planet to have a seductive atmosphere, and one thing that I remembered from my travels in Hawaii is what they call 'lipstick bamboo,' which is dark red and otherworldly, so that made me think, what if this planet was all red?" he explained. "There was something wonderful to that, combined with the deep turquoise blue water and white sand. It was not only a striking color palette, but it had that retro vibe which we embrace in our 'Star Trek' storytelling. And then we developed a whole cultural atmosphere around that."
 
 "Star Trek Into Darkness" is directed by J.J. Abrams and stars Chris Pine, Zachary Quinto, Zoe Saldana and Benedict Cumberbatch.
-
-Source: Space
-
-<a href="https://www.space.com/21165-star-trek-nibiru-doomsday-planet.html" data-iframely-url></a>

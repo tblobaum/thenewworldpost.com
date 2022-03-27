@@ -1,9 +1,10 @@
 ---
 layout: post 
-author: 
-title:  "Darwinius: The 47 Million Year Old Primate From Germany"
-date:   2022-01-05 22:33:44 -0600
+author: staff  
+title: "Darwinius: The 47 Million Year Old Primate From Germany"
+date: 2022-01-05 22:33:44 -0600
 categories: Science
+tags: Darwinius Germany 
 featured-image: darwinius.jpg
 featured-image-alt: Darwinius 
 ---

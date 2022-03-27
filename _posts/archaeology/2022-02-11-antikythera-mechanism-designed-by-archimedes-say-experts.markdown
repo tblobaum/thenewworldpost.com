@@ -1,8 +1,8 @@
 ---
 layout: post 
-author: Thomas James Blobaum 
-title:  "Antikythera Mechanism Designed by Archimedes, Say Experts"
-date:   2022-02-11 22:33:44 -0600
+author: tblobaum 
+title: "Antikythera Mechanism Designed by Archimedes, Say Experts"
+date: 2022-02-11 22:33:44 -0600
 categories: Science
 tags: Archaeology Antikythera Greece Archimedes
 featured-image: antikythera.jpg 

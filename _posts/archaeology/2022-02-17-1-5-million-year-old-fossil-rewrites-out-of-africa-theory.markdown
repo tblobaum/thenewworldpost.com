@@ -1,9 +1,10 @@
 ---
 layout: post 
-author: Thomas James Blobaum 
-title:  "1.5 million-year-old fossil rewrites 'Out of Africa' theory"
-date:   2022-02-17 22:33:44 -0600
+author: tblobaum 
+title: "1.5 million-year-old fossil rewrites 'Out of Africa' theory"
+date: 2022-02-17 22:33:44 -0600
 categories: Science
+tags: Archaeology Israel 
 featured-image: israel-neanderthals.jpg
 featured-image-alt: Israel Neanderthals 
 ---

@@ -19,15 +19,10 @@ layout: default
       </span>
     </p>
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      {%- if page.username -%} 
-        <img class="avatar avatar-small" src="https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=40" alt="{{ page.username }}" srcset="https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=40 1x, https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=80 2x, https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=120 3x, https://avatars3.githubusercontent.com/{{ page.username }}?v=3&amp;s=160 4x" width="40" height="40" />
-      {%- else -%}
-        {% octicon person height:16 class:"" aria-label:hi %} &nbsp; 
-      {%- endif -%}
-      {%- if page.author -%} 
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name"><a href="https://github.com/{{ page.username }}">{{ page.author }}</a></span></span>
-      {%- endif -%} 
+    <p class="post-meta"> 
+      
+      {%- include byline.html -%}  
+
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%-m/%-d/%Y"  -%}  
         &nbsp;&nbsp;{% octicon clock height:16 class:"" aria-label:hi %} &nbsp;
@@ -46,6 +41,8 @@ layout: default
   <div class="post-content e-content {% if page.dropcap %}dropcap{% endif %}" itemprop="articleBody">
     {{ content }}
 
+    
+    {%- if post.tags -%} 
     <div class="post-tags">
       {% octicon tag height:24 class:"right left" aria-label:hi %}
       {% if post %}
@@ -58,12 +55,43 @@ layout: default
       {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %} 
     </div>
+    {%- endif -%}
 
-    <br> 
+    
+    {%- if page.source -%} 
+
+      <h1 class="archives-header">
+        Source 
+        <div class="right">{% octicon link height:24 class:"right left" aria-label:Comment %}</div>
+      </h1>
+      <p><a href="{{ page.source }}" data-iframely-url></a></p>
+
+    {%- elsif page.author -%}
+
+      {% for person in site.authors %}
+        {% if person.github == page.author %}
+          <h1 class="archives-header">
+            Author <span>{{ person.name }}</span>
+            <div class="right">{% octicon person height:24 class:"right left" aria-label:Author %}</div>
+          </h1>
+
+          <a href="{{ site.baseurl }}{{ person.url }}" data-iframely-url></a>
+        {% endif %}
+      {% endfor %}
+    {%- else -%}
+
+    {%- endif -%}
+
+    {%- if page.comments == false -%}
+      <h1 class="archives-header">
+        Comments <span>closed</span>
+        <div class="right">{% octicon stop height:24 class:"right left" aria-label:Comment %}</div>
+      </h1>
+    {%- else -%}
 
     <h1 class="archives-header">
       Comment <span><small>with GitHub</small></span>
-      <div class="right">{% octicon comment height:24 class:"right left" aria-label:hi %}</div>
+      <div class="right">{% octicon comment height:24 class:"right left" aria-label:Comment %}</div>
     </h1>
     <script src="https://utteranc.es/client.js"
         repo="tblobaum/thenewworldpost.com"
@@ -72,11 +100,12 @@ layout: default
         crossorigin="anonymous"
         async>
     </script>
+    {%- endif -%}
     
     <form action="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}{{ site.github.source.path }}/{{ page.path }}">
-      <button class="btn btn-secondary right" type="submit" style="line-height:16px;">{% octicon tools height:16 class:"right left" aria-label:hi %} &nbsp; Suggest a correction</button>
+      <button class="btn btn-secondary right" type="submit" style="line-height:16px;">{% octicon tools height:16 class:"right left" aria-label:Edit %} &nbsp; Suggest a correction</button>
     </form>
-    <br> <br> <br> 
+    <br> <br> 
     
     <div class="w100 ">
       <div class="w100">
@@ -84,75 +113,78 @@ layout: default
       </div>
     </div> 
 
-    <br> <br>
+    {%- if site.disqus.shortname -%}
+      {%- include disqus_comments.html -%}
+    {%- endif -%}
+
+    <br> 
+
+    {% if post %}
+    {% assign categories = post.categories %}
+    {% else %}
+    {% assign categories = page.categories %}
+    {% endif %}
+    {% for category in categories %}
+    {% if forloop.last %}
+    <div class="w100 ">
+      <h1 class="archives-header">
+        {{category}}
+     <span>Posts</span>
+        {% octicon globe height:24 class:"right" aria-label:hi %}
+      </h1>
+      <ul class="left post-list posts archives box">
+          {% for post in site.posts offset:0 limit:99 %} 
+            {% if post.categories contains category or post.category == category %}
+              {% include postbox.html %}
+            {% endif %}   
+          {% endfor %} 
+      </ul> 
+    </div>
+    {% endif %}
+    {% endfor %}
+    
+    {% if post %}
+    {% assign tags = post.tags %}
+    {% else %}
+    {% assign tags = page.tags %}
+    {% endif %}
+    {% for tag in tags %}
+    {% if forloop.first %}
+    <div class="w100">
+      <h1 class="archives-header">
+        {{tag}} <span>Posts</span>
+        {% octicon tag height:24 class:"right" aria-label:hi %}
+      </h1>
+      <ul class="left post-list posts archives box">
+          {% for post in site.posts limit: 999 %}
+              {% if post.tags contains tag or post.tag == tag %}
+                  {% include postbox.html %}
+              {% endif %} 
+          {% endfor %} 
+      </ul> 
+    </div>
+    {% endif %}
+    {% if forloop.last %} {% endif %}
+    {% endfor %} 
+    
+    <div class="w100">
+      <h1 class="archives-header">
+        Latest <span>Posts</span>
+        {% octicon flame height:24 class:"right" aria-label:hi %}
+      </h1>
+      <ul class="left post-list posts archives box">
+          {% for post in site.posts offset:0 limit:4 %} 
+            {% include postbox.html %} 
+          {% endfor %} 
+      </ul> 
+    </div>
+
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 
+
 </article>
-
-<div class="w75 right post-container-box">
-  <h1 class="archives-header">
-    Latest <span>Posts</span>
-    {% octicon flame height:24 class:"right" aria-label:hi %}
-  </h1>
-  <ul class="left post-list posts archives box">
-      {% for post in site.posts offset:0 limit:4 %} 
-        {% include postbox.html %} 
-      {% endfor %} 
-  </ul> 
-</div>
-
-{% if post %}
-{% assign categories = post.categories %}
-{% else %}
-{% assign categories = page.categories %}
-{% endif %}
-{% for category in categories %}
-{% if forloop.last %}
-<div class="w75 right post-container-box">
-  <h1 class="archives-header">
-    {{category}}
- <span>Posts</span>
-    {% octicon globe height:24 class:"right" aria-label:hi %}
-  </h1>
-  <ul class="left post-list posts archives box">
-      {% for post in site.posts offset:0 limit:99 %} 
-        {% if post.categories contains category or post.category == category %}
-          {% include postbox.html %}
-        {% endif %}   
-      {% endfor %} 
-  </ul> 
-</div>
-{% endif %}
-{% endfor %}
-
-{% if post %}
-{% assign tags = post.tags %}
-{% else %}
-{% assign tags = page.tags %}
-{% endif %}
-{% for tag in tags %}
-{% if forloop.first %}
-<div class="w75 right post-container-box">
-  <h1 class="archives-header">
-    {{tag}} <span>Posts</span>
-    {% octicon tag height:24 class:"right" aria-label:hi %}
-  </h1>
-  <ul class="left post-list posts archives box">
-      {% for post in site.posts limit: 999 %}
-          {% if post.tags contains tag or post.tag == tag %}
-              {% include postbox.html %}
-          {% endif %} 
-      {% endfor %} 
-  </ul> 
-</div>
-{% endif %}
-{% if forloop.last %} {% endif %}
-{% endfor %} 
 
 

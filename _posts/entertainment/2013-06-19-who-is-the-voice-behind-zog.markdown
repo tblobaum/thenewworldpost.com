@@ -1,11 +1,15 @@
 ---
 layout: post 
 author: Thomas James Blobaum 
-title:  "Who Is the Voice Behind Zog?"
-date:   2021-04-17 04:20:00 -0600
+title: "Who Is the Voice Behind Zog?"
+date: 2021-04-17 04:20:00 -0600
 categories: Entertainment
+tags: ZOG Disenchantment 
 featured-image: disenchantment.jpg
 featured-image-alt: ZOG
+dropcap: no 
+featured: no 
+source: https://www.cheatsheet.com/entertainment/disenchantment-who-is-the-voice-behind-king-zog.html/
 ---
 HOLLYWOOD– Disenchantment is a popular animated series on Netflix. What makes the show as strong as it is are the well-told storylines that feature great character development along with funny jokes. 
 
@@ -49,9 +53,3 @@ For example, the voice of Fry, Billy West, is also in this show’s cast. Accord
 Fans of that show many remember DiMaggio as the gruff voice of the robot Bender on Futurama. But DiMaggio has had a long, illustrious career as a voice actor outside of the Groening animated universe. According to IMDb he’s also appeared in DuckTales, Rick and Morty, and played Batman villain the Joker among many other roles. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8QpnSzuBTh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Source: Showbiz Cheatsheet
-
-<a href="https://www.cheatsheet.com/entertainment/disenchantment-who-is-the-voice-behind-king-zog.html/" data-iframely-url></a>
-
-

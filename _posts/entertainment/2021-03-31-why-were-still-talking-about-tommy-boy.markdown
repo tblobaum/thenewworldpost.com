@@ -1,11 +1,15 @@
 ---
 layout: post
-author: Thomas James Blobaum 
-title:  "Why We’re Still Talking About Tommy Boy"
-date:   2021-03-31 04:20:00 -0600
-categories: Nebraska Entertainment
+author: tblobaum
+title: "Why We’re Still Talking About Tommy Boy"
+date: 2021-03-31 04:20:00 -0600
+categories: Entertainment
+tags: Nebraska Tommy 
 featured-image: tommy-boy.jpg
 featured-image-alt: Tommy Boy 
+dropcap: yes
+featured: no 
+source: https://www.esquire.com/entertainment/movies/a35994972/tommy-boy-25th-anniversary-essay/
 ---
 Twenty five years later, this Chris Farley and David Spade cult classic is a perfect example of the timeless allure of the big, dumb, critic-proof buddy comedy.
 There’s something oddly comforting about a big, stupid comedy about a couple of dim bulbs on a dumb-and-dumber quest oblivious to the wider world of adulthood. From Martin and Lewis to Cheech and Chong, right up through Bill and Ted and Wayne and Garth, these idiot buddy movies are pure check-your-head-at-the-door escapism, offering the rare chance to regress back into childhood, when nothing seemed more important than the bond of friendship and nothing was funnier than a well-timed fart joke. 
@@ -31,9 +35,3 @@ Tommy Boy is one of those movies that plays like an explosion down at the screen
 The movie is an assembly of clichés and obligatory scenes from dozens of other movies, all are better. It has only one original idea, and that’s a bad one: The inspiration of making the hero’s sidekick into, simultaneously, his buddy, his critic and his rival.
 
 I’ll respectfully disagree. Audiences, for the most part, did too. Tommy Boy opened at No. 1 at the box office and went on to make $32.7 million on a budget of $20 million. That didn’t make it a huge hit. But over time, as the film slowly snowballed into a cult classic thanks to the appeals court of home video, it would make many, many millions more and become nearly as quotable as rewatchables like Fletch and Billy Madison. In the meantime, Spade and Farley would follow up Tommy Boy with 1996’s Black Sheep (no, I’m not going to make a doomed contrarian case for that one). Still, there’s so much that’s so good in Tommy Boythat two-and-a-half decades later, it’s a shame that Farley’s tragic drug-OD death in 1997 robbed us of the chance to see if he and Spade might have had a couple more Tommy Boys up the sleeve of that little coat.
-
-Source: Esquire
-
-<a href="https://www.esquire.com/entertainment/movies/a35994972/tommy-boy-25th-anniversary-essay/" data-iframely-url></a>
-
-

@@ -1,9 +1,10 @@
 ---
 layout: post
-author: Thomas James Blobaum 
-title:  "Nebra Sky Disk Not So Old After All"
-date:   2022-01-25 04:44:00 -0600
+author: tblobaum 
+title: "Nebra Sky Disk Not So Old After All"
+date: 2022-01-25 04:44:00 -0600
 categories: Science 
+tags: Nebra Navel Archaeology Germany 
 featured-image: nebra-sky-disk.jpg
 featured-image-alt: Nebra Sky Disk 
 ---

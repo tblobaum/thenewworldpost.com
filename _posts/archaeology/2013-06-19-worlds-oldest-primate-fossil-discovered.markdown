@@ -1,9 +1,10 @@
 ---
 layout: post 
-author: Thomas James Blobaum 
-title:  "World’s Oldest Primate Fossil Discovered"
-date:   2013-06-19 22:33:44 -0600
+author: tblobaum 
+title: "World’s Oldest Primate Fossil Discovered"
+date: 2013-06-19 22:33:44 -0600
 categories: Science
+tags: China 
 featured-image: archicebus.jpg
 featured-image-alt: Archicebus
 ---

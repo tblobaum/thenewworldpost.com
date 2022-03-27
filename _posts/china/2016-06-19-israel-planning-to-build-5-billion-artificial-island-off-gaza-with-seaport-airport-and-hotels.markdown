@@ -1,10 +1,10 @@
 ---
 layout: post 
-author: Thomas James Blobaum 
-title:  "Israel Planning To Build $5 Billion Artificial Island Off Gaza With Seaport, Airport And Hotels"
-date:   2016-06-19 1:11:11 -0600
+author: tblobaum 
+title: "Israel Planning To Build $5 Billion Artificial Island Off Gaza With Seaport, Airport And Hotels"
+date: 2016-06-19 1:11:11 -0600
 categories: World
-tags: 
+tags: Israel China 
 featured-image: israel-island.jpg
 featured-image-alt: New Island
 dropcap: off 

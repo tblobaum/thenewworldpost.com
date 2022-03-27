@@ -11,8 +11,10 @@ layout: default
     {{ content }}
   </div>
   
-  <form action="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}{{ site.github.source.path }}/{{ page.path }}">
-    <button class="btn btn-secondary right" type="submit" style="line-height:16px;">{% octicon tools height:16 class:"right left" aria-label:hi %} &nbsp; Suggest a correction</button>
-  </form>
+  <div class="post-content">
+    <form action="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}{{ site.github.source.path }}/{{ page.path }}">
+      <button class="btn btn-secondary left" type="submit" style="line-height:16px;">{% octicon tools height:16 class:"right left" aria-label:hi %} &nbsp; Suggest a correction</button>
+    </form>
+  </div>
 
 </article>

@@ -1,13 +1,15 @@
 ---
 layout: post
-author: Thomas James Blobaum 
+author: tblobaum 
 title: "Star Wars: How Padme Became Queen Of Naboo At Age 14"
 date: 2021-11-06 04:44:00 -0600
-categories: Navel 
-tags: Entertainment Nebraska Navel StarWars Padme Naboo 
+categories: Entertainment 
+tags: Nebraska Navel StarWars Padme Naboo 
 featured-image: naboo.jpg
 featured-image-alt: Naboo  
 dropcap: off
+featured: no 
+source: https://www.cbr.com/star-wars-padme-queen-naboo/
 ---
 NABOO– The question of how and why Star Wars’ Padmé Amidala could become a queen at fourteen is a little more complicated than you might think.
 
@@ -26,8 +28,3 @@ The overlap between Legends and canon lies mostly in Padmé’s rise to power. O
 Prior to Sanandrassa, the Queen of Naboo was Queen Réillata, who only served one of her two terms and ran for a second term after Padmé’s reign had ended. Queen’s Shadow by E.K. Johnston goes into more detail about the cultural implications of this, as Réillata was “running now as an older candidate than tradition dictated,” meaning that canonically, Naboo preferred to elect young girls as queens, making Padmé’s election not unusual. While in Legends, Padmé’s youth was almost a counter-reaction to the seasoned older king that Ars Veruna was, in Queen’s Shadow and subsequently Queen’s Peril, Padmé being a fourteen-year-old queen is presented as not out of the ordinary but expected.
 
 Regardless of Padmé’s youth at the time of her coronation, there is a constant thread between both Legends and canon material that proves Padmé ran and won on her own merit, even if favored by Palpatine. Before being queen, Padmé put the work in and trained in politics so that even as a young teen, she was prepared for the task ahead of her when elected. Padmé was so beloved as a queen that her people wanted to extend the two-term limit. But Padmé, a staunch believer in democracy, knew better than to push the boundaries of power. She was succeeded by Réillata in a fair election, and Padmé’s favored candidate, Jamillia, won the following election, cementing the chain of young women ruling Naboo.
-
-Source: CBR
-
-<a href="https://www.cbr.com/star-wars-padme-queen-naboo/" data-iframely-url></a>
-

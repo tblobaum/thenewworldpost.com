@@ -27,10 +27,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thenewworldpost.com" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-217839357-1 
 twitter_username: the_real_nwp
-github_username:  tblobaum
-instagram_username: blobaum 
+github_username:  tnwp
+instagram_username: thenewworldpost 
 rss: feed.xml
-author: tblobaum
+author: tnwp
 logo: /assets/images/logo-erbaum-dark.png
 fixed: false
 og_image: /assets/images/opengraph.png
@@ -56,7 +56,7 @@ plugins:
   - jekyll-seo-tag
   # - jekyll-news-sitemap
   - jekyll-sitemap
-  # - jekyll-github-metadata
+  - jekyll-github-metadata
   # - jekyll-spaceship
   - jekyll-octicons
   # - jekyll-timeago
@@ -69,7 +69,8 @@ collections:
   archives:
     output: true
     permalink: /archives/:path/
-
+  authors:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

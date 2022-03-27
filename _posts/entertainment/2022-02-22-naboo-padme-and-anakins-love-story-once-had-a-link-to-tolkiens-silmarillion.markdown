@@ -1,11 +1,15 @@
 ---
 layout: post
-author: Thomas James Blobaum 
-title:  "Padme and Anakin’s Love Story Once Had a Link To Tolkien’s Silmarillion"
-date:   2022-02-22 04:20:00 -0600
-categories: Nebraska Entertainment
+author: tblobaum
+title: "Padme and Anakin’s Love Story Once Had a Link To Tolkien’s Silmarillion"
+date: 2022-02-22 04:20:00 -0600
+categories: Entertainment
+tags: Nebraska
 featured-image: planet-naboo.jpg 
 featured-image-alt: Planet Naboo 
+dropcap: no
+featured: no 
+source: https://www.cbr.com/star-wars-padme-and-anakins-love-story-once-had-a-link-to-tolkiens-silmarillion/
 ---
 NABOO– Padmé and Anakin’s love story in Star Wars: Episode II – Attack of the Clones once had a small nod to another couple from Tolkien’s Silmarillion.
 
@@ -26,8 +30,4 @@ As previously stated, Veekhoven’s inspiration for Veré and Set was The Silmar
 “The Tale of Beren and Lúthien” essentially started with some bloodshed before the young man, Beren, son of Barahir, stumbled upon the beautiful and enchanting elf princess, Lúthien, singing and dancing in the forest. He fell in love with her immediately, and after finally catching up with her and explaining himself, she reciprocated. Unfortunately, due to the nature of both their existences (one a man, destined to die, and one an immortal elf), they faced some resistance in pursuing their relationship. Quite a bit happened in Beren’s quest to marry Lúthien, including, but not limited to, a jewel heist, Beren getting his hand chomped off and Lúthien bargaining away her own immortality to bring Beren back to life and to eventually share his fate of dying as a mortal.
 
 The parallels between the two couples are certainly there, from Beren and Anakin’s instant fixation to losing a hand and perhaps even the unfortunate Lúthien and Padmé’s willingness to die. Though there is no longer a canonical tie between Padmé and Anakin and Beren and Lúthien, the fact that they were drawn together to begin with is quite understandable. Both couples were meant to evoke the timeless idea of star-crossed lovers who were willing to overcome any obstacle to be with one another, even if it meant, in both cases, an inescapable death.
-
-Source: CBR
-
-<a href="https://www.cbr.com/star-wars-padme-and-anakins-love-story-once-had-a-link-to-tolkiens-silmarillion/" data-iframely-url></a>
 

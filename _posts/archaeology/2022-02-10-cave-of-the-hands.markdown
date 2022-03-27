@@ -1,9 +1,10 @@
 ---
 layout: post
-author: Thomas James Blobaum 
-title:  "Cave of the Hands"
-date:   2022-02-10 04:44:00 -0600
+author: tblobaum 
+title: "Cave of the Hands"
+date: 2022-02-10 04:44:00 -0600
 categories: Science 
+tags: Argentina 
 featured-image: cave-of-hands.jpg
 featured-image-alt: Cave of the Hands 
 ---

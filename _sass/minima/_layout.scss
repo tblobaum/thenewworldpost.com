@@ -1184,7 +1184,7 @@ footer .page-link {
 
 .post-container-box {
   position: relative;
-  left: -10px;
+  left: -35px;
 }
 
 
@@ -1278,6 +1278,11 @@ button.btn svg.icon-white {
   margin-right: 10px;
 }
 
+.page-content .box li {
+  flex: 250px; 
+  margin-right: 0px;
+}
+
 .page-content .post-thumb {
   max-width: 100%;
 }
@@ -1286,10 +1291,16 @@ iframe {
   border-radius: 6px;
 }
 
-
-
-
-
+h1.archives-header, 
+.bomb-text h1, 
+.bomb-text h2, 
+.bomb-text h3, 
+.bomb-text h4, 
+.bomb-text h5, 
+.bomb-text h6 {
+  margin: 0; 
+  margin-bottom: 10px; 
+}
 
 
 
